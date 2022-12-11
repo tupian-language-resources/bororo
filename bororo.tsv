@@ -1,165 +1,437 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	BORROWING	NOTE
 1	Bororo	AXE	paro	paro	p a r o	p a r o	1	1	AXE			
 2	Umutina	AXE	palo	palo	p a l o	p a l o	1	1	AXE			
+377	Otuke	CHICHA	tʃoro / iʃoro(ko) / iyoro(ku)	tʃoro	tʃ o r o	tʃ o r o	207	119	DRINK			
+378	Otuke	CHICHA	tʃoro / iʃoro(ko) / iyoro(ku)	iyoro	iyo r o	iyo r o	207	119	DRINK			
+379	Otuke	CHICHA	tʃoro / iʃoro(ko) / iyoro(ku)	iʃoro	i ʃ o r o	i ʃ o r o	207	119	DRINK			
+181	Bororo	FAECES (EXCREMENT)	pe	pe	p e	p e	148	149	FAECES			
+182	Bororo	BAD OR EVIL	pega	pega	p e g a	p e g a	150	150	BAD			
+183	Bororo	WATER	po	po	p o	p o	151	151	WATER			
 3	Bororo	WATER	po	po	p o	p o	2	2	WATER			
 4	Umutina	WATER	po	po	p o	p o	2	2	WATER			
+184	Bororo	RIVER	po	po	p o	p o	152	151	RIVER			
+185	Bororo	GOURD	poari	poari	p oa r i	p oa r i	153	152	GOURD			
+188	Bororo	GOURD	pogoga	pogoga	p o g o g a	p o g o g a	156	155	GOURD			
+186	Bororo	TWO	pobe	pobe	p o b e	p o b e	154	153	TWO			
+15	Bororo	TWO	pobe	pobe	p o b e	p o b e	8	8	TWO			
+16	Umutina	TWO	popi	popi	p o p i	p o p i	8	8	TWO			
+187	Bororo	PACU	pobu	pobu	p o b u	p o b u	155	154	PACU			
+189	Bororo	HOLE	poro	poro	p o r o	p o r o	157	156	HOLE			
+9	Bororo	HOLE	poro	poro	p o r o	p o r o	5	5	HOLE			
+10	Umutina	HOLE	podo	podo	p o d o	p o d o	5	5	HOLE			
+190	Bororo	PIERCE	porodo	porodo	p o r o d o	p o r o d o	158	157	PIERCE			
+191	Bororo	GILDED CATFISH	poru	poru	p o r u	p o r u	159	158	GILDED.CATFISH			
+192	Bororo	BONE	ra	ra	r a	r a	160	159	BONE			
+193	Bororo	NARRATE	readodo	readodo	r ea d o d o	r ea d o d o	161	160	NARRATE			
+194	Bororo	DANCE	reru	reru	r e r u	r e r u	162	161	DANCE			O
+195	Bororo	MANED WOLF	rie	rie	r ie	r ie	163	162	MANED.WOLF			
+196	Bororo	TINAMOU	riwodo	riwodo	r i w o d o	r i w o d o	164	163	TINAMOU			
+197	Bororo	MUD	rotu	rotu	r o t u	r o t u	165	164	MUD			O, A
+198	Bororo	FROG	ru	ru	r u	r u	166	165	FROG			A
+199	Bororo	CRAB	ruka	ruka	r u k a	r u k a	167	166	CRAB			O
 5	Bororo	RATTLE	bapo	bapo	b a p o	b a p o	3	3	RATTLE			
 6	Umutina	RATTLE	bapo	bapo	b a p o	b a p o	3	3	RATTLE			
 7	Bororo	PACA	apu	apu	a p u	a p u	4	4	PACA			
-8	Umutina	PACA	apu	apu	a p u	a p u	4	4	PACA			
-9	Bororo	HOLE	poro	poro	p o r o	p o r o	5	5	HOLE			
-10	Umutina	HOLE	podo	podo	p o d o	p o d o	5	5	HOLE			
+8	Umutina	PACA	apu / hapu	apu	a p u	a p u	4	4	PACA			
+232	Umutina	PACA	apu / hapu	hapu	h a p u	h a p u	4	4	PACA			S
 11	Bororo	HOWLER MONKEY	pai	pai	p a i	p a i	6	6	HOWLER.MONKEY			
 12	Umutina	HOWLER MONKEY	paju	paju	p a j u	p a j u	6	6	HOWLER MONKEY			
-13	Bororo	SMALL ANTEATER	apu	apu	a p u	a p u	7	7	SMALL.ANTEATER			
-14	Umutina	SMALL ANTEATER	apo	apo	a p o	a p o	7	7	SMALL ANTEATER			
-31	Bororo	SMALL ANTEATER	apogo	apogo	a p o g o	a p o g o	21	21	SMALL.ANTEATER			O
-15	Bororo	TWO	pobe	pobe	p o b e	p o b e	8	8	TWO			
-16	Umutina	TWO	popi	popi	p o p i	p o p i	8	8	TWO			
+180	Bororo	OSTRICH	pari	pari	p a r i	p a r i	149	148	OSTRICH			O
+13	Bororo	SMALL ANTEATER	apu	apu	a p u	a p u	7	7	?			
+14	Umutina	SMALL ANTEATER	apo	apo	a p o	a p o	7	7	?			S
+31	Bororo	SMALL ANTEATER	apogo	apogo	a p o g o	a p o g o	7	7	?			O
+230	Otuke	SQUIRREL	apohe / apoha	apohe	a p o h e	a p o h e	21	7	?			
+231	Otuke	SQUIRREL	apohe / apoha	apoha	a p o h a	a p o h a	21	7	?			
 17	Bororo	FACE	dʒe	dʒe	dʒ e	dʒ e	9	9	FACE			
+207	Otuke	FACE	itʃe	itʃe	i tʃ e	i tʃ e	9	9	FACE			
+208	Umutina	FACE	azeʔ	azeʔ	a z e ʔ	a z e ʔ	175	174	FACE			
 18	Bororo	SEED	a	a	a	a	10	10	SEED			
+209	Umutina	SEED	aka	aka	a k a	a k a	176	175	SEED			
 19	Bororo	YOU	a	a	a	a	11	11	YOU			
+210	Otuke	YOU	a	a	a	a	11	11	YOU			
+211	Umutina	YOU	ame / a	ame	a m e	a m e	11	11	YOU			
+212	Umutina	YOU	ame / a	a	a	a	11	11	YOU			S
 20	Bororo	COTTON	akigu	akigu	a k i g u	a k i g u	12	12	COTTON			
+213	Otuke	COTTON	akihu-mari	akihu-mari	a k i h u - m a r i	a k i h u - m a r i	12	12 176	COTTON ?			
 21	Bororo	PUMA	aigo	aigo	a i g o	a i g o	13	13	PUMA			
+214	Umutina	PUMA	aiku / aiko / ajko / aʔiko	aiku	ai k u	ai k u	13	13	PUMA			
+215	Umutina	PUMA	aiku / aiko / ajko / aʔiko	aiko	ai k o	ai k o	13	13	PUMA			
+216	Umutina	PUMA	aiku / aiko / ajko / aʔiko	ajko	a j k o	a j k o	13	13	PUMA			L
+217	Umutina	PUMA	aiku / aiko / ajko / aʔiko	aʔiko	a ʔ i k o	a ʔ i k o	13	13	PUMA			S
 22	Bororo	COLD	akɨ / akodo	akɨ	a k ɨ	a k ɨ	14	14	COLD			
 23	Bororo	COLD	akɨ / akodo	akodo	a k o d o	a k o d o	14	14	COLD			
+218	Umutina	COLD	aketo / bakieto / baketo	aketo	a k e t o	a k e t o	14	14	COLD			
+219	Umutina	COLD	aketo / bakieto / baketo	bakieto	b a k ie t o	b a k ie t o	14	14	COLD			S
+220	Umutina	COLD	aketo / bakieto / baketo	baketo	b a k e t o	b a k e t o	14	14	COLD			
 24	Bororo	LIVER	aka	aka	a k a	a k a	15	15	LIVER			
+221	Umutina	LIVER	ua / a	ua	ua	ua	177	177	LIVER			
+222	Umutina	LIVER	ua / a	a	a	a	177	177	LIVER			L, S
 25	Bororo	GOOD	amarew	amarew	a m a r e w	a m a r e w	16	16	GOOD			
+223	Umutina	GOOD	emaka	emaka	e m a k a	e m a k a	178	178	GOOD			
 26	Bororo	CAPYBARA	akiwa	akiwa	a k i w a	a k i w a	17	17	CAPYBARA			O
+224	Otuke	CAPYBARA	okiwia	okiwia	o k i w ia	o k i w ia	17	17	CAPYBARA			
 27	Bororo	WIND	akuru / bakuru	akuru	a k u r u	a k u r u	18	18	WIND			
 28	Bororo	WIND	akuru / bakuru	bakuru	b a k u r u	b a k u r u	18	18	WIND			O
+225	Otuke	WIND	hʷauru	hʷauru	hʷ au r u	hʷ au r u	18	18	WIND			
 29	Bororo	LIZARD	amema	amema	a m e m a	a m e m a	19	19	LIZARD			
+226	Otuke	LIZARD	mamasane	mamasane	m a m a s a n e	m a m a s a n e	179	179	LIZARD			
+227	Umutina	LIZARD	amema	amema	a m e m a	a m e m a	19	19	LIZARD			
 30	Bororo	HAIR	ao	ao	ao	ao	20	20	HAIR			
+228	Umutina	HAIR	azo	azo	a z o	a z o	20	20	HAIR			
+229	Umutina	HAIR	azu	azu	a z u	a z u	20	20	HAIR			S
 33	Bororo	PIRAPUTANGA	ararɨ	ararɨ	a r a r ɨ	a r a r ɨ	23	23	PIRAPUTANGA			‘BRYCON HILARII’
+233	Umutina	PIRAPUTANGA	alarekore / alɔrukɔre / alarikore	alarekore	a l a r e k o r e	a l a r e k o r e	23	23	PIRAPUTANGA			
+234	Umutina	PIRAPUTANGA	alarekore / alɔrukɔre / alarikore	alɔrukɔre	a l ɔ r u k ɔ r e	a l ɔ r u k ɔ r e	23	23	PIRAPUTANGA			L
+235	Umutina	PIRAPUTANGA	alarekore / alɔrukɔre / alarikore	alarikore	a l a r i k o r e	a l a r i k o r e	23	23	PIRAPUTANGA			S
 34	Bororo	MOON	ari	ari	a r i	a r i	24	24	MOON			
+236	Umutina	MOON	ari / ali	ari	a r i	a r i	24	24	MOON			
+237	Umutina	MOON	ari / ali	ali	a l i	a l i	24	24	MOON			
 35	Bororo	DOG	arigao	arigao	a r i g a o	a r i g a o	25	25	DOG			
+238	Umutina	DOG	arikau / harikaʔu	arikau	a r i k au	a r i k au	25	25	DOG			
+239	Umutina	DOG	arikau / harikaʔu	harikaʔu	h a r i k a ʔ u	h a r i k a ʔ u	25	25	DOG			S
 36	Bororo	LEAF	aru / raru	aru	a r u	a r u	26	26	LEAF			
 37	Bororo	LEAF	aru / raru	raru	r a r u	r a r u	26	26	LEAF			O
+240	Otuke	LEAF	rari	rari	r a r i	r a r i	26	26	LEAF			
 38	Bororo	WASP	atugue	atugue	a t u g u e	a t u g u e	27	27	WASP			A
+241	Otuke	WASP	ohue	ohue	o h ue	o h ue	27	27	WASP			
 39	Bororo	SHELL	atu	atu	a t u	a t u	28	28	SHELL			
 40	Bororo	SNAKE	awagɨ / awago	awagɨ	a w a g ɨ	a w a g ɨ	29	29	SNAKE			
 41	Bororo	SNAKE	awagɨ / awago	awago	a w a g o	a w a g o	29	29	SNAKE			A
+242	Otuke	SNAKE	ahʷako	ahʷako	a hʷ a k o	a hʷ a k o	29	29	SNAKE			
+243	Umutina	SNAKE	ebaki / embaki	ebaki	e b a k i	e b a k i	180	21	SNAKE			
+244	Umutina	SNAKE	ebaki / embaki	embaki	e m/b a k i	e m/b a k i	180	21	SNAKE			S
 42	Bororo	COATI (COATIMUNDI)	atoe / kudobo	atoe	a t o e	a t o e	30	30	COATI			
 43	Bororo	COATI (COATIMUNDI)	atoe / kudobo	kudobo	k u d o b o	k u d o b o	31	31	COATI			
+245	Umutina	COATI (COATIMUNDI)	utupu	utupu	u t u p u	u t u p u	181	180	COATI			
 44	Bororo	ROPE	bɨkigu	bɨkigu	b ɨ k i g u	b ɨ k i g u	32	32	ROPE			
+246	Umutina	ROPE	boiku	boiku	b oi k u	b oi k u	182	181	ROPE			
 45	Bororo	FOOT	bɨre	bɨre	b ɨ r e	b ɨ r e	33	33	FOOT			
+247	Umutina	FOOT	bure / ambure	bure	b u r e	b u r e	33	33	FOOT			
+248	Umutina	FOOT	bure / ambure	ambure	a m/b u r e	a m/b u r e	33	33	FOOT			S
 46	Bororo	RATTLE MADE OF PECCARI NAILS	bɨto re	bɨto re	b ɨ t o + r e	b ɨ t o + r e	34	34 49	RATTLE.MADE.OF.PECCARI.NAILS ?			
+249	Umutina	RATTLE MADE OF PECCARI NAILS	muto-mbure	muto-mbure	m u t o - m/b u r e	m u t o - m/b u r e	183	182 183	RATTLE.MADE.OF.PECCARI.NAILS ?			
 47	Bororo	EGG	ba	ba	b a	b a	35	35	EGG			
+250	Umutina	EGG	ba / mba	ba	b a	b a	35	35	EGG			L
+251	Umutina	EGG	ba / mba	mba	m/b a	m/b a	35	35	EGG			S
 48	Bororo	MOSQUITO	batʃe	batʃe	b a tʃ e	b a tʃ e	36	36	MOSQUITO			O
+252	Umutina	MOSQUITO	mbe / bai	mbe	m/b e	m/b e	185	185	MOSQUITO			
+253	Umutina	MOSQUITO	mbe / bai	bai	b ai	b ai	186	186	MOSQUITO			
+254	Otuke	MOSQUITO	mase	mase	m a s e	m a s e	184	184	MOSQUITO			
 49	Bororo	BOW	baiga / boeiga / tygo	baiga	b ai g a	b ai g a	37	37	BOW			O
 50	Bororo	BOW	baiga / boeiga / tygo	boeiga	b oei g a	b oei g a	37	37	BOW			A
 51	Bororo	BOW	baiga / boeiga / tygo	tygo	t y g o	t y g o	22	22	BOW			A, type of bamboo
+255	Otuke	BOW	wewika	wewika	w e w i k a	w e w i k a	37	37	BOW			1
+256	Umutina	BOW	boika	boika	b oi k a	b oi k a	37	37	BOW			
 52	Bororo	SPIDER	bakaigo	bakaigo	b a k ai g o	b a k ai g o	38	38	SPIDER			
+257	Umutina	SPIDER	bakajokɔrɛ	bakajokɔrɛ	b a k a j o k ɔ r ɛ	b a k a j o k ɔ r ɛ	38	38	SPIDER			L, 'small spider'
+258	Umutina	SPIDER	bakayukore	bakayukore	b a k ayu k o r e	b a k ayu k o r e	38	38	SPIDER			
 54	Bororo	HEART	bapo	bapo	b a p o	b a p o	40	40	HEART			
+259	Umutina	HEART	wapo	wapo	w a p o	w a p o	40	40	HEART			
 55	Bororo	SKY	baru	baru	b a r u	b a r u	41	41	SKY			O
+260	Otuke	SKY	hʷaru	hʷaru	hʷ a r u	hʷ a r u	41	41	SKY			
+261	Umutina	SKY	baroto	baroto	b a r o + t o	b a r o + t o	41	41 187	SKY ?			
 56	Bororo	HAMMOCK	buke	buke	b u k e	b u k e	42	42	HAMMOCK			
+262	Umutina	HAMMOCK	bukye	bukye	b u k ye	b u k ye	42	42	HAMMOCK			
 57	Bororo	SPEAK	batarɨ	batarɨ	b a t a r ɨ	b a t a r ɨ	43	43	SPEAK			
+263	Umutina	SPEAK	matare	matare	m a t a r e	m a t a r e	43	43	SPEAK			
 58	Bororo	MANGABA	bato	bato	b a t o	b a t o	44	44	MANGABA			
-59	Bororo	PITCH	berago	berago	b e r a g o	b e r a g o	45	45	PITCH			
+264	Umutina	MANGABA	batorukʷa	batorukʷa	b a t o + r u kʷ a	b a t o + r u kʷ a	44	44 188	MANGABA ?			
+59	Bororo	BREU (PROTIUM HEPTAPHYLLUM)	berago	berago	b e r a g o	b e r a g o	45	45	BREU			
+265	Umutina	BREU (PROTIUM HEPTAPHYLLUM)	melaku / menaku	menaku	m e n a k u	m e n a k u	187	189	BREU			
+266	Umutina	BREU (PROTIUM HEPTAPHYLLUM)	melaku / menaku	melaku	m e l a k u	m e l a k u	187	189	BREU			
 60	Bororo	BOIL	bere	bere	b e r e	b e r e	46	46	BOIL			
+267	Umutina	BOIL	bere	bere	b e r e	b e r e	46	46	BOIL			
 61	Bororo	DIE	bi	bi	b i	b i	47	47	DIE			
+268	Umutina	DIE	bia	bia	b ia	b ia	47	47	DIE			S
 62	Bororo	KILL	bito	bito	b i + t o	b i + t o	48	47 48	KILL			
 63	Bororo	EAR	bia	bia	b i a	b i a	50	50	EAR			
-64	Bororo	GENIPA	biei	biei	b iei	b iei	51	51	GENIPA			
+269	Umutina	EAR	bia / bja / mbia	mbia	m/b i a	m/b i a	50	50	EAR			S
+270	Umutina	EAR	bia / bja / mbia	bia	b i a	b i a	50	50	EAR			
+271	Umutina	EAR	bia / bja / mbia	bja	b j a	b j a	50	50	EAR			L
+64	Bororo	GENIPA TREE	biei	biei	b iei	b iei	51	51	GENIPA.TREE			
+272	Umutina	GENIPA TREE	bei	bei	b ei	b ei	51	51	GENIPA.TREE			
 65	Bororo	BARK OR SHELL	biri / iwiri	biri	b i r i	b i r i	52	52	BARK			
 66	Bororo	BARK OR SHELL	biri / iwiri	iwiri	i w i r i	i + w i r i	52	53 52	BARK			
+273	Otuke	BARK OR SHELL	irivi	irivi	i r i v i	i r i v i	188	190	BARK			
+274	Umutina	BARK OR SHELL	birika	birika	b i r i k a	b i r i k a	52	52	BARK			
 67	Bororo	BANANA	bako	bako	b a k o	b a k o	53	55	BANANA			
+275	Otuke	BANANA	aku	aku	a k u	a k u	53	55	BANANA			
 68	Bororo	BUTTERFLY	baragadu	baragadu	b a r a g a d u	b a r a g a d u	54	56	BUTTERFLY			
-69	Bororo	COCONUT	boio	boio	b oio	b oio	55	57	COCONUT			
+276	Umutina	BUTTERFLY	balatutu	balatutu	b a l a t u t u	b a l a t u t u	54	56	BUTTERFLY			
+69	Bororo	TUCUM	boio	boio	b oio	b oio	55	57	TUCUM			
+277	Umutina	TUCUM	bo / boyo	boyo	b oyo	b oyo	55	57	TUCUM			'tucum sprout'
+278	Umutina	TUCUM	bo / boyo	bo	b o	b o	55	57	TUCUM			
 70	Bororo	FIELD	boku	boku	b o k u	b o k u	56	58	FIELD			
+279	Umutina	FIELD	boku	boku	b o k u	b o k u	56	58	FIELD			S
 71	Bororo	THIGH	bopona	bopona	b o p o + n a	b o p o + n a	57	59 60	THIGH ?			
+280	Umutina	THIGH	bopo to	bopo to	b o p o + t o	b o p o + t o	57	59 191	THIGH ?			
+287	Bororo	THIGH	iviora	iviora	i v io r a	i v io r a	191	197	HEEL			
 72	Bororo	SCALE	boto	boto	b o t o	b o t o	58	61	SCALE			
+281	Umutina	SCALE	boto ka	boto ka	b o t o + k a	b o t o + k a	58	61 192	SCALE ?			
 73	Bororo	PEACH PALM	botora	botora	b o t o r a	b o t o r a	59	62	PEACH.PALM			
-74	Bororo	CANASTRA	botowɨ	botowɨ	b o t o w ɨ	b o t o w ɨ	60	63	CANASTRA			
+74	Bororo	ARMADILLO SP.	botowɨ / enokuri / bokodori / rea	botowɨ	b o t o w ɨ	b o t o w ɨ	60	63	ARMADILLO.SP.			
+97	Bororo	ARMADILLO SP.	botowɨ / enokuri / bokodori / rea	enokuri	e n o k u r i	e n o k u r i	78	81	ARMADILLO.SP.			A
+171	Bororo	ARMADILLO SP.	botowɨ / enokuri / bokodori / rea	bokodori	b o k o d o r i	b o k o d o r i	39	39	ARMADILLO.SP.			
+172	Bororo	ARMADILLO SP.	botowɨ / enokuri / bokodori / rea	rea	r ea	r ea	124	122	ARMADILLO.SP.			O
+282	Umutina	ARMADILLO SP.	boto mbure	boto mbure	b o t o + m/b u r e	b o t o + m/b u r e	189	193	ARMADILLO.SP.			
+173	Bororo	SORUBIM	orari	orari	o r a r i	o r a r i	132	125	SORUBIM			O, 'SPOTTED SORUBIM'
+417	Otuke	SORUBIM	orohʷari	orohʷari	o r o hʷ a r i	o r o hʷ a r i	132	125	SORUBIM			
+418	Otuke	SPOTTED SORUBIM					0					
+419	Otuke	DEER	waroa	waroa	w a r oa	w a r oa	216	233	DEER			
+174	Bororo	CAMPEIRO	ororgo	ororgo	o r o r g o	o r o r g o	142	142	CAMPEIRO			
+175	Bororo	RED BROCKET	pobogo	pobogo	p o b o g o	p o b o g o	143	143	RED.BROCKET			O
+176	Bororo	BEAK	oto	oto	o t o	o t o	144	144	BEAK			O
+177	Bororo	SALIVA	otoguru	otoguru	o t o g u r u	o t o g u r u	145	145	SALIVA			
+178	Bororo	LIE DOWN	pado	pado	p a d o	p a d o	146	146	LIE.DOWN			
+179	Bororo	FEAR (FRIGHT)	pagɨdɨ	pagɨdɨ	p a g ɨ d ɨ	p a g ɨ d ɨ	147	147	FEAR			
 75	Bororo	RAIN (PRECIPITATION)	bu	bu	b u	b u	61	64	RAIN			
+283	Umutina	RAIN (PRECIPITATION)	bo ino / bʷenɔ / boʔina	bo ino	b o + i n o	b o + i n o	61	64 194	RAIN			
+284	Umutina	RAIN (PRECIPITATION)	bo ino / bʷenɔ / boʔina	bʷenɔ	bʷ e n ɔ	bʷ e n ɔ	61	195	RAIN			L
+285	Umutina	RAIN (PRECIPITATION)	bo ino / bʷenɔ / boʔina	boʔina	b o ʔ i n a	b o ʔ i n a	61	196	RAIN			S
 76	Bororo	HEEL	bureado	bureado	b u r e a d o	b u r e a d o	62	65	HEEL			O
+286	Otuke	HEEL	iwiaroto	iwiaroto	i w ia r o t o	i w ia r o t o	190	197	HEEL			
 77	Bororo	ELBOW	iwiywra	iwiywra	i w i y w r a	i w i y w r a	63	66	ELBOW			
-78	Bororo	CASHEW	dʒatugo	dʒatugo	dʒ a t u g o	dʒ a t u g o	64	67	CASHEW			
+78	Bororo	CAJA	dʒatugo	dʒatugo	dʒ a t u g o	dʒ a t u g o	64	67	CAJA			
+288	Umutina	CAJA	zatuku	zatuku	z a t u k u	z a t u k u	64	67	CAJA			
 79	Bororo	PIABA-AÇU	dʒatugugo	dʒatugugo	dʒ a t u g u g o	dʒ a t u g u g o	65	68	PIABA-AÇU			
+289	Umutina	PIABA-AÇU	zatuku	zatuku	z a t u k u	z a t u k u	65	68	PIABA-AÇU			S
 80	Bororo	COLLARED PECCARY	dʒoi	dʒoi	dʒ oi	dʒ oi	66	69	COLLARED.PECCARY			
-81	Bororo	PORTION	dʒugo	dʒugo	dʒ u g o	dʒ u g o	67	70	PORTION			
+290	Umutina	COLLARED PECCARY	joa / ʒao	joa	j oa	j oa	66	69	COLLARED.PECCARY			
+291	Umutina	COLLARED PECCARY	joa / ʒao	ʒao	ʒ ao	ʒ ao	66	69	COLLARED.PECCARY			
+292	Bororo	PECCARY	ʃao	ʃao	ʃ ao	ʃ ao	192	198	PECCARY			
+81	Bororo	PECCARY	dʒugo	dʒugo	dʒ u g o	dʒ u g o	67	70	PECCARY			
 82	Bororo	SMOKE (EXHAUST)	dʒorɨdɨdɨ	dʒorɨdɨdɨ	dʒ o r ɨ d ɨ d ɨ	dʒ o r ɨ d ɨ d ɨ	68	71	SMOKE			
-83	Bororo	LIGHT FIRE	dʒorɨto	dʒorɨto	dʒ o r ɨ t o	dʒ o r ɨ t o	69	72	LIGHT			
+293	Umutina	SMOKE (EXHAUST)	zorixixi / zoritʃitʃi	zorixixi	z o r i x i x i	z o r i x i x i	68	71	SMOKE			
+294	Umutina	SMOKE (EXHAUST)	zorixixi / zoritʃitʃi	zoritʃitʃi	z o r i tʃ i tʃ i	z o r i tʃ i tʃ i	68	71	SMOKE			S
+83	Bororo	(TO) LIGHT FIRE	dʒorɨto	dʒorɨto	dʒ o r ɨ t o	dʒ o r ɨ t o	69	72	LIGHT			
+295	Umutina	(TO) LIGHT FIRE	zorututo	zorututo	z o r u t u t o	z o r u t u t o	69	72	LIGHT			
+204	Bororo	HORSEFLY	toguare	toguare	t o g ua r e	t o g ua r e	172	171	HORSEFLY			
+205	Bororo	STONE	tori	tori	t o r i	t o r i	173	172	STONE			A
+206	Bororo	DUCK	turubare	turubare	t u r u b a r e	t u r u b a r e	174	173	DUCK			O
+200	Bororo	SNAIL	ruwo	ruwo	r u w o	r u w o	168	167	SNAIL			
+202	Bororo	HORNED SCREAMER SP.	tamigi	tamigi	t a m i g i	t a m i g i	170	169	HORNED.SCREAMER.SP.			
+203	Bororo	ASTYANAX FISH	tubore	tubore	t u b o r e	t u b o r e	171	170	ASTYANAX.FISH			
 84	Bororo	TURTLE	dʒorigige	dʒorigige	dʒ o r i g i g e	dʒ o r i g i g e	70	73	TURTLE			Steinen
+296	Otuke	TURTLE	rerikeke / zerikiki	zerikiki	z e r i k i k i	z e r i k i k i	70	73	TURTLE			Kovareka
+297	Otuke	TURTLE	rerikeke / zerikiki	rerikeke	r e r i k e k e	r e r i k e k e	70	73	TURTLE			
+298	Umutina	TURTLE	serikiki	serikiki	s e r i k i k i	s e r i k i k i	70	73	TURTLE			
 85	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	dʒoru	dʒ o r u	dʒ o r u	71	74	FIRE			O
 86	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	eru	e r u	e r u	71	74	FIRE			
 87	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	oru	o r u	o r u	71	74	FIRE			
 88	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	ru	r u	r u	71	74	FIRE			
 89	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	rugadu	r u g a d u	r u g a d u	71	74	FIRE			A
+299	Otuke	FIRE	reru	reru	r e r u	r e r u	71	74	FIRE			
+300	Umutina	FIRE	zoru	zoru	z o r u	z o r u	71	74	FIRE			
 90	Bororo	ASH	dʒorugudo	dʒorugudo	dʒ o r u g u d o	dʒ o r u g u d o	72	75	ASH			
+301	Umutina	ASH	zorotu / zorutu	zorotu	z o r o t u	z o r o t u	72	75	ASH			
+302	Umutina	ASH	zorotu / zorutu	zorutu	z o r u t u	z o r u t u	72	75	ASH			S
 91	Bororo	MANIOC	dʒu / dʒurew	dʒu	dʒ u	dʒ u	73	76	MANIOC			
 92	Bororo	MANIOC	dʒu / dʒurew	dʒurew	dʒ u r e w	dʒ u r e w	73	76	MANIOC			
+303	Otuke	MANIOC	tʃuhu	tʃuhu	tʃ u h u	tʃ u h u	73	76	MANIOC			
 93	Bororo	BACK	dʒura	dʒura	dʒ u r a	dʒ u r a	74	77	BACK			
+304	Otuke	BACK	itʃura	itʃura	i tʃ u r a	i tʃ u r a	74	77	BACK			
+305	Umutina	BACK	julaka / ʒudaka	julaka	j u l a + k a	j u l a + k a	74	77 199	BACK ?			
+306	Umutina	BACK	julaka / ʒudaka	ʒudaka	ʒ u d a + k a	ʒ u d a + k a	74	77 199	BACK ?			
 94	Bororo	ANACONDA (WATER BOA)	dʒure	dʒure	dʒ u r e	dʒ u r e	75	78	ANACONDA			
+307	Umutina	ANACONDA (WATER BOA)	jure / ʒurɛ	jure	j u r e	j u r e	75	78	ANACONDA			S
+308	Umutina	ANACONDA (WATER BOA)	jure / ʒurɛ	ʒurɛ	ʒ u r ɛ	ʒ u r ɛ	75	78	ANACONDA			L
 95	Bororo	NOSE	eno	eno	e n o	e n o	76	79	NOSE			
+309	Otuke	NOSE	iʃeno	iʃeno	i + ʃ e n o	i + ʃ e n o	76	200 79	? NOSE			
 96	Bororo	YELLOW	ekɨ	ekɨ	e k ɨ	e k ɨ	77	80	YELLOW			
-97	Bororo	ARMADILLO	enokuri	enokuri	e n o k u r i	e n o k u r i	78	81	ARMADILLO			A
+310	Umutina	YELLOW	iku	iku	i k u	i k u	77	80	YELLOW			
+311	Otuke	RAT	enohʷari	enohʷari	e n o hʷ a r i	e n o hʷ a r i	193	201	RAT			
+312	Otuke	OPOSSUM SP.	enohʷari	enohʷari	e n o hʷ a r i	e n o hʷ a r i	194	201	RAT			
 98	Bororo	JARARACUSSU	etari	etari	e t a r i	e t a r i	79	82	JARARACUSSU			
+313	Umutina	JARARACUSSU	etari	etari	e t a r i	e t a r i	79	82	JARARACUSSU			
 99	Bororo	TREE	i	i	i	i	80	83	TREE			
+314	Umutina	TREE	i	i	i	i	80	83	TREE			
 100	Bororo	MOUTH	ia	ia	ia	ia	81	84	MOUTH			
+315	Umutina	MOUTH	oza	oza	o + z a	o + z a	195	202 203	? ?			
 101	Bororo	I	imi	imi	i m i	i m i	82	85	I			
+316	Umutina	I	imi	imi	i m i	i m i	82	85	I			L, S
 102	Bororo	BROTHER-IN-LAW	inodou	inodou	i n o d ou	i n o d ou	83	86	BROTHER-IN-LAW			CA
+317	Umutina	BROTHER-IN-LAW	inoto	inoto	i n o t o	i n o t o	83	86	BROTHER-IN-LAW			'wife's brother'
 103	Bororo	FINGERNAIL	inogi	inogi	i n o g i	i n o g i	84	87	FINGERNAIL			
+318	Umutina	FINGERNAIL	hino	hino	h i n o	h i n o	196	204	?			
+319	Umutina	NAIL	ina / inɔ	inɔ	i n ɔ	i n ɔ	196	204	?			L
+320	Umutina	NAIL	ina / inɔ	ina	i n a	i n a	196	204	?			S
 104	Bororo	OTTER	ipie	ipie	i p ie	i p ie	85	88	OTTER			
+321	Umutina	OTTER	ipekozitabu / ipe	ipekozitabu	i p e + k o z i t a b u	i p e + k o z i t a b u	85	88 205	OTTER ?			
+322	Umutina	OTTER	ipekozitabu / ipe	ipe	i p e	i p e	85	88	OTTER			S
 105	Bororo	WOOD	ipo	ipo	i p o	i p o	86	89	WOOD			
-106	Bororo	SPIKE	ira	ira	i r a	i r a	87	90	SPIKE			
-107	Bororo	FLOWER OF YELLOW PIUVA	iru	iru	i r u	i r u	88	91	FLOWER.OF.YELLOW.PIUVA			
-108	Bororo	YELLOW PIUVA	irui	irui	i r u i	i r u i	89	91 92	YELLOW.PIUVA			
+323	Umutina	WOOD	ipu	ipu	i p u	i p u	86	89	WOOD			
+106	Bororo	COB	ira	ira	i r a	i r a	87	90	COB			
+324	Umutina	COB	ilaka	ilaka	i l a + k a	i l a + k a	87	90 206	COB ?			
+107	Bororo	PIUVA	iru	iru	i r u	i r u	88	91	PIUVA			'yellow piuva'
+325	Umutina	PIUVA	huri	huri	h u r i	h u r i	197	207	PIUVA			
 109	Bororo	IGUANA	irui	irui	i r u i	i r u i	90	93	IGUANA			
+326	Umutina	IGUANA	hiribe / heribe	hiribe	h i r i + b e	h i r i + b e	198	208 209	? ?			
+327	Umutina	IGUANA	hiribe / heribe	heribe	h e r i + b e	h e r i + b e	198	208 209	? ?			
 110	Bororo	FOREST	itura	itura	i t u r a	i t u r a	91	94	FOREST			A
+328	Otuke	FOREST	itura	itura	i t u r a	i t u r a	91	94	FOREST			
+329	Umutina	FOREST	iʃula	iʃula	i ʃ u l a	i ʃ u l a	91	94	FOREST			
+330	Otuke	SOLE	iwire e gua	iwire e gua	i w i r e + e + g ua	i w i r e + e + g ua	199	210 211 212	? ? ?			
 111	Bororo	HEDGEHOG	iwe	iwe	i w e	i w e	92	95	HEDGEHOG			
+331	Umutina	HEDGEHOG	hibe	hibe	h i b e	h i b e	92	95	HEDGEHOG			L
 112	Bororo	PENIS	baka	baka	b a k a	b a k a	93	96	PENIS			A
+332	Umutina	PENIS	mainokua	mainokua	m ai n o k ua	m ai n o k ua	200	213	PENIS			
 113	Bororo	HOUSE	iwaj / baj	iwaj	i w a j	i w a j	94	97	HOUSE			C
 114	Bororo	HOUSE	iwaj / baj	baj	b a j	b a j	94	97	HOUSE			O
+333	Otuke	HOUSE	hwalʔa	hwalʔa	h w a l ʔ a	h w a l ʔ a	201	214	HOUSE			
 115	Bororo	TERMITE	kumo	kumo	k u m o	k u m o	95	98	TERMITE			
+334	Otuke	TERMITE	kaymo	kaymo	k ay m o	k ay m o	95	98	TERMITE			
 116	Bororo	SAND	kɨgarɨ	kɨgarɨ	k ɨ g a r ɨ	k ɨ g a r ɨ	96	99	SAND			
+335	Umutina	SAND	xoare / xuari	xoare	x oa r e	x oa r e	202	215	SAND			
+336	Umutina	SAND	xoare / xuari	xuari	x ua r i	x ua r i	202	215	SAND			
 117	Bororo	BAMBOO	kado	kado	k a d o	k a d o	97	100	BAMBOO			
-118	Bororo	CUT	kado	kado	k a d o	k a d o	98	101	CUT			
+337	Umutina	BAMBOO	katape	katape	k a t a + p e	k a t a + p e	97	100 216	BAMBOO ?			
+118	Bororo	CUT	kado	kado	k a d o	k a d o	98	101	?			
+338	Umutina	CUT	hato	hato	h a t o	h a t o	98	101	?			
+339	Umutina	BREAK (BREAKING)	hatɔ	hatɔ	h a t ɔ	h a t ɔ	203	101	?			
 119	Bororo	KINGFISHER	kadomo	kadomo	k a d o m o	k a d o m o	99	102	KINGFISHER			
+340	Umutina	KINGFISHER	katamã	katamã	k a t a m ã	k a t a m ã	99	102	KINGFISHER			
 120	Bororo	PESTLE	kaia	kaia	k a ia	k a ia	100	103	PESTLE			
+341	Umutina	PESTLE	kayakopo / kazokupo	kayakopo	k a ya + k o p o	k a ya + k o p o	100	103 217	PESTLE ?			
+342	Umutina	PESTLE	kayakopo / kazokupo	kazokupo	k a z o + k u p o	k a z o + k u p o	204	218 219	? ?			
 121	Bororo	FISH	kare	kare	k a r e	k a r e	101	104	FISH			
+343	Umutina	FISH	hare	hare	h a r e	h a r e	101	104	FISH			
+344	Otuke	FISH	aharo	aharo	a h a r o	a h a r o	101	104	FISH			
 122	Bororo	BAT	ke	ke	k e	k e	102	105	BAT			A
+345	Otuke	BAT	ketari	ketari	k e t a r i	k e t a r i	102	105	BAT			
+346	Otuke	BAT					0					
+347	Otuke	BAT					0					
+348	Umutina	BAT	kie	kie	k ie	k ie	102	105	BAT			
 123	Bororo	ARM	kera	kera	k e r a	k e r a	103	106	ARM			
+349	Otuke	ARM	keara	keara	k ea r a	k ea r a	103	106	ARM			
+350	Otuke	ARM					0					
+351	Umutina	ARM	itʃe	itʃe	i tʃ e	i tʃ e	205	220	ARM			
 124	Bororo	TAPIR	ki	ki	k i	k i	104	107	TAPIR			
+352	Umutina	TAPIR	kui / koʔi	kui	k ui	k ui	104	107	TAPIR			
+353	Umutina	TAPIR	kui / koʔi	koʔi	k o ʔ i	k o ʔ i	104	107	TAPIR			
 125	Bororo	DRY	ki	ki	k i	k i	105	108	DRY			
-126	Bororo	SMALL PARAKEET	kida	kida	k i d a	k i d a	106	109	SMALL.PARAKEET			
-127	Bororo	PARAKEET VASSOURINHA	kido	kido	k i d o	k i d o	107	109	PARAKEET.VASSOURINHA			O
-128	Bororo	HORN (ANATOMY)	kiga	kiga	k i g a	k i g a	108	110	HORN (ANATOMY)			O
+354	Umutina	DRY	ki / kyi	ki	k i	k i	105	108	DRY			
+355	Umutina	DRY	ki / kyi	kyi	k yi	k yi	105	108	DRY			
+126	Bororo	PARAKEET	kida	kida	k i d a	k i d a	106	109	PARAKEET			parakeet sp.
+127	Bororo	PARAKEET	kido	kido	k i d o	k i d o	106	109	PARAKEET			O, parakeet sp.
+356	Otuke	PARAKEET	kitio	kitio	k i t io	k i t io	106	109	PARAKEET			
+358	Umutina	PARAKEET	kixo / kiso	kixo	k i x o	k i x o	106	109	PARAKEET			
+359	Umutina	PARAKEET	kixo / kiso	kiso	k i s o	k i s o	106	109	PARAKEET			S
+357	Otuke	PARAKEET SP.					0					
+128	Bororo	HORN (ANATOMY)	kiga	kiga	k i g a	k i g a	108	110	HORN			O
+360	Otuke	HORN (ANATOMY)	ukikʷa	ukikʷa	u k i kʷ a	u k i kʷ a	108	110	HORN			
 129	Bororo	WHITE	kigadu	kigadu	k i g a d u	k i g a d u	109	111	WHITE			
+361	Umutina	WHITE	kikoto / akɨkoto	kikoto	k i k o t o	k i k o t o	109	111	WHITE			
+362	Umutina	WHITE	kikoto / akɨkoto	akɨkoto	a k ɨ k o t o	a k ɨ k o t o	109	111	WHITE			L
 130	Bororo	EAT	ko	ko	k o	k o	110	112	EAT			
+363	Umutina	EAT	ho	ho	h o	h o	110	112	EAT			
 131	Bororo	NECK	ko / iko	ko	k o	k o	111	113	NECK			
 132	Bororo	NECK	ko / iko	iko	i k o	i k o	111	113	NECK			A
+364	Otuke	NECK	ikio	ikio	i k io	i k io	111	113	NECK			
+365	Otuke	NECK					0					
+366	Umutina	THROAT	ku(po)	ku	k u	k u	107	113	NECK			
 133	Bororo	FLESH OR MEAT	kodɨ	kodɨ	k o d ɨ	k o d ɨ	112	114	MEAT			
+367	Umutina	FLESH OR MEAT	kotyka / katika	kotyka	k o t y + k a	k o t y + k a	112	114 221	MEAT ?			
+368	Umutina	FLESH OR MEAT	kotyka / katika	katika	k a t i + k a	k a t i + k a	112	114 221	MEAT ?			S
 134	Bororo	COUGH	kodʒari	kodʒari	k o dʒ a r i	k o dʒ a r i	113	115	COUGH			
+369	Umutina	COUGH	koyakore	koyakore	k o ya + k o r e	k o ya + k o r e	206	222 223	? ?			
 135	Bororo	BLOOD	ku	ku	k u	k u	114	116	BLOOD			
+370	Umutina	BLOOD	ko	ko	k o	k o	114	116	BLOOD			
 136	Bororo	FLOWER	ku / kʷo / oku / okureboe	ku	k u	k u	115	117	FLOWER			
 137	Bororo	FLOWER	ku / kʷo / oku / okureboe	kʷo	kʷ o	kʷ o	115	117	FLOWER			A
 138	Bororo	FLOWER	ku / kʷo / oku / okureboe	oku	o k u	o k u	115	117	FLOWER			
 139	Bororo	FLOWER	ku / kʷo / oku / okureboe	okureboe	o k u r e b oe	o k u r e b oe	115	117	FLOWER			O
-140	Bororo	RED HOWLER	(pai) kujagu	kujagu	k u j a g u	k u j a g u	116	118	RED.HOWLER			
+371	Umutina	FLOWER	iku	iku	i k u	i k u	115	117	FLOWER			
+140	Bororo	RED HOWLER MONKEY	(pai) kujagu	kujagu	k u j a g u	k u j a g u	116	118	RED.HOWLER.MONKEY			
+372	Umutina	RED HOWLER MONKEY	kutʃaku	kutʃaku	k u t ʃ a k u	k u t ʃ a k u	116	118	RED.HOWLER.MONKEY			
 141	Bororo	DRINK	kudu	kudu	k u d u	k u d u	117	119	DRINK			
+373	Umutina	DRINK	kuta / akuta	kuta	k u t a	k u t a	117	119	DRINK			
+374	Umutina	DRINK	kuta / akuta	akuta	a k u t a	a k u t a	117	119	DRINK			
+380	Umutina	CHICHA	zuluʔ rukwa	zuluʔ rukwa	z u l u ʔ + r u k w a	z u l u ʔ + r u k w a	117	119 225	DRINK ?			'manioc drink'
 142	Bororo	BEVERAGE	ku	ku	k u	k u	118	119	BEVERAGE			A
 145	Bororo	BEVERAGE	kuru	kuru	k u r u	k u r u	121	119	BEVERAGE			
-143	Bororo	GREEN MACAW	kuido	kuido	k u i d o	k u i d o	119	120	GREEN.MACAW			
+143	Bororo	RED-AND-GREEN MACAW (Ara chloropterus)	kuido	kuido	k u i d o	k u i d o	119	120	RED-AND-GREEN.MACAW			
+375	Umutina	RED-AND-GREEN MACAW (Ara chloropterus)	hujʃo	hujʃo	h u j ʃ o	h u j ʃ o	119	120	RED-AND-GREEN.MACAW			
 144	Bororo	SWIM	kuru	kuru	k u r u	k u r u	120	121	SWIM			
+376	Umutina	SWIM	oru pu	oru pu	o r u + p u	o r u + p u	120	121 224	SWIM ?			
 146	Bororo	LAKE	kuruga	kuruga	k u r u g a	k u r u g a	122	123	LAKE			
+381	Umutina	LAKE	urukʷa	urukʷa	u r u kʷ a	u r u kʷ a	122	123	LAKE			
 147	Bororo	MOTHER	mɨga	mɨga	m ɨ g a	m ɨ g a	123	124	MOTHER			
-148	Bororo	MACAO	makao	makao	m a k a o	m a k a o	124	125	MACAO			
+382	Umutina	MOTHER	mako / imako	mako	m a k o	m a k o	208	226	MOTHER			
+383	Umutina	MOTHER	mako / imako	imako	i m a k o	i m a k o	208	226	MOTHER			S
 149	Bororo	OLDER BROTHER	mana	mana	m a n a	m a n a	125	126	OLDER.BROTHER			
+384	Umutina	OLDER BROTHER	amana / amala	amana	a m a n a	a m a n a	125	126	OLDER.BROTHER			
+385	Umutina	OLDER BROTHER	amana / amala	amala	a m a l a	a m a l a	125	126	OLDER.BROTHER			L
+166	Bororo	TAIL	o	o	o	o	141	141	TAIL			
+413	Umutina	TAIL	o	o	o	o	141	141	TAIL			S
 150	Bororo	BURITI	mano	mano	m a n o	m a n o	126	127	BURITI			
+386	Umutina	BURITI	mano / manazokua	mano	m a n o	m a n o	126	127	BURITI			
+387	Umutina	BURITI	mano / manazokua	manazokua	m a n a z o k ua	m a n a z o k ua	126	127	BURITI			S
 151	Bororo	AGOUTI	mea	mea	m e a	m e a	127	128	AGOUTI			A
-152	Bororo	WALK	merɨ	merɨ	m e r ɨ	m e r ɨ	128	129	WALK			
-156	Bororo	WALK	meru	meru	m e r u	m e r u	128	129	WALK			
+388	Otuke	AGOUTI	neda	neda	n e d a	n e d a	127	128	AGOUTI			
+389	Otuke	AGOUTI					0					
+390	Umutina	AGOUTI	mea	mea	m e a	m e a	127	128	AGOUTI			
+152	Bororo	WALK	merɨ / meru	merɨ	m e r ɨ	m e r ɨ	128	129	WALK			
+156	Bororo	WALK	merɨ / meru	meru	m e r u	m e r u	128	129	WALK			
+391	Umutina	WALK	amenu / iminu	amenu	a m e n u	a m e n u	128	129	WALK			
+392	Umutina	WALK	amenu / iminu	iminu	i m i n u	i m i n u	128	129	WALK			L
 153	Bororo	SUN	meri	meri	m e r i	m e r i	129	130	SUN			
+393	Otuke	SUN	neri	neri	n e r i	n e r i	129	130	SUN			
+394	Otuke	SUN					0					
+395	Umutina	SUN	mini / mejni / meni	mini	m i n i	m i n i	129	130	SUN			
+396	Umutina	SUN	mini / mejni / meni	mejni	m e j n i	m e j n i	129	130	SUN			I
+397	Umutina	SUN	mini / mejni / meni	meni	m e n i	m e n i	129	130	SUN			S
 154	Bororo	STINGRAY	meru	meru	m e r u	m e r u	130	131	STINGRAY			
+398	Otuke	STINGRAY	menu	menu	m e n u	m e n u	130	131	STINGRAY			
 155	Bororo	IRON	meriri	meriri	m e r i r i	m e r i r i	131	132	IRON			O, A
+399	Otuke	IRON	neheri	neheri	n e h e r i	n e h e r i	131	132	IRON			
 157	Bororo	PATH OR ROAD	meru	meru	m e r u	m e r u	133	133	ROAD			
 158	Bororo	DOVE	metugo	metugo	m e t u g o	m e t u g o	134	134	DOVE			
+400	Umutina	DOVE	umitu / mitu	umitu	u m i t u	u m i t u	134	134	DOVE			
+401	Umutina	DOVE	umitu / mitu	mitu	m i t u	m i t u	134	134	DOVE			
 159	Bororo	EARTH OR LAND	moto	moto	m o t o	m o t o	135	135	EARTH			O
+402	Otuke	EARTH OR LAND	moktuhu	moktuhu	m o k t u h u	m o k t u h u	209	227	EARTH			
+403	Umutina	EARTH OR LAND	moto	moto	m o t o	m o t o	135	135	EARTH			
 160	Bororo	RED MACAW	nabure	nabure	n a b u r e	n a b u r e	136	136	RED.MACAW			
+404	Umutina	RED MACAW	alapore / alapure	alapore	a l a p o r e	a l a p o r e	210	228	RED.MACAW			
+405	Umutina	RED MACAW	alapore / alapure	alapure	a l a p u r e	a l a p u r e	210	228	RED.MACAW			S
 161	Bororo	BABAÇU (Attalea speciosa)	no	no	n o	n o	137	137	BABAÇU			
+406	Umutina	BABAÇU (Attalea speciosa)	no	no	n o	n o	137	137	BABAÇU			
+407	Umutina	BABAÇU (Attalea speciosa)	nojʃuka	nojʃuka	n o j ʃ u k a	n o j ʃ u k a	211	229	BABAÇU			L
 162	Bororo	ACHIOTE	nonogo	nonogo	n o n o g o	n o n o g o	138	138	ACHIOTE			
+408	Umutina	ACHIOTE	nonokʷa / nolukʷa	nonokʷa	n o n o kʷ a	n o n o kʷ a	212	230	ACHIOTE			
+409	Umutina	ACHIOTE	nonokʷa / nolukʷa	nolukʷa	n o l u kʷ a	n o l u kʷ a	212	230	ACHIOTE			L
+201	Bororo	ARROW	tɨgo	tɨgo	t ɨ g o	t ɨ g o	169	168	ARROW			
 163	Bororo	SLEEP (STATE)	nori	nori	n o r i	n o r i	139	139	SLEEP			
+410	Umutina	SLEEP (STATE)	unori	unori	u n o r i	u n o r i	139	139	SLEEP			
 164	Bororo	SLEEP	nudu / nududu	nudu	n u d u	n u d u	140	140	TO.SLEEP			O
 165	Bororo	SLEEP	nudu / nududu	nududu	n u d u d u	n u d u d u	140	140	TO.SLEEP			
-166	Bororo	TAIL	o	o	o	o	141	141	TAIL			
+411	Otuke	SLEEP	anutake	anutake	a n u t a k e	a n u t a k e	213	231	TO.SLEEP			
+412	Umutina	SLEEP	notu	notu	n o t u	n o t u	140	140	TO.SLEEP			
+168	Bororo	FOX	okʷa	okʷa	o kʷ a	o kʷ a	49	54	FOX			A
+414	Otuke	FOX	oka	oka	o k a	o k a	49	54	FOX			
+415	Umutina	FOX	akakonoʔ	akakonoʔ	a k a k o n o ʔ	a k a k o n o ʔ	214	232	FOX			
+169	Bororo	ARMADILLO	okʷaru / waru	okʷaru	o kʷ a r u	o kʷ a r u	89	92	ARMADILLO			
+170	Bororo	ARMADILLO	okʷaru / waru	waru	w a r u	w a r u	89	92	ARMADILLO			
+416	Bororo	ARMADILLO	ohʷaru	ohʷaru	o hʷ a r u	o hʷ a r u	89	92	ARMADILLO			
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@pinyin=CHINESE
+#@css=menu:show|database:hide
+#@basics=ALIGNMENT|COGID|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|TOKENS|VALUE
+#@_selected_doculects=Bororo|Umutina
+#@_selected_concepts=SPOTTED SORUBIM
+#@sorted_taxa=Bororo|Umutina
+#@sorted_concepts=AXE|FAECES (EXCREMENT)|BAD OR EVIL|WATER|RIVER|GOURD|TWO|PACU|HOLE|PIERCE|GILDED CATFISH|BONE|NARRATE|DANCE|MANED WOLF|TINAMOU|MUD|FROG|CRAB|RATTLE|PACA|HOWLER MONKEY|OSTRICH|SMALL ANTEATER|FACE|SEED|YOU|COTTON|PUMA|COLD|LIVER|GOOD|CAPYBARA|WIND|LIZARD|HAIR|PIRAPUTANGA|MOON|DOG|LEAF|WASP|SHELL|SNAKE|COATI (COATIMUNDI)|ROPE|FOOT|RATTLE MADE OF PECCARI NAILS|EGG|MOSQUITO|BOW|SPIDER|HEART|SKY|HAMMOCK|SPEAK|MANGABA|BREU (PROTIUM HEPTAPHYLLUM)|BOIL|DIE|KILL|EAR|GENIPA TREE|BARK OR SHELL|BANANA|BUTTERFLY|TUCUM|FIELD|THIGH|SCALE|PEACH PALM|ARMADILLO SP.|SPOTTED SORUBIM|CAMPEIRO|RED BROCKET|BEAK|SALIVA|LIE DOWN|FEAR (FRIGHT)|RAIN (PRECIPITATION)|HEEL|ELBOW|CAJA|PIABA-AÇU|PECCARY|PORTION|SMOKE (EXHAUST)|(TO) LIGHT FIRE|HORSEFLY|STONE|DUCK|SNAIL|HORNED SCREAMER SP.|ASTYANAX FISH|TURTLE|FIRE|ASH|MANIOC|BACK|ANACONDA (WATER BOA)|NOSE|YELLOW|JARARACUSSU|TREE|MOUTH|I|BROTHER-IN-LAW|FINGERNAIL|OTTER|WOOD|COB|YELLOW PIUVA|IGUANA|FOREST|HEDGEHOG|PENIS|HOUSE|TERMITE|SAND|BAMBOO|CUT|KINGFISHER|PESTLE|FISH|BAT|ARM|TAPIR|DRY|PARAKEET SP.|HORN (ANATOMY)|WHITE|EAT|NECK|FLESH OR MEAT|COUGH|BLOOD|FLOWER|RED HOWLER MONKEY|DRINK|BEVERAGE|RED-AND-GREEN MACAW (Ara chloropterus)|SWIM|LAKE|MOTHER|OLDER BROTHER|TAIL|BURITI|AGOUTI|WALK|SUN|STINGRAY|IRON|PATH OR ROAD|DOVE|EARTH OR LAND|RED MACAW|BABAÇU (Attalea speciosa)|ACHIOTE|ARROW|SLEEP (STATE)|SLEEP|FOX|ARMADILLO
+#@display=filedisplay
+#@missing_marker=Ø
+#@separator=
+#@gap_marker=-
+#@formatter=COGID
+#@root_formatter=COGIDS
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=bororo.tsv
+#@navbar=true
+#@_morphology_mode=full
