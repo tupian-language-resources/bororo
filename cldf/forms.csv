@@ -1,0 +1,445 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Morphemes,SimpleCognate,PartialCognates
+Bororo-1_axe-1,,Bororo,1_axe,paro,paro,p a r o,,,,,,,AXE,1,1
+Umutina-1_axe-1,,Umutina,1_axe,palo / apado,palo,p a l o,,,,,,,AXE,1,1
+Umutina-1_axe-2,,Umutina,1_axe,palo / apado,apado,a p a d o,,,,,,,AXE,1,1
+Otuke-2_chicha-1,,Otuke,2_chicha,tʃoro / iʃoro(ko) / iyoro(ku),tʃoro,tʃ o r o,,,,,,,DRINK,207,241
+Otuke-2_chicha-2,,Otuke,2_chicha,tʃoro / iʃoro(ko) / iyoro(ku),iʃoro,i ʃ o r o,,,,,,,DRINK,207,241
+Umutina-2_chicha-1,,Umutina,2_chicha,zuluʔ rukwa,zuluʔ rukwa,z u l u ʔ + r u k w a,,,,,,,DRINK ?,223,119 225
+Bororo-3_faecesexcrement-1,,Bororo,3_faecesexcrement,pe,pe,p e,,,,,,,FAECES,148,149
+Umutina-3_faecesexcrement-1,,Umutina,3_faecesexcrement,pe,pe,p e,,,,,,,FAECES,148,149
+Bororo-4_badorevil-1,,Bororo,4_badorevil,pega,pega,p e g a,,,,,,,BAD,150,150
+Umutina-4_badorevil-1,,Umutina,4_badorevil,pikina / pekina,pikina,p i k i n a,,,,,,,BAD,150,150
+Umutina-4_badorevil-2,,Umutina,4_badorevil,pikina / pekina,pekina,p e k i n a,,,,,,,BAD,150,150
+Umutina-5_ugly-1,,Umutina,5_ugly,pikɛna,pikɛna,p i k ɛ n a,,,,,,,BAD,217,150
+Bororo-6_water-1,,Bororo,6_water,po,po,p o,,,,,,,WATER,2,2
+Umutina-6_water-1,,Umutina,6_water,po,po,p o,,,,,,,WATER,2,2
+Bororo-7_river-1,,Bororo,7_river,po,po,p o,,,,,,,RIVER,152,2
+Umutina-7_river-1,,Umutina,7_river,po,po,p o,,,,,,,RIVER,152,2
+Bororo-8_gourd-1,,Bororo,8_gourd,poari / pogoga,poari,p oa r i,,,,,,,GOURD,153,152
+Bororo-8_gourd-2,,Bororo,8_gourd,poari / pogoga,pogoga,p o g o g a,,,,,,,GOURD,156,155
+Umutina-8_gourd-1,,Umutina,8_gourd,poari / poka,poari,p oa r i,,,,,,,GOURD,153,152
+Umutina-8_gourd-2,,Umutina,8_gourd,poari / poka,poka,p o k a,,,,,,,GOURD,154,153
+Bororo-9_two-1,,Bororo,9_two,pobe,pobe,p o b e,,,,,,,TWO,8,8
+Umutina-9_two-1,,Umutina,9_two,popi / popie / pupi / pupe,popi,p o p i,,,,,,,TWO,8,8
+Umutina-9_two-2,,Umutina,9_two,popi / popie / pupi / pupe,popie,p o p ie,,,,,,,TWO,8,8
+Umutina-9_two-3,,Umutina,9_two,popi / popie / pupi / pupe,pupi,p u p i,,,,,,,TWO,8,8
+Umutina-9_two-4,,Umutina,9_two,popi / popie / pupi / pupe,pupe,p u p e,,,,,,,TWO,8,8
+Bororo-10_pacu-1,,Bororo,10_pacu,pobu,pobu,p o b u,,,,,,,PACU,155,154
+Umutina-10_pacu-1,,Umutina,10_pacu,pupu / popo,pupu,p u p u,,,,,,,PACU,155,154
+Umutina-10_pacu-2,,Umutina,10_pacu,pupu / popo,popo,p o p o,,,,,,,PACU,155,154
+Bororo-11_hole-1,,Bororo,11_hole,poro,poro,p o r o,,,,,,,HOLE,5,5
+Umutina-11_hole-1,,Umutina,11_hole,podo,podo,p o d o,,,,,,,HOLE,5,5
+Bororo-12_pierce-1,,Bororo,12_pierce,porodo,porodo,p o r o d o,,,,,,,PIERCE,158,157
+Umutina-12_pierce-1,,Umutina,12_pierce,podoto / polotɔ,podoto,p o d o t o,,,,,,,PIERCE,158,157
+Umutina-12_pierce-2,,Umutina,12_pierce,podoto / polotɔ,polotɔ,p o l o t ɔ,,,,,,,PIERCE,158,157
+Bororo-13_gildedcatfish-1,,Bororo,13_gildedcatfish,poru,poru,p o r u,,,,,,,GILDED.CATFISH,159,158
+Umutina-13_gildedcatfish-1,,Umutina,13_gildedcatfish,poru,poru,p o r u,,,,,,,GILDED.CATFISH,159,158
+Bororo-14_bone-1,,Bororo,14_bone,ra,ra,r a,,,,,,,BONE,160,159
+Umutina-14_bone-1,,Umutina,14_bone,laka / daka,laka,l a + k a,,,,,,,BONE ?,160,159 156
+Umutina-14_bone-2,,Umutina,14_bone,laka / daka,daka,d a + k a,,,,,,,BONE ?,160,159 156
+Bororo-15_narrate-1,,Bororo,15_narrate,readodo,readodo,r ea d o d o,,,,,,,NARRATE,161,160
+Umutina-15_narrate-1,,Umutina,15_narrate,alalotu,alalotu,a l a l o t u,,,,,,,NARRATE,161,160
+Bororo-16_dance-1,,Bororo,16_dance,reru,reru,r e r u,,,,,,,DANCE,162,161
+Otuke-16_dance-1,,Otuke,16_dance,arareta,arareta,a r a r e t a,,,,,,,DANCE,157,235
+Bororo-17_manedwolf-1,,Bororo,17_manedwolf,rie,rie,r ie,,,,,,,MANED.WOLF,163,162
+Otuke-78_wolf-1,,Otuke,78_wolf,rehe,rehe,r e h e,,,,,,,WOLF,151,151
+Bororo-18_tinamou-1,,Bororo,18_tinamou,riwodo,riwodo,r i w o d o,,,,,,,TINAMOU,164,163
+Umutina-18_tinamou-1,,Umutina,18_tinamou,diboto,diboto,d i b o t o,,,,,,,TINAMOU,164,163
+Bororo-19_mud-1,,Bororo,19_mud,rotu,rotu,r o t u,,,,,,,MUD,165,164
+Otuke-19_mud-1,,Otuke,19_mud,roktu,roktu,r o k t u,,,,,,,MUD,165,164
+Umutina-19_mud-1,,Umutina,19_mud,bukututu,bukututu,b u k u t u t u,,,,,,,MUD,218,236
+Bororo-20_frog-1,,Bororo,20_frog,ru,ru,r u,,,,,,,FROG,166,165
+Otuke-20_frog-1,,Otuke,20_frog,hʷaraka,hʷaraka,hʷ a r a k a,,,,,,,FROG,219,237
+Umutina-20_frog-1,,Umutina,20_frog,balaru / du / ru,balaru,b a l a r u,,,,,,,FROG,166,165
+Umutina-20_frog-2,,Umutina,20_frog,balaru / du / ru,du,d u,,,,,,,FROG,166,165
+Umutina-20_frog-3,,Umutina,20_frog,balaru / du / ru,ru,r u,,,,,,,FROG,166,165
+Bororo-21_crab-1,,Bororo,21_crab,ruka,ruka,r u k a,,,,,,,CRAB,167,166
+Otuke-21_crab-1,,Otuke,21_crab,rusa,rusa,r u s a,,,,,,,CRAB,167,166
+Bororo-22_rattle-1,,Bororo,22_rattle,bapo,bapo,b a p o,,,,,,,RATTLE,3,3
+Umutina-22_rattle-1,,Umutina,22_rattle,bapo,bapo,b a p o,,,,,,,RATTLE,3,3
+Bororo-23_paca-1,,Bororo,23_paca,apu,apu,a p u,,,,,,,PACA,4,4
+Umutina-23_paca-1,,Umutina,23_paca,apu / hapu,apu,a p u,,,,,,,PACA,4,4
+Umutina-23_paca-2,,Umutina,23_paca,apu / hapu,hapu,h a p u,,,,,,,PACA,4,4
+Bororo-24_howlermonkey-1,,Bororo,24_howlermonkey,pai,pai,p a i,,,,,,,HOWLER.MONKEY,6,6
+Umutina-24_howlermonkey-1,,Umutina,24_howlermonkey,paju / pajio / payu,paju,p a j u,,,,,,,HOWLER.MONKEY,6,6
+Umutina-24_howlermonkey-2,,Umutina,24_howlermonkey,paju / pajio / payu,pajio,p a j io,,,,,,,HOWLER.MONKEY,6,6
+Umutina-24_howlermonkey-3,,Umutina,24_howlermonkey,paju / pajio / payu,payu,p a y u,,,,,,,HOWLER.MONKEY,6,6
+Bororo-25_ostrich-1,,Bororo,25_ostrich,pari,pari,p a r i,,,,,,,OSTRICH,149,148
+Otuke-25_ostrich-1,,Otuke,25_ostrich,hahari,hahari,h a h a r i,,,,,,,OSTRICH,149,148
+Umutina-25_ostrich-1,,Umutina,25_ostrich,pãri / parwaza,pãri,p ã r i,,,,,,,OSTRICH,149,148
+Umutina-25_ostrich-2,,Umutina,25_ostrich,pãri / parwaza,parwaza,p a r w a z a,,,,,,,OSTRICH,149,148
+Bororo-26_smallanteater-1,,Bororo,26_smallanteater,apu / apogo,apu,a p u,,,,,,,?,7,7
+Umutina-26_smallanteater-1,,Umutina,26_smallanteater,apo,apo,a p o,,,,,,,?,7,7
+Bororo-26_smallanteater-2,,Bororo,26_smallanteater,apu / apogo,apogo,a p o g o,,,,,,,?,7,7
+Otuke-27_squirrel-1,,Otuke,27_squirrel,apohe / apoha,apohe,a p o h e,,,,,,,?,21,7
+Otuke-27_squirrel-2,,Otuke,27_squirrel,apohe / apoha,apoha,a p o h a,,,,,,,?,21,7
+Bororo-28_face-1,,Bororo,28_face,dʒe,dʒe,dʒ e,,,,,,,FACE,9,9
+Otuke-28_face-1,,Otuke,28_face,itʃe,itʃe,i tʃ e,,,,,,,FACE,9,9
+Umutina-28_face-1,,Umutina,28_face,azeʔ,azeʔ,a z e ʔ,,,,,,,FACE,175,174
+Bororo-29_seed-1,,Bororo,29_seed,a,a,a,,,,,,,SEED,10,10
+Umutina-29_seed-1,,Umutina,29_seed,aka,aka,a k a,,,,,,,SEED,176,175
+Bororo-30_you-1,,Bororo,30_you,a,a,a,,,,,,,YOU,11,11
+Otuke-30_you-1,,Otuke,30_you,a,a,a,,,,,,,YOU,11,11
+Umutina-30_you-1,,Umutina,30_you,ame / a,ame,a m e,,,,,,,YOU,11,11
+Umutina-30_you-2,,Umutina,30_you,ame / a,a,a,,,,,,,YOU,11,11
+Bororo-31_cotton-1,,Bororo,31_cotton,akigu,akigu,a k i g u,,,,,,,COTTON,12,12
+Otuke-31_cotton-1,,Otuke,31_cotton,akihumari,akihumari,a k i h u + m a r i,,,,,,,COTTON ?,12,12 176
+Bororo-32_puma-1,,Bororo,32_puma,aigo,aigo,a i g o,,,,,,,PUMA,13,13
+Umutina-32_puma-1,,Umutina,32_puma,aiku / aiko / ajko / aʔiko,aiku,ai k u,,,,,,,PUMA,13,13
+Umutina-32_puma-2,,Umutina,32_puma,aiku / aiko / ajko / aʔiko,aiko,ai k o,,,,,,,PUMA,13,13
+Umutina-32_puma-3,,Umutina,32_puma,aiku / aiko / ajko / aʔiko,ajko,a j k o,,,,,,,PUMA,13,13
+Umutina-32_puma-4,,Umutina,32_puma,aiku / aiko / ajko / aʔiko,aʔiko,a ʔ i k o,,,,,,,PUMA,13,13
+Bororo-33_cold-1,,Bororo,33_cold,akɨ / akodo,akɨ,a k ɨ,,,,,,,COLD,14,14
+Bororo-33_cold-2,,Bororo,33_cold,akɨ / akodo,akodo,a k o d o,,,,,,,COLD,14,14
+Umutina-33_cold-1,,Umutina,33_cold,aketo / bakieto / baketo,aketo,a k e t o,,,,,,,COLD,14,14
+Umutina-33_cold-2,,Umutina,33_cold,aketo / bakieto / baketo,bakieto,b a k ie t o,,,,,,,COLD,14,14
+Umutina-33_cold-3,,Umutina,33_cold,aketo / bakieto / baketo,baketo,b a k e t o,,,,,,,COLD,14,14
+Bororo-34_liver-1,,Bororo,34_liver,aka,aka,a k a,,,,,,,LIVER,15,15
+Umutina-34_liver-1,,Umutina,34_liver,ua / a,ua,ua,,,,,,,LIVER,177,177
+Umutina-34_liver-2,,Umutina,34_liver,ua / a,a,a,,,,,,,LIVER,177,177
+Bororo-35_good-1,,Bororo,35_good,amarew,amarew,a m a r e w,,,,,,,GOOD,16,16
+Umutina-35_good-1,,Umutina,35_good,emaka,emaka,e m a k a,,,,,,,GOOD,178,178
+Bororo-36_capybara-1,,Bororo,36_capybara,akiwa,akiwa,a k i w a,,,,,,,CAPYBARA,17,17
+Otuke-36_capybara-1,,Otuke,36_capybara,okiwia,okiwia,o k i w ia,,,,,,,CAPYBARA,17,17
+Bororo-37_wind-1,,Bororo,37_wind,akuru / bakuru,akuru,a k u r u,,,,,,,WIND,18,18
+Bororo-37_wind-2,,Bororo,37_wind,akuru / bakuru,bakuru,b a k u r u,,,,,,,WIND,18,18
+Otuke-37_wind-1,,Otuke,37_wind,hʷauru,hʷauru,hʷ au r u,,,,,,,WIND,18,18
+Bororo-38_lizard-1,,Bororo,38_lizard,amema,amema,a m e m a,,,,,,,LIZARD,19,19
+Otuke-38_lizard-1,,Otuke,38_lizard,mamasane,mamasane,m a m a s a n e,,,,,,,LIZARD,179,179
+Umutina-38_lizard-1,,Umutina,38_lizard,amema,amema,a m e m a,,,,,,,LIZARD,19,19
+Bororo-39_hair-1,,Bororo,39_hair,ao,ao,ao,,,,,,,HAIR,20,20
+Umutina-39_hair-1,,Umutina,39_hair,azo / azu,azo,a z o,,,,,,,HAIR,20,20
+Umutina-39_hair-2,,Umutina,39_hair,azo / azu,azu,a z u,,,,,,,HAIR,20,20
+Bororo-40_piraputanga-1,,Bororo,40_piraputanga,ararɨ,ararɨ,a r a r ɨ,,,,,,,PIRAPUTANGA,23,23
+Umutina-40_piraputanga-1,,Umutina,40_piraputanga,alarekore / alɔrukɔre / alarikore,alarekore,a l a r e k o r e,,,,,,,PIRAPUTANGA,23,23
+Umutina-40_piraputanga-2,,Umutina,40_piraputanga,alarekore / alɔrukɔre / alarikore,alɔrukɔre,a l ɔ r u k ɔ r e,,,,,,,PIRAPUTANGA,23,23
+Umutina-40_piraputanga-3,,Umutina,40_piraputanga,alarekore / alɔrukɔre / alarikore,alarikore,a l a r i k o r e,,,,,,,PIRAPUTANGA,23,23
+Bororo-41_moon-1,,Bororo,41_moon,ari,ari,a r i,,,,,,,MOON,24,24
+Umutina-41_moon-1,,Umutina,41_moon,ari / ali,ari,a r i,,,,,,,MOON,24,24
+Umutina-41_moon-2,,Umutina,41_moon,ari / ali,ali,a l i,,,,,,,MOON,24,24
+Bororo-42_dog-1,,Bororo,42_dog,arigao,arigao,a r i g a o,,,,,,,DOG,25,25
+Umutina-42_dog-1,,Umutina,42_dog,arikau / harikaʔu,arikau,a r i k au,,,,,,,DOG,25,25
+Umutina-42_dog-2,,Umutina,42_dog,arikau / harikaʔu,harikaʔu,h a r i k a ʔ u,,,,,,,DOG,25,25
+Bororo-43_leaf-1,,Bororo,43_leaf,aru / raru,aru,a r u,,,,,,,LEAF,26,26
+Bororo-43_leaf-2,,Bororo,43_leaf,aru / raru,raru,r a r u,,,,,,,LEAF,26,26
+Otuke-43_leaf-1,,Otuke,43_leaf,rari,rari,r a r i,,,,,,,LEAF,26,26
+Bororo-44_wasp-1,,Bororo,44_wasp,atugue,atugue,a t u g u e,,,,,,,WASP,27,27
+Otuke-44_wasp-1,,Otuke,44_wasp,ohue,ohue,o h ue,,,,,,,WASP,27,27
+Bororo-45_shell-1,,Bororo,45_shell,atu,atu,a t u,,,,,,,SHELL,28,28
+Bororo-46_snake-1,,Bororo,46_snake,awagɨ / awago,awagɨ,a w a g ɨ,,,,,,,SNAKE,29,29
+Bororo-46_snake-2,,Bororo,46_snake,awagɨ / awago,awago,a w a g o,,,,,,,SNAKE,29,29
+Otuke-46_snake-1,,Otuke,46_snake,ahʷako,ahʷako,a hʷ a k o,,,,,,,SNAKE,29,29
+Umutina-46_snake-1,,Umutina,46_snake,ebaki / embaki,ebaki,e b a k i,,,,,,,SNAKE,180,21
+Umutina-46_snake-2,,Umutina,46_snake,ebaki / embaki,embaki,e m/b a k i,,,,,,,SNAKE,180,21
+Bororo-47_coaticoatimundi-1,,Bororo,47_coaticoatimundi,atoe / kudobo,atoe,a t o e,,,,,,,COATI,30,30
+Bororo-47_coaticoatimundi-2,,Bororo,47_coaticoatimundi,atoe / kudobo,kudobo,k u d o b o,,,,,,,COATI,31,31
+Umutina-47_coaticoatimundi-1,,Umutina,47_coaticoatimundi,utupu,utupu,u t u p u,,,,,,,COATI,181,180
+Bororo-48_rope-1,,Bororo,48_rope,bɨkigu,bɨkigu,b ɨ k i g u,,,,,,,ROPE,32,32
+Umutina-48_rope-1,,Umutina,48_rope,boiku,boiku,b oi k u,,,,,,,ROPE,182,181
+Bororo-49_foot-1,,Bororo,49_foot,bɨre,bɨre,b ɨ r e,,,,,,,FOOT,33,33
+Umutina-49_foot-1,,Umutina,49_foot,bure / ambure,bure,b u r e,,,,,,,FOOT,33,33
+Umutina-49_foot-2,,Umutina,49_foot,bure / ambure,ambure,a m/b u r e,,,,,,,FOOT,33,33
+Bororo-50_rattlemadeofpeccarinails-1,,Bororo,50_rattlemadeofpeccarinails,bɨto re,bɨto re,b ɨ t o + r e,,,,,,,RATTLE.MADE.OF.PECCARI.NAILS ?,34,34 49
+Umutina-50_rattlemadeofpeccarinails-1,,Umutina,50_rattlemadeofpeccarinails,mutombure,mutombure,m u t o + m/b u r e,,,,,,,RATTLE.MADE.OF.PECCARI.NAILS ?,183,182 183
+Bororo-51_egg-1,,Bororo,51_egg,ba,ba,b a,,,,,,,EGG,35,35
+Umutina-51_egg-1,,Umutina,51_egg,ba / mba,ba,b a,,,,,,,EGG,35,35
+Umutina-51_egg-2,,Umutina,51_egg,ba / mba,mba,m/b a,,,,,,,EGG,35,35
+Bororo-52_mosquito-1,,Bororo,52_mosquito,batʃe,batʃe,b a tʃ e,,,,,,,MOSQUITO,36,36
+Umutina-52_mosquito-1,,Umutina,52_mosquito,mbe / bai,mbe,m/b e,,,,,,,MOSQUITO,185,185
+Umutina-52_mosquito-2,,Umutina,52_mosquito,mbe / bai,bai,b ai,,,,,,,MOSQUITO,186,186
+Otuke-52_mosquito-1,,Otuke,52_mosquito,mase,mase,m a s e,,,,,,,MOSQUITO,184,184
+Bororo-53_bow-1,,Bororo,53_bow,baiga / boeiga / tygo,baiga,b ai g a,,,,,,,BOW,37,37
+Bororo-53_bow-2,,Bororo,53_bow,baiga / boeiga / tygo,tygo,t y g o,,,,,,,BOW,22,22
+Otuke-53_bow-1,,Otuke,53_bow,wewika,wewika,w e w i k a,,,,,,,BOW,37,37
+Umutina-53_bow-1,,Umutina,53_bow,boika,boika,b oi k a,,,,,,,BOW,37,37
+Bororo-54_spider-1,,Bororo,54_spider,bakaigo,bakaigo,b a k ai g o,,,,,,,SPIDER,38,38
+Umutina-54_spider-1,,Umutina,54_spider,bakajokɔrɛ / bakayukore,bakajokɔrɛ,b a k a j o k ɔ r ɛ,,,,,,,SPIDER,38,38
+Bororo-55_heart-1,,Bororo,55_heart,bapo,bapo,b a p o,,,,,,,HEART,40,40
+Umutina-55_heart-1,,Umutina,55_heart,wapo,wapo,w a p o,,,,,,,HEART,40,40
+Bororo-56_sky-1,,Bororo,56_sky,baru,baru,b a r u,,,,,,,SKY,41,41
+Otuke-56_sky-1,,Otuke,56_sky,hʷaru,hʷaru,hʷ a r u,,,,,,,SKY,41,41
+Umutina-56_sky-1,,Umutina,56_sky,baroto,baroto,b a r o + t o,,,,,,,SKY ?,41,41 187
+Bororo-57_hammock-1,,Bororo,57_hammock,buke,buke,b u k e,,,,,,,HAMMOCK,42,42
+Umutina-57_hammock-1,,Umutina,57_hammock,bukye,bukye,b u k ye,,,,,,,HAMMOCK,42,42
+Bororo-58_speak-1,,Bororo,58_speak,batarɨ,batarɨ,b a t a r ɨ,,,,,,,SPEAK,43,43
+Umutina-58_speak-1,,Umutina,58_speak,matare,matare,m a t a r e,,,,,,,SPEAK,43,43
+Bororo-59_mangaba-1,,Bororo,59_mangaba,bato,bato,b a t o,,,,,,,MANGABA,44,44
+Umutina-59_mangaba-1,,Umutina,59_mangaba,batorukʷa,batorukʷa,b a t o + r u kʷ a,,,,,,,MANGABA ?,44,44 188
+Bororo-60_breuprotiumheptaphyllum-1,,Bororo,60_breuprotiumheptaphyllum,berago,berago,b e r a g o,,,,,,,BREU,45,45
+Umutina-60_breuprotiumheptaphyllum-1,,Umutina,60_breuprotiumheptaphyllum,melaku / menaku,menaku,m e n a k u,,,,,,,BREU,187,189
+Umutina-60_breuprotiumheptaphyllum-2,,Umutina,60_breuprotiumheptaphyllum,melaku / menaku,melaku,m e l a k u,,,,,,,BREU,187,189
+Bororo-61_boil-1,,Bororo,61_boil,bere,bere,b e r e,,,,,,,BOIL,46,46
+Umutina-61_boil-1,,Umutina,61_boil,bere,bere,b e r e,,,,,,,BOIL,46,46
+Bororo-62_die-1,,Bororo,62_die,bi,bi,b i,,,,,,,DIE,47,47
+Umutina-62_die-1,,Umutina,62_die,bia,bia,b ia,,,,,,,DIE,47,47
+Bororo-64_ear-1,,Bororo,64_ear,bia,bia,b i a,,,,,,,EAR,50,50
+Umutina-64_ear-1,,Umutina,64_ear,bia / bja / mbia,mbia,m/b i a,,,,,,,EAR,50,50
+Umutina-64_ear-2,,Umutina,64_ear,bia / bja / mbia,bia,b i a,,,,,,,EAR,50,50
+Umutina-64_ear-3,,Umutina,64_ear,bia / bja / mbia,bja,b j a,,,,,,,EAR,50,50
+Umutina-65_genipa-1,,Umutina,65_genipa,bei,bei,b ei,,,,,,,GENIPA.TREE,51,51
+Bororo-66_barkorshell-1,,Bororo,66_barkorshell,biri / iwiri,biri,b i r i,,,,,,,BARK,52,52
+Otuke-66_barkorshell-1,,Otuke,66_barkorshell,irivi,irivi,i r i v i,,,,,,,BARK,188,190
+Umutina-66_barkorshell-1,,Umutina,66_barkorshell,birika,birika,b i r i k a,,,,,,,BARK,52,52
+Bororo-67_banana-1,,Bororo,67_banana,bako,bako,b a k o,,,,,,,BANANA,53,55
+Otuke-67_banana-1,,Otuke,67_banana,aku,aku,a k u,,,,,,,BANANA,53,55
+Bororo-68_butterfly-1,,Bororo,68_butterfly,baragadu,baragadu,b a r a g a d u,,,,,,,BUTTERFLY,54,56
+Umutina-68_butterfly-1,,Umutina,68_butterfly,balatutu,balatutu,b a l a t u t u,,,,,,,BUTTERFLY,54,56
+Umutina-69_tucum-1,,Umutina,69_tucum,bo / boyo,bo,b o,,,,,,,TUCUM,55,57
+Bororo-70_field-1,,Bororo,70_field,boku,boku,b o k u,,,,,,,FIELD,56,58
+Umutina-70_field-1,,Umutina,70_field,boku,boku,b o k u,,,,,,,FIELD,56,58
+Bororo-71_thigh-1,,Bororo,71_thigh,bopona / iviora,bopona,b o p o + n a,,,,,,,THIGH ?,57,59 60
+Umutina-71_thigh-1,,Umutina,71_thigh,bopo to,bopo to,b o p o + t o,,,,,,,THIGH ?,57,59 191
+Bororo-71_thigh-2,,Bororo,71_thigh,bopona / iviora,iviora,i v io r a,,,,,,,HEEL,191,197
+Bororo-72_scale-1,,Bororo,72_scale,boto,boto,b o t o,,,,,,,SCALE,58,61
+Umutina-72_scale-1,,Umutina,72_scale,boto ka,boto ka,b o t o + k a,,,,,,,SCALE ?,58,61 192
+Bororo-73_peachpalm-1,,Bororo,73_peachpalm,botora,botora,b o t o r a,,,,,,,PEACH.PALM,59,62
+Bororo-74_armadillosp-1,,Bororo,74_armadillosp,botowɨ / enokuri / bokodori / rea,botowɨ,b o t o w ɨ,,,,,,,ARMADILLO.SP.,60,63
+Bororo-74_armadillosp-2,,Bororo,74_armadillosp,botowɨ / enokuri / bokodori / rea,enokuri,e n o k u r i,,,,,,,ARMADILLO.SP.,78,81
+Bororo-74_armadillosp-3,,Bororo,74_armadillosp,botowɨ / enokuri / bokodori / rea,bokodori,b o k o d o r i,,,,,,,ARMADILLO.SP.,39,39
+Bororo-74_armadillosp-4,,Bororo,74_armadillosp,botowɨ / enokuri / bokodori / rea,rea,r ea,,,,,,,ARMADILLO.SP.,124,122
+Bororo-75_sorubim-1,,Bororo,75_sorubim,orari,orari,o r a r i,,,,,,,SORUBIM,132,125
+Otuke-75_sorubim-1,,Otuke,75_sorubim,orohʷari,orohʷari,o r o hʷ a r i,,,,,,,SORUBIM,132,125
+Otuke-76_deer-1,,Otuke,76_deer,waroa,waroa,w a r oa,,,,,,,DEER,216,233
+Bororo-76_deer-1,,Bororo,76_deer,pobogo / orogo,pobogo,p o b o g o,,,,,,,DEER,143,143
+Bororo-76_deer-2,,Bororo,76_deer,pobogo / orogo,orogo,o r o g o,,,,,,,DEER,143,143
+Bororo-77_beak-1,,Bororo,77_beak,oto,oto,o t o,,,,,,,BEAK,144,144
+Otuke-77_beak-1,,Otuke,77_beak,aho,aho,a h o,,,,,,,BEAK,215,234
+Umutina-77_beak-1,,Umutina,77_beak,oto,oto,o t o,,,,,,,BEAK,144,144
+Bororo-79_saliva-1,,Bororo,79_saliva,otoguru,otoguru,o t o g u r u,,,,,,,SALIVA,145,145
+Umutina-79_saliva-1,,Umutina,79_saliva,otoruta / otoru,otoru,o t o r u,,,,,,,SALIVA,145,145
+Bororo-80_liedown-1,,Bororo,80_liedown,pado,pado,p a d o,,,,,,,LIE.DOWN,146,146
+Umutina-80_liedown-1,,Umutina,80_liedown,pata,pata,p a t a,,,,,,,LIE.DOWN,146,146
+Bororo-81_fearfright-1,,Bororo,81_fearfright,pagɨdɨ,pagɨdɨ,p a g ɨ d ɨ,,,,,,,FEAR,147,147
+Umutina-81_fearfright-1,,Umutina,81_fearfright,pakixi,pakixi,p a k i x i,,,,,,,FEAR,147,147
+Bororo-82_rainprecipitation-1,,Bororo,82_rainprecipitation,bu,bu,b u,,,,,,,RAIN,61,64
+Umutina-82_rainprecipitation-1,,Umutina,82_rainprecipitation,bo ino / bʷenɔ / boʔina,bʷenɔ,bʷ e n ɔ,,,,,,,RAIN,61,195
+Umutina-82_rainprecipitation-2,,Umutina,82_rainprecipitation,bo ino / bʷenɔ / boʔina,boʔina,b o ʔ i n a,,,,,,,RAIN,61,196
+Bororo-83_heel-1,,Bororo,83_heel,bureado,bureado,b u r e a d o,,,,,,,HEEL,62,65
+Otuke-83_heel-1,,Otuke,83_heel,iwiaroto,iwiaroto,i w ia r o t o,,,,,,,HEEL,190,197
+Bororo-84_elbow-1,,Bororo,84_elbow,iwiywra,iwiywra,i w i y w r a,,,,,,,ELBOW,63,66
+Bororo-85_caja-1,,Bororo,85_caja,dʒatugo,dʒatugo,dʒ a t u g o,,,,,,,CAJA,64,67
+Umutina-85_caja-1,,Umutina,85_caja,zatuku,zatuku,z a t u k u,,,,,,,CAJA,64,67
+Bororo-86_piabaacu-1,,Bororo,86_piabaacu,dʒatugugo,dʒatugugo,dʒ a t u g u g o,,,,,,,PIABA-AÇU,65,68
+Umutina-86_piabaacu-1,,Umutina,86_piabaacu,zatuku,zatuku,z a t u k u,,,,,,,PIABA-AÇU,65,68
+Bororo-87_collaredpeccary-1,,Bororo,87_collaredpeccary,dʒoi,dʒoi,dʒ oi,,,,,,,COLLARED.PECCARY,66,69
+Umutina-87_collaredpeccary-1,,Umutina,87_collaredpeccary,joa / ʒao,joa,j oa,,,,,,,COLLARED.PECCARY,66,69
+Umutina-87_collaredpeccary-2,,Umutina,87_collaredpeccary,joa / ʒao,ʒao,ʒ ao,,,,,,,COLLARED.PECCARY,66,69
+Bororo-88_peccary-1,,Bororo,88_peccary,dʒugo / ʃao,ʃao,ʃ ao,,,,,,,PECCARY,192,198
+Bororo-88_peccary-2,,Bororo,88_peccary,dʒugo / ʃao,dʒugo,dʒ u g o,,,,,,,PECCARY,67,70
+Bororo-89_smokeexhaust-1,,Bororo,89_smokeexhaust,dʒorɨdɨdɨ,dʒorɨdɨdɨ,dʒ o r ɨ d ɨ d ɨ,,,,,,,SMOKE,68,71
+Umutina-89_smokeexhaust-1,,Umutina,89_smokeexhaust,zorixixi / zoritʃitʃi,zorixixi,z o r i x i x i,,,,,,,SMOKE,68,71
+Umutina-89_smokeexhaust-2,,Umutina,89_smokeexhaust,zorixixi / zoritʃitʃi,zoritʃitʃi,z o r i tʃ i tʃ i,,,,,,,SMOKE,68,71
+Bororo-90_lightignite-1,,Bororo,90_lightignite,dʒorɨto,dʒorɨto,dʒ o r ɨ t o,,,,,,,LIGHT,69,72
+Umutina-90_lightignite-1,,Umutina,90_lightignite,zorututo,zorututo,z o r u t u t o,,,,,,,LIGHT,69,72
+Otuke-91_flyinsect-1,,Otuke,91_flyinsect,ruka,ruka,r u k a,,,,,,,FLY,220,238
+Bororo-92_flysp-1,,Bororo,92_flysp,ruke,ruke,r u k e,,,,,,,FLY,121,238
+Bororo-92_flysp-2,,Bororo,92_flysp,toguare,toguare,t o g ua r e,,,,,,,FLY,172,171
+Umutina-92_flysp-1,,Umutina,92_flysp,otokuare / otokali,otokuare,o t o k ua r e,,,,,,,FLY,172,171
+Umutina-92_flysp-2,,Umutina,92_flysp,otokuare / otokali,otokali,o t o k a l i,,,,,,,FLY,172,171
+Bororo-93_stone-1,,Bororo,93_stone,tori,tori,t o r i,,,,,,,STONE,173,172
+Otuke-93_stone-1,,Otuke,93_stone,tohori,tohori,t o h o r i,,,,,,,STONE,173,172
+Umutina-93_stone-1,,Umutina,93_stone,tori,tori,t o r i,,,,,,,STONE,173,172
+Bororo-94_duck-1,,Bororo,94_duck,turubare,turubare,t u r u b a r e,,,,,,,DUCK,174,173
+Otuke-94_duck-1,,Otuke,94_duck,turupare,turupare,t u r u p a r e,,,,,,,DUCK,174,173
+Bororo-95_snail-1,,Bororo,95_snail,ruwo,ruwo,r u w o,,,,,,,SNAIL,168,167
+Umutina-95_snail-1,,Umutina,95_snail,ruvo / luo,ruvo,r u v o,,,,,,,SNAIL,168,167
+Umutina-95_snail-2,,Umutina,95_snail,ruvo / luo,luo,l u o,,,,,,,SNAIL,168,167
+Bororo-96_hornedscreamersp-1,,Bororo,96_hornedscreamersp,tamigi,tamigi,t a m i g i,,,,,,,HORNED.SCREAMER.SP.,170,169
+Umutina-96_hornedscreamersp-1,,Umutina,96_hornedscreamersp,tami,tami,t a m i,,,,,,,HORNED.SCREAMER.SP.,170,169
+Bororo-97_astyanaxfish-1,,Bororo,97_astyanaxfish,tubore,tubore,t u b o r e,,,,,,,ASTYANAX.FISH,171,170
+Umutina-97_astyanaxfish-1,,Umutina,97_astyanaxfish,tipori,tipori,t i p o r i,,,,,,,ASTYANAX.FISH,171,170
+Bororo-98_turtle-1,,Bororo,98_turtle,dʒorigige,dʒorigige,dʒ o r i g i g e,,,,,,,TURTLE,70,73
+Otuke-98_turtle-1,,Otuke,98_turtle,rerikeke / zerikiki,zerikiki,z e r i k i k i,,,,,,,TURTLE,70,73
+Otuke-98_turtle-2,,Otuke,98_turtle,rerikeke / zerikiki,rerikeke,r e r i k e k e,,,,,,,TURTLE,70,73
+Umutina-98_turtle-1,,Umutina,98_turtle,serikiki,serikiki,s e r i k i k i,,,,,,,TURTLE,70,73
+Bororo-99_fire-1,,Bororo,99_fire,dʒoru / eru / oru / ru / rugadu / eru / oru,dʒoru,dʒ o r u,,,,,,,FIRE,71,74
+Bororo-99_fire-2,,Bororo,99_fire,dʒoru / eru / oru / ru / rugadu / eru / oru,eru,e r u,,,,,,,FIRE,71,74
+Bororo-99_fire-3,,Bororo,99_fire,dʒoru / eru / oru / ru / rugadu / eru / oru,oru,o r u,,,,,,,FIRE,71,74
+Bororo-99_fire-4,,Bororo,99_fire,dʒoru / eru / oru / ru / rugadu / eru / oru,ru,r u,,,,,,,FIRE,71,74
+Bororo-99_fire-5,,Bororo,99_fire,dʒoru / eru / oru / ru / rugadu / eru / oru,rugadu,r u g a d u,,,,,,,FIRE,71,74
+Otuke-99_fire-1,,Otuke,99_fire,reru,reru,r e r u,,,,,,,FIRE,71,74
+Umutina-99_fire-1,,Umutina,99_fire,zoru,zoru,z o r u,,,,,,,FIRE,71,74
+Bororo-100_ash-1,,Bororo,100_ash,dʒorugudo,dʒorugudo,dʒ o r u g u d o,,,,,,,ASH,72,75
+Umutina-100_ash-1,,Umutina,100_ash,zorotu / zorutu,zorotu,z o r o t u,,,,,,,ASH,72,75
+Umutina-100_ash-2,,Umutina,100_ash,zorotu / zorutu,zorutu,z o r u t u,,,,,,,ASH,72,75
+Bororo-101_manioc-1,,Bororo,101_manioc,dʒu / dʒurew,dʒu,dʒ u,,,,,,,MANIOC,73,76
+Bororo-101_manioc-2,,Bororo,101_manioc,dʒu / dʒurew,dʒurew,dʒ u r e w,,,,,,,MANIOC,73,76
+Otuke-101_manioc-1,,Otuke,101_manioc,tʃuhu,tʃuhu,tʃ u h u,,,,,,,MANIOC,73,76
+Bororo-102_back-1,,Bororo,102_back,dʒura,dʒura,dʒ u r a,,,,,,,BACK,74,77
+Otuke-102_back-1,,Otuke,102_back,itʃura,itʃura,i tʃ u r a,,,,,,,BACK,74,77
+Umutina-102_back-1,,Umutina,102_back,julaka / ʒudaka,julaka,j u l a + k a,,,,,,,BACK ?,74,77 199
+Umutina-102_back-2,,Umutina,102_back,julaka / ʒudaka,ʒudaka,ʒ u d a + k a,,,,,,,BACK ?,74,77 199
+Bororo-103_anacondawaterboa-1,,Bororo,103_anacondawaterboa,dʒure,dʒure,dʒ u r e,,,,,,,ANACONDA,75,78
+Umutina-103_anacondawaterboa-1,,Umutina,103_anacondawaterboa,jure / ʒurɛ,jure,j u r e,,,,,,,ANACONDA,75,78
+Umutina-103_anacondawaterboa-2,,Umutina,103_anacondawaterboa,jure / ʒurɛ,ʒurɛ,ʒ u r ɛ,,,,,,,ANACONDA,75,78
+Bororo-104_nose-1,,Bororo,104_nose,eno,eno,e n o,,,,,,,NOSE,76,79
+Otuke-104_nose-1,,Otuke,104_nose,iʃeno,iʃeno,i + ʃ e n o,,,,,,,? NOSE,76,200 79
+Bororo-105_yellow-1,,Bororo,105_yellow,ekɨ,ekɨ,e k ɨ,,,,,,,YELLOW,77,80
+Umutina-105_yellow-1,,Umutina,105_yellow,iku,iku,i k u,,,,,,,YELLOW,77,80
+Otuke-106_rat-1,,Otuke,106_rat,enohʷari,enohʷari,e n o hʷ a r i,,,,,,,RAT,193,201
+Otuke-107_opossumsp-1,,Otuke,107_opossumsp,enohʷari,enohʷari,e n o hʷ a r i,,,,,,,RAT,194,201
+Bororo-108_jararacussu-1,,Bororo,108_jararacussu,etari,etari,e t a r i,,,,,,,JARARACUSSU,79,82
+Umutina-108_jararacussu-1,,Umutina,108_jararacussu,etari,etari,e t a r i,,,,,,,JARARACUSSU,79,82
+Bororo-109_tree-1,,Bororo,109_tree,i,i,i,,,,,,,TREE,80,83
+Umutina-109_tree-1,,Umutina,109_tree,i,i,i,,,,,,,TREE,80,83
+Bororo-110_mouth-1,,Bororo,110_mouth,ia,ia,ia,,,,,,,MOUTH,81,84
+Umutina-110_mouth-1,,Umutina,110_mouth,oza,oza,o + z a,,,,,,,? ?,195,202 203
+Bororo-111_i-1,,Bororo,111_i,imi,imi,i m i,,,,,,,I,82,85
+Umutina-111_i-1,,Umutina,111_i,imi,imi,i m i,,,,,,,I,82,85
+Bororo-112_brotherinlaw-1,,Bororo,112_brotherinlaw,inodou,inodou,i n o d ou,,,,,,,BROTHER-IN-LAW,83,86
+Umutina-112_brotherinlaw-1,,Umutina,112_brotherinlaw,inoto,inoto,i n o t o,,,,,,,BROTHER-IN-LAW,83,86
+Bororo-113_fingernail-1,,Bororo,113_fingernail,inogi,inogi,i n o g i,,,,,,,FINGERNAIL,84,87
+Umutina-113_fingernail-1,,Umutina,113_fingernail,hino,hino,h i n o,,,,,,,?,196,204
+Bororo-114_otter-1,,Bororo,114_otter,ipie,ipie,i p ie,,,,,,,OTTER,85,88
+Umutina-114_otter-1,,Umutina,114_otter,ipekozitabu / ipe,ipekozitabu,i p e + k o z i t a b u,,,,,,,OTTER ?,85,88 205
+Umutina-114_otter-2,,Umutina,114_otter,ipekozitabu / ipe,ipe,i p e,,,,,,,OTTER,85,88
+Bororo-115_wood-1,,Bororo,115_wood,ipo,ipo,i p o,,,,,,,WOOD,86,89
+Umutina-115_wood-1,,Umutina,115_wood,ipu,ipu,i p u,,,,,,,WOOD,86,89
+Bororo-116_cob-1,,Bororo,116_cob,ira,ira,i r a,,,,,,,COB,87,90
+Umutina-116_cob-1,,Umutina,116_cob,ilaka,ilaka,i l a + k a,,,,,,,COB ?,87,90 206
+Bororo-117_piuva-1,,Bororo,117_piuva,iru,iru,i r u,,,,,,,PIUVA,88,91
+Umutina-117_piuva-1,,Umutina,117_piuva,huri,huri,h u r i,,,,,,,PIUVA,197,207
+Bororo-118_iguana-1,,Bororo,118_iguana,irui,irui,i r u i,,,,,,,IGUANA,90,93
+Umutina-118_iguana-1,,Umutina,118_iguana,hiribe / heribe,hiribe,h i r i + b e,,,,,,,? ?,198,208 209
+Umutina-118_iguana-2,,Umutina,118_iguana,hiribe / heribe,heribe,h e r i + b e,,,,,,,? ?,198,208 209
+Bororo-119_forest-1,,Bororo,119_forest,itura,itura,i t u r a,,,,,,,FOREST,91,94
+Otuke-119_forest-1,,Otuke,119_forest,itura,itura,i t u r a,,,,,,,FOREST,91,94
+Umutina-119_forest-1,,Umutina,119_forest,iʃula,iʃula,i ʃ u l a,,,,,,,FOREST,91,94
+Otuke-120_solefoot-1,,Otuke,120_solefoot,iwire e gua,iwire e gua,i w i r e + e + g ua,,,,,,,? ? ?,199,210 211 212
+Bororo-121_hedgehog-1,,Bororo,121_hedgehog,iwe,iwe,i w e,,,,,,,HEDGEHOG,92,95
+Umutina-121_hedgehog-1,,Umutina,121_hedgehog,hibe,hibe,h i b e,,,,,,,HEDGEHOG,92,95
+Bororo-122_penis-1,,Bororo,122_penis,baka,baka,b a k a,,,,,,,PENIS,93,96
+Umutina-122_penis-1,,Umutina,122_penis,mainokua,mainokua,m ai n o k ua,,,,,,,PENIS,200,213
+Bororo-123_house-1,,Bororo,123_house,iwaj / baj,iwaj,i w a j,,,,,,,HOUSE,94,97
+Bororo-123_house-2,,Bororo,123_house,iwaj / baj,baj,b a j,,,,,,,HOUSE,94,97
+Otuke-123_house-1,,Otuke,123_house,hwalʔa,hwalʔa,h w a l ʔ a,,,,,,,HOUSE,201,214
+Bororo-124_termite-1,,Bororo,124_termite,kumo,kumo,k u m o,,,,,,,TERMITE,95,98
+Otuke-124_termite-1,,Otuke,124_termite,kaymo,kaymo,k ay m o,,,,,,,TERMITE,95,98
+Bororo-125_sand-1,,Bororo,125_sand,kɨgarɨ,kɨgarɨ,k ɨ g a r ɨ,,,,,,,SAND,96,99
+Umutina-125_sand-1,,Umutina,125_sand,xoare / xuari,xoare,x oa r e,,,,,,,SAND,202,215
+Umutina-125_sand-2,,Umutina,125_sand,xoare / xuari,xuari,x ua r i,,,,,,,SAND,202,215
+Bororo-126_bamboo-1,,Bororo,126_bamboo,kado,kado,k a d o,,,,,,,BAMBOO,97,100
+Umutina-126_bamboo-1,,Umutina,126_bamboo,katape,katape,k a t a + p e,,,,,,,BAMBOO ?,97,100 216
+Bororo-127_cut-1,,Bororo,127_cut,kado,kado,k a d o,,,,,,,?,98,101
+Umutina-127_cut-1,,Umutina,127_cut,hato,hato,h a t o,,,,,,,?,98,101
+Umutina-128_breakbreaking-1,,Umutina,128_breakbreaking,hatɔ,hatɔ,h a t ɔ,,,,,,,?,203,101
+Bororo-129_kingfisher-1,,Bororo,129_kingfisher,kadomo,kadomo,k a d o m o,,,,,,,KINGFISHER,99,102
+Umutina-129_kingfisher-1,,Umutina,129_kingfisher,katamã,katamã,k a t a m ã,,,,,,,KINGFISHER,99,102
+Bororo-130_pestle-1,,Bororo,130_pestle,kaia,kaia,k a ia,,,,,,,PESTLE,100,103
+Umutina-130_pestle-1,,Umutina,130_pestle,kayakopo / kazokupo,kayakopo,k a ya + k o p o,,,,,,,PESTLE ?,100,103 217
+Umutina-130_pestle-2,,Umutina,130_pestle,kayakopo / kazokupo,kazokupo,k a z o + k u p o,,,,,,,? ?,204,218 219
+Bororo-131_fish-1,,Bororo,131_fish,kare,kare,k a r e,,,,,,,FISH,101,104
+Umutina-131_fish-1,,Umutina,131_fish,hare,hare,h a r e,,,,,,,FISH,101,104
+Otuke-131_fish-1,,Otuke,131_fish,aharo,aharo,a h a r o,,,,,,,FISH,101,104
+Bororo-132_bat-1,,Bororo,132_bat,ke,ke,k e,,,,,,,BAT,102,105
+Otuke-132_bat-1,,Otuke,132_bat,ketari,ketari,k e t a r i,,,,,,,BAT,102,105
+Umutina-132_bat-1,,Umutina,132_bat,kie,kie,k ie,,,,,,,BAT,102,105
+Bororo-133_arm-1,,Bororo,133_arm,kera,kera,k e r a,,,,,,,ARM,103,106
+Otuke-133_arm-1,,Otuke,133_arm,keara,keara,k ea r a,,,,,,,ARM,103,106
+Umutina-133_arm-1,,Umutina,133_arm,itʃe,itʃe,i tʃ e,,,,,,,ARM,205,220
+Bororo-134_tapir-1,,Bororo,134_tapir,ki,ki,k i,,,,,,,TAPIR,104,107
+Umutina-134_tapir-1,,Umutina,134_tapir,kui / koʔi,kui,k ui,,,,,,,TAPIR,104,107
+Umutina-134_tapir-2,,Umutina,134_tapir,kui / koʔi,koʔi,k o ʔ i,,,,,,,TAPIR,104,107
+Bororo-135_dry-1,,Bororo,135_dry,ki,ki,k i,,,,,,,DRY,105,108
+Umutina-135_dry-1,,Umutina,135_dry,ki / kyi,ki,k i,,,,,,,DRY,105,108
+Umutina-135_dry-2,,Umutina,135_dry,ki / kyi,kyi,k yi,,,,,,,DRY,105,108
+Bororo-136_parakeet-1,,Bororo,136_parakeet,kida / kido,kida,k i d a,,,,,,,PARAKEET,106,109
+Bororo-136_parakeet-2,,Bororo,136_parakeet,kida / kido,kido,k i d o,,,,,,,PARAKEET,106,109
+Otuke-136_parakeet-1,,Otuke,136_parakeet,kitio,kitio,k i t io,,,,,,,PARAKEET,106,109
+Umutina-136_parakeet-1,,Umutina,136_parakeet,kixo / kiso,kixo,k i x o,,,,,,,PARAKEET,106,109
+Umutina-136_parakeet-2,,Umutina,136_parakeet,kixo / kiso,kiso,k i s o,,,,,,,PARAKEET,106,109
+Bororo-137_hornanatomy-1,,Bororo,137_hornanatomy,kiga,kiga,k i g a,,,,,,,HORN,108,110
+Otuke-137_hornanatomy-1,,Otuke,137_hornanatomy,ukikʷa,ukikʷa,u k i kʷ a,,,,,,,HORN,108,110
+Bororo-138_white-1,,Bororo,138_white,kigadu,kigadu,k i g a d u,,,,,,,WHITE,109,111
+Umutina-138_white-1,,Umutina,138_white,kikoto / akɨkoto,kikoto,k i k o t o,,,,,,,WHITE,109,111
+Umutina-138_white-2,,Umutina,138_white,kikoto / akɨkoto,akɨkoto,a k ɨ k o t o,,,,,,,WHITE,109,111
+Bororo-139_eat-1,,Bororo,139_eat,ko,ko,k o,,,,,,,EAT,110,112
+Umutina-139_eat-1,,Umutina,139_eat,ho,ho,h o,,,,,,,EAT,110,112
+Bororo-140_neck-1,,Bororo,140_neck,ko / iko,ko,k o,,,,,,,NECK,111,113
+Bororo-140_neck-2,,Bororo,140_neck,ko / iko,iko,i k o,,,,,,,NECK,111,113
+Otuke-140_neck-1,,Otuke,140_neck,ikio,ikio,i k io,,,,,,,NECK,111,113
+Umutina-141_throat-1,,Umutina,141_throat,ku(po),ku,k u,,,,,,,NECK,107,113
+Bororo-142_fleshormeat-1,,Bororo,142_fleshormeat,kodɨ,kodɨ,k o d ɨ,,,,,,,MEAT,112,114
+Umutina-142_fleshormeat-1,,Umutina,142_fleshormeat,kotyka / katika,kotyka,k o t y + k a,,,,,,,MEAT ?,112,114 221
+Umutina-142_fleshormeat-2,,Umutina,142_fleshormeat,kotyka / katika,katika,k a t i + k a,,,,,,,MEAT ?,112,114 221
+Bororo-143_cough-1,,Bororo,143_cough,kodʒari,kodʒari,k o dʒ a r i,,,,,,,COUGH,113,115
+Umutina-143_cough-1,,Umutina,143_cough,koyakore,koyakore,k o ya + k o r e,,,,,,,? ?,206,222 223
+Bororo-144_blood-1,,Bororo,144_blood,ku,ku,k u,,,,,,,BLOOD,114,116
+Umutina-144_blood-1,,Umutina,144_blood,ko,ko,k o,,,,,,,BLOOD,114,116
+Bororo-145_flower-1,,Bororo,145_flower,ku / kʷo / oku / okureboe,ku,k u,,,,,,,FLOWER,115,117
+Bororo-145_flower-2,,Bororo,145_flower,ku / kʷo / oku / okureboe,kʷo,kʷ o,,,,,,,FLOWER,115,117
+Bororo-145_flower-3,,Bororo,145_flower,ku / kʷo / oku / okureboe,oku,o k u,,,,,,,FLOWER,115,117
+Bororo-145_flower-4,,Bororo,145_flower,ku / kʷo / oku / okureboe,okureboe,o k u r e b oe,,,,,,,FLOWER,115,117
+Umutina-145_flower-1,,Umutina,145_flower,iku,iku,i k u,,,,,,,FLOWER,115,117
+Bororo-146_redhowlermonkey-1,,Bororo,146_redhowlermonkey,(pai) kujagu,kujagu,k u j a g u,,,,,,,RED.HOWLER.MONKEY,116,118
+Umutina-146_redhowlermonkey-1,,Umutina,146_redhowlermonkey,kutʃaku,kutʃaku,k u t ʃ a k u,,,,,,,RED.HOWLER.MONKEY,116,118
+Bororo-147_drink-1,,Bororo,147_drink,kudu,kudu,k u d u,,,,,,,DRINK,117,119
+Umutina-147_drink-1,,Umutina,147_drink,kuta / akuta,kuta,k u t a,,,,,,,DRINK,117,119
+Umutina-147_drink-2,,Umutina,147_drink,kuta / akuta,akuta,a k u t a,,,,,,,DRINK,117,119
+Bororo-148_beverage-1,,Bororo,148_beverage,ku / kuru,ku,k u,,,,,,,BEVERAGE,118,119
+Bororo-148_beverage-2,,Bororo,148_beverage,ku / kuru,kuru,k u r u,,,,,,,BEVERAGE,118,119
+Bororo-164_redandgreenmacaw-1,,Bororo,164_redandgreenmacaw,kuido,kuido,k u i d o,,,,,,,RED-AND-GREEN.MACAW,119,120
+Umutina-164_redandgreenmacaw-1,,Umutina,164_redandgreenmacaw,hujʃo,hujʃo,h u j ʃ o,,,,,,,RED-AND-GREEN.MACAW,119,120
+Bororo-150_swim-1,,Bororo,150_swim,kuru,kuru,k u r u,,,,,,,SWIM,120,121
+Umutina-150_swim-1,,Umutina,150_swim,oru pu,oru pu,o r u + p u,,,,,,,SWIM ?,120,121 224
+Bororo-151_lake-1,,Bororo,151_lake,kuruga,kuruga,k u r u g a,,,,,,,LAKE,122,123
+Umutina-151_lake-1,,Umutina,151_lake,urukʷa,urukʷa,u r u kʷ a,,,,,,,LAKE,122,123
+Bororo-152_mother-1,,Bororo,152_mother,mɨga,mɨga,m ɨ g a,,,,,,,MOTHER,123,124
+Umutina-152_mother-1,,Umutina,152_mother,mako / imako,mako,m a k o,,,,,,,MOTHER,208,226
+Umutina-152_mother-2,,Umutina,152_mother,mako / imako,imako,i m a k o,,,,,,,MOTHER,208,226
+Bororo-153_olderbrother-1,,Bororo,153_olderbrother,mana,mana,m a n a,,,,,,,OLDER.BROTHER,125,126
+Umutina-153_olderbrother-1,,Umutina,153_olderbrother,amana / amala,amana,a m a n a,,,,,,,OLDER.BROTHER,125,126
+Umutina-153_olderbrother-2,,Umutina,153_olderbrother,amana / amala,amala,a m a l a,,,,,,,OLDER.BROTHER,125,126
+Bororo-154_tail-1,,Bororo,154_tail,o,o,o,,,,,,,TAIL,141,141
+Umutina-154_tail-1,,Umutina,154_tail,o,o,o,,,,,,,TAIL,141,141
+Bororo-155_buriti-1,,Bororo,155_buriti,mano,mano,m a n o,,,,,,,BURITI,126,127
+Umutina-155_buriti-1,,Umutina,155_buriti,mano / manazokua,mano,m a n o,,,,,,,BURITI,126,127
+Umutina-155_buriti-2,,Umutina,155_buriti,mano / manazokua,manazokua,m a n a z o k ua,,,,,,,BURITI,126,127
+Bororo-156_agouti-1,,Bororo,156_agouti,mea,mea,m e a,,,,,,,AGOUTI,127,128
+Otuke-156_agouti-1,,Otuke,156_agouti,neda,neda,n e d a,,,,,,,AGOUTI,127,128
+Umutina-156_agouti-1,,Umutina,156_agouti,mea,mea,m e a,,,,,,,AGOUTI,127,128
+Bororo-157_walk-1,,Bororo,157_walk,merɨ / meru,merɨ,m e r ɨ,,,,,,,WALK,128,129
+Bororo-157_walk-2,,Bororo,157_walk,merɨ / meru,meru,m e r u,,,,,,,WALK,128,129
+Umutina-157_walk-1,,Umutina,157_walk,amenu / iminu,amenu,a m e n u,,,,,,,WALK,128,129
+Umutina-157_walk-2,,Umutina,157_walk,amenu / iminu,iminu,i m i n u,,,,,,,WALK,128,129
+Bororo-158_sun-1,,Bororo,158_sun,meri,meri,m e r i,,,,,,,SUN,129,130
+Otuke-158_sun-1,,Otuke,158_sun,neri,neri,n e r i,,,,,,,SUN,129,130
+Umutina-158_sun-1,,Umutina,158_sun,mini / mejni / meni,mini,m i n i,,,,,,,SUN,129,130
+Umutina-158_sun-2,,Umutina,158_sun,mini / mejni / meni,mejni,m e j n i,,,,,,,SUN,129,130
+Umutina-158_sun-3,,Umutina,158_sun,mini / mejni / meni,meni,m e n i,,,,,,,SUN,129,130
+Bororo-159_stingray-1,,Bororo,159_stingray,meru,meru,m e r u,,,,,,,STINGRAY,130,131
+Otuke-159_stingray-1,,Otuke,159_stingray,menu,menu,m e n u,,,,,,,STINGRAY,130,131
+Bororo-160_iron-1,,Bororo,160_iron,meriri,meriri,m e r i r i,,,,,,,IRON,131,132
+Otuke-160_iron-1,,Otuke,160_iron,neheri,neheri,n e h e r i,,,,,,,IRON,131,132
+Bororo-161_pathorroad-1,,Bororo,161_pathorroad,meru,meru,m e r u,,,,,,,ROAD,133,133
+Bororo-162_dove-1,,Bororo,162_dove,metugo,metugo,m e t u g o,,,,,,,DOVE,134,134
+Umutina-162_dove-1,,Umutina,162_dove,umitu / mitu,umitu,u m i t u,,,,,,,DOVE,134,134
+Umutina-162_dove-2,,Umutina,162_dove,umitu / mitu,mitu,m i t u,,,,,,,DOVE,134,134
+Bororo-163_earthorland-1,,Bororo,163_earthorland,moto,moto,m o t o,,,,,,,EARTH,135,135
+Otuke-163_earthorland-1,,Otuke,163_earthorland,moktuhu,moktuhu,m o k t u h u,,,,,,,EARTH,209,227
+Umutina-163_earthorland-1,,Umutina,163_earthorland,moto,moto,m o t o,,,,,,,EARTH,135,135
+Bororo-164_redandgreenmacaw-2,,Bororo,164_redandgreenmacaw,nabure,nabure,n a b u r e,,,,,,,RED-AND-GREEN.MACAW,136,136
+Umutina-164_redandgreenmacaw-2,,Umutina,164_redandgreenmacaw,alapore / alapure,alapore,a l a p o r e,,,,,,,RED-AND-GREEN.MACAW,210,228
+Umutina-164_redandgreenmacaw-3,,Umutina,164_redandgreenmacaw,alapore / alapure,alapure,a l a p u r e,,,,,,,RED-AND-GREEN.MACAW,210,228
+Bororo-165_babacuattaleaspeciosa-1,,Bororo,165_babacuattaleaspeciosa,no,no,n o,,,,,,,BABAÇU,137,137
+Umutina-165_babacuattaleaspeciosa-1,,Umutina,165_babacuattaleaspeciosa,no / nojʃuka,no,n o,,,,,,,BABAÇU,137,137
+Umutina-165_babacuattaleaspeciosa-2,,Umutina,165_babacuattaleaspeciosa,no / nojʃuka,nojʃuka,n o j ʃ u k a,,,,,,,BABAÇU,211,229
+Bororo-166_achiote-1,,Bororo,166_achiote,nonogo,nonogo,n o n o g o,,,,,,,ACHIOTE,138,138
+Umutina-166_achiote-1,,Umutina,166_achiote,nonokʷa / nolukʷa,nonokʷa,n o n o kʷ a,,,,,,,ACHIOTE,212,230
+Umutina-166_achiote-2,,Umutina,166_achiote,nonokʷa / nolukʷa,nolukʷa,n o l u kʷ a,,,,,,,ACHIOTE,212,230
+Bororo-167_arrow-1,,Bororo,167_arrow,tɨgo,tɨgo,t ɨ g o,,,,,,,ARROW,169,168
+Otuke-167_arrow-1,,Otuke,167_arrow,tehʷa,tehʷa,t e hʷ a,,,,,,,ARROW,221,239
+Umutina-167_arrow-1,,Umutina,167_arrow,to / itʃo,to,t o,,,,,,,ARROW,222,240
+Umutina-167_arrow-2,,Umutina,167_arrow,to / itʃo,itʃo,i t ʃ o,,,,,,,ARROW,222,240
+Bororo-168_sleepstate-1,,Bororo,168_sleepstate,nori,nori,n o r i,,,,,,,SLEEP,139,139
+Umutina-168_sleepstate-1,,Umutina,168_sleepstate,unori,unori,u n o r i,,,,,,,SLEEP,139,139
+Bororo-169_sleep-1,,Bororo,169_sleep,nudu / nududu,nudu,n u d u,,,,,,,TO.SLEEP,140,140
+Bororo-169_sleep-2,,Bororo,169_sleep,nudu / nududu,nududu,n u d u d u,,,,,,,TO.SLEEP,140,140
+Otuke-169_sleep-1,,Otuke,169_sleep,anutake,anutake,a n u t a k e,,,,,,,TO.SLEEP,213,231
+Umutina-169_sleep-1,,Umutina,169_sleep,notu,notu,n o t u,,,,,,,TO.SLEEP,140,140
+Bororo-170_fox-1,,Bororo,170_fox,okʷa,okʷa,o kʷ a,,,,,,,FOX,49,54
+Otuke-170_fox-1,,Otuke,170_fox,oka,oka,o k a,,,,,,,FOX,49,54
+Umutina-170_fox-1,,Umutina,170_fox,akakonoʔ,akakonoʔ,a k a k o n o ʔ,,,,,,,FOX,214,232
+Bororo-171_armadillo-1,,Bororo,171_armadillo,okʷaru / waru,okʷaru,o kʷ a r u,,,,,,,ARMADILLO,89,92
+Bororo-171_armadillo-2,,Bororo,171_armadillo,okʷaru / waru,waru,w a r u,,,,,,,ARMADILLO,89,92
+Otuke-171_armadillo-1,,Otuke,171_armadillo,ohʷaru,ohʷaru,o hʷ a r u,,,,,,,ARMADILLO,89,92
