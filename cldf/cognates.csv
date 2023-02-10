@@ -2,28 +2,390 @@ ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Al
 Bororo-166_achiote-1-1,Bororo-166_achiote-1,nonogo,1,false,expert,,n o n o g o,SCA,,1
 Umutina-166_achiote-1-1,Umutina-166_achiote-1,nonokʷa,1,false,expert,,n o n o kʷ a,SCA,,1
 Umutina-166_achiote-2-1,Umutina-166_achiote-2,nolukʷa,1,false,expert,,n o l u kʷ a,SCA,,1
-Bororo-156_agouti-1-1,Bororo-156_agouti-1,mea,1,false,expert,,m e - - - a,SCA,,1
-Otuke-156_agouti-1-1,Otuke-156_agouti-1,neda,1,false,expert,,n e d - - a,SCA,,1
-Umutina-156_agouti-1-1,Umutina-156_agouti-1,mea,1,false,expert,,m e - - - a,SCA,,1
-Bororo-103_anacondawaterboa-1-1,Bororo-103_anacondawaterboa-1,dʒure,1,false,expert,,dʒ u r - - e,SCA,,1
-Umutina-103_anacondawaterboa-1-1,Umutina-103_anacondawaterboa-1,jure,1,false,expert,,j u r - - e,SCA,,1
-Umutina-103_anacondawaterboa-2-1,Umutina-103_anacondawaterboa-2,ʒurɛ,1,false,expert,,ʒ u r - - ɛ,SCA,,1
+Bororo-156_agouti-1-1,Bororo-156_agouti-1,mea,137,false,expert,,m e - a,SCA,,1
+Otuke-156_agouti-1-1,Otuke-156_agouti-1,neda,137,false,expert,,n e d a,SCA,,1
+Umutina-156_agouti-1-1,Umutina-156_agouti-1,mea,137,false,expert,,m e - a,SCA,,1
+Bororo-103_anacondawaterboa-1-1,Bororo-103_anacondawaterboa-1,dʒure,138,false,expert,,dʒ u r e,SCA,,1
+Umutina-103_anacondawaterboa-1-1,Umutina-103_anacondawaterboa-1,jure,138,false,expert,,j u r e,SCA,,1
+Umutina-103_anacondawaterboa-2-1,Umutina-103_anacondawaterboa-2,ʒurɛ,138,false,expert,,ʒ u r ɛ,SCA,,1
 Bororo-133_arm-1-1,Bororo-133_arm-1,kera,1,false,expert,,k e r - - a,SCA,,1
+Otuke-133_arm-1-1,Otuke-133_arm-1,keara,1,false,expert,,k ea r - - a,SCA,,1
+Umutina-133_arm-1-1,Umutina-133_arm-1,tʃe,24,false,expert,,tʃ e,SCA,,1
+Bororo-171_armadillo-1-1,Bororo-171_armadillo-1,okʷaru,25,false,expert,,o kʷ a r u,SCA,,1
+Bororo-171_armadillo-2-1,Bororo-171_armadillo-2,waru,25,false,expert,,- w a r u,SCA,,1
+Otuke-171_armadillo-1-1,Otuke-171_armadillo-1,ohʷaru,25,false,expert,,o hʷ a r u,SCA,,1
+Bororo-74_armadillosp-1-1,Bororo-74_armadillosp-1,botowɨ,26,false,expert,,b o t o w ɨ,SCA,,1
+Bororo-74_armadillosp-2-1,Bororo-74_armadillosp-2,enokuri,27,false,expert,,e n o k u r i,SCA,,1
+Bororo-74_armadillosp-3-1,Bororo-74_armadillosp-3,bokodori,28,false,expert,,b o k o d o r i,SCA,,1
+Bororo-74_armadillosp-4-1,Bororo-74_armadillosp-4,rea,29,false,expert,,r ea,SCA,,1
+Bororo-167_arrow-1-1,Bororo-167_arrow-1,tɨgo,30,false,expert,,t ɨ g o,SCA,,1
+Otuke-167_arrow-1-1,Otuke-167_arrow-1,tehʷa,30,false,expert,,t e hʷ a,SCA,,1
+Umutina-167_arrow-1-1,Umutina-167_arrow-1,to,31,false,expert,,t o,SCA,,1
+Umutina-167_arrow-2-1,Umutina-167_arrow-2,tʃo,31,false,expert,,tʃ o,SCA,,1
+Otuke-167_arrow-2-1,Otuke-167_arrow-2,tehua,30,false,expert,,t e h ua,SCA,,1
+Bororo-100_ash-1-1,Bororo-100_ash-1,dʒorugudo,32,false,expert,,dʒ o r u g u d o,SCA,,1
+Umutina-100_ash-1-1,Umutina-100_ash-1,zorotu,32,false,expert,,z o r - - o t u,SCA,,1
+Umutina-100_ash-2-1,Umutina-100_ash-2,zorutu,32,false,expert,,z o r - - u t u,SCA,,1
+Bororo-1_axe-1-1,Bororo-1_axe-1,paro,34,false,expert,,- p a r o,SCA,,1
+Umutina-1_axe-1-1,Umutina-1_axe-1,palo,34,false,expert,,- p a l o,SCA,,1
+Umutina-1_axe-2-1,Umutina-1_axe-2,apado,34,false,expert,,a p a d o,SCA,,1
+Bororo-165_babacuattaleaspeciosa-1-1,Bororo-165_babacuattaleaspeciosa-1,no,35,false,expert,,n o,SCA,,1
+Umutina-165_babacuattaleaspeciosa-1-1,Umutina-165_babacuattaleaspeciosa-1,no,35,false,expert,,n o,SCA,,1
+Umutina-165_babacuattaleaspeciosa-2-1,Umutina-165_babacuattaleaspeciosa-2,nojʃuka,36,false,expert,,n o j ʃ u k a,SCA,,1
+Bororo-102_back-1-1,Bororo-102_back-1,dʒura,37,false,expert,,dʒ u r a,SCA,,1
+Otuke-102_back-1-1,Otuke-102_back-1,tʃura,37,false,expert,,tʃ u r a,SCA,,1
+Bororo-4_badorevil-1-1,Bororo-4_badorevil-1,pega,40,false,expert,,p e g - - a,SCA,,1
+Umutina-4_badorevil-1-1,Umutina-4_badorevil-1,pikina,40,false,expert,,p i k i n a,SCA,,1
+Umutina-4_badorevil-2-1,Umutina-4_badorevil-2,pekina,40,false,expert,,p e k i n a,SCA,,1
+Bororo-126_bamboo-1-1,Bororo-126_bamboo-1,kado,41,false,expert,,k a d o,SCA,,1
+Bororo-67_banana-1-1,Bororo-67_banana-1,bako,43,false,expert,,b a k o,SCA,,1
+Otuke-67_banana-1-1,Otuke-67_banana-1,aku,43,false,expert,,- a k u,SCA,,1
+Bororo-66_barkorshell-1-1,Bororo-66_barkorshell-1,biri,44,false,expert,,b i r - - i,SCA,,1
+Otuke-66_barkorshell-1-1,Otuke-66_barkorshell-1,irivi,44,false,expert,,- i r i v i,SCA,,1
+Umutina-66_barkorshell-1-1,Umutina-66_barkorshell-1,birika,44,false,expert,,b i r i k a,SCA,,1
+Bororo-132_bat-1-1,Bororo-132_bat-1,ke,45,false,expert,,k e - - - -,SCA,,1
+Otuke-132_bat-1-1,Otuke-132_bat-1,ketari,45,false,expert,,k e t a r i,SCA,,1
+Umutina-132_bat-1-1,Umutina-132_bat-1,kie,45,false,expert,,k ie - - - -,SCA,,1
+Bororo-77_beak-1-1,Bororo-77_beak-1,oto,46,false,expert,,o t o,SCA,,1
+Otuke-77_beak-1-1,Otuke-77_beak-1,aho,46,false,expert,,a h o,SCA,,1
+Umutina-77_beak-1-1,Umutina-77_beak-1,oto,46,false,expert,,o t o,SCA,,1
+Bororo-148_beverage-1-1,Bororo-148_beverage-1,ku,53,false,expert,,k u - -,SCA,,1
+Bororo-148_beverage-2-1,Bororo-148_beverage-2,kuru,53,false,expert,,k u r u,SCA,,1
+Bororo-144_blood-1-1,Bororo-144_blood-1,ku,54,false,expert,,k u,SCA,,1
+Umutina-144_blood-1-1,Umutina-144_blood-1,ko,54,false,expert,,k o,SCA,,1
+Bororo-61_boil-1-1,Bororo-61_boil-1,bere,55,false,expert,,b e r e,SCA,,1
+Umutina-61_boil-1-1,Umutina-61_boil-1,bere,55,false,expert,,b e r e,SCA,,1
+Bororo-14_bone-1-1,Bororo-14_bone-1,ra,56,false,expert,,r a,SCA,,1
 Bororo-53_bow-1-1,Bororo-53_bow-1,baiga,17,false,expert,,b ai - - g a,SCA,,1
 Bororo-53_bow-2-1,Bororo-53_bow-2,tygo,18,false,expert,,t ɯ g o,SCA,,1
 Otuke-53_bow-1-1,Otuke-53_bow-1,wewika,17,false,expert,,w e w i k a,SCA,,1
 Umutina-53_bow-1-1,Umutina-53_bow-1,boika,17,false,expert,,b oi - - k a,SCA,,1
-Bororo-112_brotherinlaw-1-1,Bororo-112_brotherinlaw-1,iedaga,8,false,expert,,ie d a g a,SCA,,1
+Bororo-60_breuprotiumheptaphyllum-1-1,Bororo-60_breuprotiumheptaphyllum-1,berago,58,false,expert,,b e r a g o,SCA,,1
+Umutina-60_breuprotiumheptaphyllum-1-1,Umutina-60_breuprotiumheptaphyllum-1,menaku,58,false,expert,,m e n a k u,SCA,,1
+Umutina-60_breuprotiumheptaphyllum-2-1,Umutina-60_breuprotiumheptaphyllum-2,melaku,58,false,expert,,m e l a k u,SCA,,1
+Bororo-112_brotherinlaw-1-1,Bororo-112_brotherinlaw-1,inodou,59,false,expert,,i n o d ou,SCA,,1
+Bororo-112_brotherinlaw-2-1,Bororo-112_brotherinlaw-2,iedaga,8,false,expert,,ie d a g a,SCA,,1
+Bororo-155_buriti-1-1,Bororo-155_buriti-1,mano,64,false,expert,,m a n - - - - o,SCA,,1
+Umutina-155_buriti-1-1,Umutina-155_buriti-1,mano,64,false,expert,,m a n - - - - o,SCA,,1
+Umutina-155_buriti-2-1,Umutina-155_buriti-2,manazokua,64,false,expert,,m a n a z o k ua,SCA,,1
+Bororo-68_butterfly-1-1,Bororo-68_butterfly-1,baragadu,65,false,expert,,b a r a g a d u,SCA,,1
+Umutina-68_butterfly-1-1,Umutina-68_butterfly-1,balatutu,65,false,expert,,b a l a t u t u,SCA,,1
+Bororo-85_caja-1-1,Bororo-85_caja-1,dʒatugo,68,false,expert,,dʒ a t u g o,SCA,,1
+Umutina-85_caja-1-1,Umutina-85_caja-1,zatuku,68,false,expert,,z a t u k u,SCA,,1
+Bororo-36_capybara-1-1,Bororo-36_capybara-1,akiwa,69,false,expert,,a k i w a,SCA,,1
+Otuke-36_capybara-1-1,Otuke-36_capybara-1,okiwia,69,false,expert,,o k i w ia,SCA,,1
+Otuke-2_chicha-1-1,Otuke-2_chicha-1,tʃoro,75,false,expert,,- tʃ o r o -,SCA,,1
+Otuke-2_chicha-2-1,Otuke-2_chicha-2,iʃoro,75,false,expert,,i ʃ o r o -,SCA,,1
+Bororo-47_coaticoatimundi-1-1,Bororo-47_coaticoatimundi-1,atoe,79,false,expert,,a t o e,SCA,,1
+Bororo-47_coaticoatimundi-2-1,Bororo-47_coaticoatimundi-2,kudobo,80,false,expert,,k u d o b o,SCA,,1
+Umutina-47_coaticoatimundi-1-1,Umutina-47_coaticoatimundi-1,utupu,80,false,expert,,- u t u p u,SCA,,1
+Bororo-116_cob-1-1,Bororo-116_cob-1,ira,81,false,expert,,i r a,SCA,,1
+Bororo-33_cold-1-1,Bororo-33_cold-1,akɨ,86,false,expert,,- a k ɨ - -,SCA,,1
+Bororo-33_cold-2-1,Bororo-33_cold-2,akodo,86,false,expert,,- a k o d o,SCA,,1
+Umutina-33_cold-1-1,Umutina-33_cold-1,aketo,86,false,expert,,- a k e t o,SCA,,1
+Umutina-33_cold-2-1,Umutina-33_cold-2,bakieto,86,false,expert,,b a k ie t o,SCA,,1
+Umutina-33_cold-3-1,Umutina-33_cold-3,baketo,86,false,expert,,b a k e t o,SCA,,1
+Bororo-31_cotton-1-1,Bororo-31_cotton-1,akigu,88,false,expert,,a k i g u,SCA,,1
+Bororo-143_cough-1-1,Bororo-143_cough-1,kodʒari,90,false,expert,,k o dʒ a r i,SCA,,1
+Bororo-21_crab-1-1,Bororo-21_crab-1,ruka,91,false,expert,,r u k a,SCA,,1
+Otuke-21_crab-1-1,Otuke-21_crab-1,rusa,91,false,expert,,r u s a,SCA,,1
+Bororo-127_cut-1-1,Bororo-127_cut-1,kado,93,false,expert,,k a d o,SCA,,1
+Umutina-127_cut-1-1,Umutina-127_cut-1,hato,93,false,expert,,h a t o,SCA,,1
+Bororo-16_dance-1-1,Bororo-16_dance-1,reru,94,false,expert,,- r e r - - u,SCA,,1
+Otuke-16_dance-1-1,Otuke-16_dance-1,arareta,94,false,expert,,a r a r e t a,SCA,,1
+Otuke-76_deer-1-1,Otuke-76_deer-1,waroa,97,false,expert,,w a r oa,SCA,,1
+Bororo-76_deer-1-1,Bororo-76_deer-1,pobogo,96,false,expert,,p o b o g o,SCA,,1
+Bororo-76_deer-2-1,Bororo-76_deer-2,orogo,96,false,expert,,- o r o g o,SCA,,1
+Otuke-76_deer-2-1,Otuke-76_deer-2,oroikia,98,false,expert,,o r oi k ia,SCA,,1
+Bororo-62_die-1-1,Bororo-62_die-1,bi,99,false,expert,,b i,SCA,,1
+Umutina-62_die-1-1,Umutina-62_die-1,bia,99,false,expert,,b ia,SCA,,1
+Bororo-42_dog-1-1,Bororo-42_dog-1,arigao,100,false,expert,,a r i g a - o,SCA,,1
+Umutina-42_dog-1-1,Umutina-42_dog-1,arikau,100,false,expert,,a r i k - - au,SCA,,1
+Otuke-42_dog-1-1,Otuke-42_dog-1,sixaara,100,false,expert,,- s i ʃ aːa r a,SCA,,1
+Bororo-162_dove-1-1,Bororo-162_dove-1,metugo,101,false,expert,,- m e t u g o,SCA,,1
+Umutina-162_dove-1-1,Umutina-162_dove-1,umitu,101,false,expert,,u m i t - - u,SCA,,1
+Umutina-162_dove-2-1,Umutina-162_dove-2,mitu,101,false,expert,,- m i t - - u,SCA,,1
+Bororo-147_drink-1-1,Bororo-147_drink-1,kudu,102,false,expert,,- k - - u d u,SCA,,1
+Umutina-147_drink-1-1,Umutina-147_drink-1,kuta,102,false,expert,,- k - - u t a,SCA,,1
+Umutina-147_drink-2-1,Umutina-147_drink-2,akuta,102,false,expert,,a k - - u t a,SCA,,1
+Kovareka-147_drink-1-1,Kovareka-147_drink-1,ko,102,false,expert,,- k - - o - -,SCA,,1
+Kuruminaka-147_drink-1-1,Kuruminaka-147_drink-1,kututo,102,false,expert,,- k u t u t o,SCA,,1
+Bororo-135_dry-1-1,Bororo-135_dry-1,ki,103,false,expert,,k i,SCA,,1
+Umutina-135_dry-1-1,Umutina-135_dry-1,ki,103,false,expert,,k i,SCA,,1
+Umutina-135_dry-2-1,Umutina-135_dry-2,kyi,103,false,expert,,k yi,SCA,,1
+Bororo-94_duck-1-1,Bororo-94_duck-1,turubare,104,false,expert,,t u r u b a r e,SCA,,1
+Otuke-94_duck-1-1,Otuke-94_duck-1,turupare,104,false,expert,,t u r u p a r e,SCA,,1
+Bororo-64_ear-1-1,Bororo-64_ear-1,bia,105,false,expert,,b i a,SCA,,1
+Umutina-64_ear-1-1,Umutina-64_ear-1,mbia,105,false,expert,,m/b i a,SCA,,1
+Umutina-64_ear-2-1,Umutina-64_ear-2,bia,105,false,expert,,b i a,SCA,,1
+Bororo-163_earthorland-1-1,Bororo-163_earthorland-1,moto,106,false,expert,,m o - t - - o,SCA,,1
+Otuke-163_earthorland-1-1,Otuke-163_earthorland-1,moktuhu,106,false,expert,,m o k t u h u,SCA,,1
+Umutina-163_earthorland-1-1,Umutina-163_earthorland-1,moto,106,false,expert,,m o - t - - o,SCA,,1
+Bororo-139_eat-1-1,Bororo-139_eat-1,ko,107,false,expert,,k o,SCA,,1
+Umutina-139_eat-1-1,Umutina-139_eat-1,ho,107,false,expert,,h o,SCA,,1
+Bororo-51_egg-1-1,Bororo-51_egg-1,ba,108,false,expert,,b a,SCA,,1
+Umutina-51_egg-1-1,Umutina-51_egg-1,ba,108,false,expert,,b a,SCA,,1
+Umutina-51_egg-2-1,Umutina-51_egg-2,mba,108,false,expert,,m/b a,SCA,,1
+Bororo-84_elbow-1-1,Bororo-84_elbow-1,piora,109,false,expert,,p io r - - a,SCA,,1
+Otuke-84_elbow-1-1,Otuke-84_elbow-1,kiarato,109,false,expert,,k ia r a t o,SCA,,1
+Bororo-28_face-1-1,Bororo-28_face-1,dʒe,110,false,expert,,- dʒ e -,SCA,,1
+Otuke-28_face-1-1,Otuke-28_face-1,tʃe,110,false,expert,,- tʃ e -,SCA,,1
+Umutina-28_face-1-1,Umutina-28_face-1,azeʔ,110,false,expert,,a z e ʔ,SCA,,1
+Bororo-70_field-1-1,Bororo-70_field-1,boku,113,false,expert,,b o k u,SCA,,1
+Umutina-70_field-1-1,Umutina-70_field-1,boku,113,false,expert,,b o k u,SCA,,1
+Bororo-113_fingernail-1-1,Bororo-113_fingernail-1,inogi,115,false,expert,,- i n o g i,SCA,,1
+Umutina-113_fingernail-1-1,Umutina-113_fingernail-1,hino,115,false,expert,,h i n o - -,SCA,,1
+Bororo-99_fire-1-1,Bororo-99_fire-1,dʒoru,116,false,expert,,dʒ o r - - u,SCA,,1
+Bororo-99_fire-2-1,Bororo-99_fire-2,eru,116,false,expert,,- e r - - u,SCA,,1
+Bororo-99_fire-3-1,Bororo-99_fire-3,oru,116,false,expert,,- o r - - u,SCA,,1
+Bororo-99_fire-4-1,Bororo-99_fire-4,ru,116,false,expert,,r u - - - -,SCA,,1
+Bororo-99_fire-5-1,Bororo-99_fire-5,rugadu,116,false,expert,,r u g a d u,SCA,,1
+Otuke-99_fire-1-1,Otuke-99_fire-1,reru,116,false,expert,,r e r - - u,SCA,,1
+Umutina-99_fire-1-1,Umutina-99_fire-1,zoru,116,false,expert,,z o r - - u,SCA,,1
+Bororo-131_fish-1-1,Bororo-131_fish-1,kare,118,false,expert,,- k a r e,SCA,,1
+Umutina-131_fish-1-1,Umutina-131_fish-1,hare,118,false,expert,,- h a r e,SCA,,1
+Otuke-131_fish-1-1,Otuke-131_fish-1,aharo,118,false,expert,,a h a r o,SCA,,1
+Bororo-142_fleshormeat-1-1,Bororo-142_fleshormeat-1,kodɨ,119,false,expert,,k o d ɨ,SCA,,1
+Umutina-142_fleshormeat-1-1,Umutina-142_fleshormeat-1,kotyka,119,false,expert,,k o t y,SCA,,1
+Umutina-142_fleshormeat-1-2,Umutina-142_fleshormeat-1,kotyka,120,false,expert,,k a,SCA,,2
+Umutina-142_fleshormeat-2-1,Umutina-142_fleshormeat-2,katika,119,false,expert,,k a t i,SCA,,1
+Umutina-142_fleshormeat-2-2,Umutina-142_fleshormeat-2,katika,120,false,expert,,k a,SCA,,2
+Bororo-145_flower-1-1,Bororo-145_flower-1,ku,121,false,expert,,- - k - - - - u,SCA,,1
+Bororo-145_flower-2-1,Bororo-145_flower-2,kʷo,121,false,expert,,- - kʷ - - - - o,SCA,,1
+Bororo-145_flower-3-1,Bororo-145_flower-3,oku,121,false,expert,,- o k - - - - u,SCA,,1
+Bororo-145_flower-4-1,Bororo-145_flower-4,okureboe,121,false,expert,,- o k u r e b oe,SCA,,1
+Umutina-145_flower-1-1,Umutina-145_flower-1,iku,121,false,expert,,- i k - - - - u,SCA,,1
+Otuke-145_flower-1-1,Otuke-145_flower-1,rikihu,121,false,expert,,r i k - - i h u,SCA,,1
+Otuke-91_flyinsect-1-1,Otuke-91_flyinsect-1,ruka,122,false,expert,,- r u k - - a,SCA,,1
+Bororo-91_flyinsect-1-1,Bororo-91_flyinsect-1,ruke,122,false,expert,,- r u k - - e,SCA,,1
+Bororo-92_flysp-1-1,Bororo-92_flysp-1,toguare,122,false,expert,,- t o g ua r e,SCA,,1
+Umutina-92_flysp-1-1,Umutina-92_flysp-1,otokuare,122,false,expert,,o t o k ua r e,SCA,,1
+Umutina-92_flysp-2-1,Umutina-92_flysp-2,otokali,122,false,expert,,o t o k a l i,SCA,,1
+Bororo-49_foot-1-1,Bororo-49_foot-1,bɨre,10,false,expert,,- b ɨ r e,SCA,,1
+Umutina-49_foot-1-1,Umutina-49_foot-1,bure,10,false,expert,,- b u r e,SCA,,1
+Umutina-49_foot-2-1,Umutina-49_foot-2,ambure,10,false,expert,,a m/b u r e,SCA,,1
 Bororo-119_forest-1-1,Bororo-119_forest-1,itura,2,false,expert,,i t u r a,SCA,,1
 Otuke-119_forest-1-1,Otuke-119_forest-1,itura,2,false,expert,,i t u r a,SCA,,1
+Umutina-119_forest-1-1,Umutina-119_forest-1,iʃula,2,false,expert,,i ʃ u l a,SCA,,1
 Otuke-119_forest-2-1,Otuke-119_forest-2,itura,2,false,expert,,i t u r a,SCA,,1
+Bororo-170_fox-1-1,Bororo-170_fox-1,okʷa,124,false,expert,,o kʷ a - - - - -,SCA,,1
+Otuke-170_fox-1-1,Otuke-170_fox-1,oka,124,false,expert,,o k a - - - - -,SCA,,1
+Umutina-170_fox-1-1,Umutina-170_fox-1,akakonoʔ,124,false,expert,,a k a k o n o ʔ,SCA,,1
+Bororo-20_frog-1-1,Bororo-20_frog-1,ru,13,false,expert,,- - - - r u,SCA,,1
+Otuke-20_frog-1-1,Otuke-20_frog-1,hʷaraka,125,false,expert,,hʷ a r a k a,SCA,,1
 Umutina-20_frog-1-1,Umutina-20_frog-1,balaru,13,false,expert,,b a l a r u,SCA,,1
 Umutina-20_frog-2-1,Umutina-20_frog-2,du,13,false,expert,,- - - - d u,SCA,,1
 Umutina-20_frog-3-1,Umutina-20_frog-3,ru,13,false,expert,,- - - - r u,SCA,,1
 Umutina-65_genipa-1-1,Umutina-65_genipa-1,bei,14,false,expert,,b ei,SCA,,1
 Bororo-13_gildedcatfish-1-1,Bororo-13_gildedcatfish-1,poru,15,false,expert,,p o r u,SCA,,1
 Umutina-13_gildedcatfish-1-1,Umutina-13_gildedcatfish-1,poru,15,false,expert,,p o r u,SCA,,1
+Bororo-35_good-1-1,Bororo-35_good-1,amarew,128,false,expert,,a m a r e w,SCA,,1
+Umutina-35_good-1-1,Umutina-35_good-1,emaka,128,false,expert,,e m a k a -,SCA,,1
+Kovareka-35_good-1-1,Kovareka-35_good-1,emaka,128,false,expert,,e m a k a -,SCA,,1
+Kuruminaka-35_good-1-1,Kuruminaka-35_good-1,ĩmaxa,128,false,expert,,ĩ m a x a -,SCA,,1
+Bororo-8_gourd-1-1,Bororo-8_gourd-1,poari,129,false,expert,,p oa r i,SCA,,1
+Bororo-8_gourd-2-1,Bororo-8_gourd-2,pogoga,130,false,expert,,p o g o g a,SCA,,1
+Umutina-8_gourd-1-1,Umutina-8_gourd-1,poari,129,false,expert,,p oa r i,SCA,,1
+Umutina-8_gourd-2-1,Umutina-8_gourd-2,poka,130,false,expert,,p o k - - a,SCA,,1
+Otuke-8_gourd-1-1,Otuke-8_gourd-1,aika,131,false,expert,,ai k a,SCA,,1
+Bororo-39_hair-1-1,Bororo-39_hair-1,ao,134,false,expert,,ao - -,SCA,,1
+Umutina-39_hair-1-1,Umutina-39_hair-1,azo,134,false,expert,,a z o,SCA,,1
+Otuke-39_hair-1-1,Otuke-39_hair-1,aho,134,false,expert,,a h o,SCA,,1
+Bororo-57_hammock-1-1,Bororo-57_hammock-1,buke,135,false,expert,,b u k e,SCA,,1
+Umutina-57_hammock-1-1,Umutina-57_hammock-1,bukye,135,false,expert,,b u k ye,SCA,,1
+Bororo-55_heart-1-1,Bororo-55_heart-1,bapo,76,false,expert,,b a p o,SCA,,1
+Umutina-55_heart-1-1,Umutina-55_heart-1,wapo,76,false,expert,,w a p o,SCA,,1
+Otuke-55_heart-1-1,Otuke-55_heart-1,ʃo,123,false,expert,,ʃ o,SCA,,1
+Bororo-121_hedgehog-1-1,Bororo-121_hedgehog-1,iwe,182,false,expert,,- i w e,SCA,,1
+Umutina-121_hedgehog-1-1,Umutina-121_hedgehog-1,hibe,182,false,expert,,h i b e,SCA,,1
+Bororo-83_heel-1-1,Bororo-83_heel-1,bureado,183,false,expert,,- b u r e a d o,SCA,,1
+Otuke-83_heel-1-1,Otuke-83_heel-1,iwiaroto,183,false,expert,,i w ia r - o t o,SCA,,1
+Bororo-11_hole-1-1,Bororo-11_hole-1,poro,184,false,expert,,p o r o,SCA,,1
+Umutina-11_hole-1-1,Umutina-11_hole-1,podo,184,false,expert,,p o d o,SCA,,1
+Bororo-137_hornanatomy-1-1,Bororo-137_hornanatomy-1,kiga,185,false,expert,,- k i g a,SCA,,1
+Otuke-137_hornanatomy-1-1,Otuke-137_hornanatomy-1,ukikʷa,185,false,expert,,u k i kʷ a,SCA,,1
+Bororo-96_hornedscreamersp-1-1,Bororo-96_hornedscreamersp-1,tamigi,186,false,expert,,t a m i g i,SCA,,1
+Umutina-96_hornedscreamersp-1-1,Umutina-96_hornedscreamersp-1,tami,186,false,expert,,t a m - - i,SCA,,1
+Bororo-123_house-1-1,Bororo-123_house-1,baj,187,false,expert,,b a j,SCA,,1
+Bororo-24_howlermonkey-1-1,Bororo-24_howlermonkey-1,pai,189,false,expert,,p a - - - i,SCA,,1
+Umutina-24_howlermonkey-1-1,Umutina-24_howlermonkey-1,paju,189,false,expert,,p a - - j u,SCA,,1
+Umutina-24_howlermonkey-2-1,Umutina-24_howlermonkey-2,pajio,189,false,expert,,p a - - j io,SCA,,1
+Umutina-24_howlermonkey-3-1,Umutina-24_howlermonkey-3,payu,189,false,expert,,p a - - y u,SCA,,1
+Bororo-111_i-1-1,Bororo-111_i-1,imi,189,false,expert,,- i - - m i,SCA,,1
+Umutina-111_i-1-1,Umutina-111_i-1,imi,189,false,expert,,- i - - m i,SCA,,1
+Bororo-118_iguana-1-1,Bororo-118_iguana-1,irui,189,false,expert,,- i r u - i,SCA,,1
+Bororo-160_iron-1-1,Bororo-160_iron-1,meriri,190,false,expert,,m e r i r i,SCA,,1
+Otuke-160_iron-1-1,Otuke-160_iron-1,neheri,190,false,expert,,n e h e r i,SCA,,1
+Bororo-108_jararacussu-1-1,Bororo-108_jararacussu-1,etari,191,false,expert,,e t a r i,SCA,,1
+Umutina-108_jararacussu-1-1,Umutina-108_jararacussu-1,etari,191,false,expert,,e t a r i,SCA,,1
 Bororo-129_kingfisher-1-1,Bororo-129_kingfisher-1,kadomo,23,false,expert,,k a d o m o,SCA,,1
 Umutina-129_kingfisher-1-1,Umutina-129_kingfisher-1,katamã,23,false,expert,,k a t a m ã,SCA,,1
+Bororo-151_lake-1-1,Bororo-151_lake-1,kuruga,192,false,expert,,k u r u g a,SCA,,1
+Umutina-151_lake-1-1,Umutina-151_lake-1,urukʷa,192,false,expert,,- u r u kʷ a,SCA,,1
+Otuke-151_lake-1-1,Otuke-151_lake-1,ohaeta,193,false,expert,,o h ae t a,SCA,,1
+Bororo-43_leaf-1-1,Bororo-43_leaf-1,aru,194,false,expert,,- a r u,SCA,,1
+Bororo-43_leaf-2-1,Bororo-43_leaf-2,raru,194,false,expert,,r a r u,SCA,,1
+Otuke-43_leaf-1-1,Otuke-43_leaf-1,rari,194,false,expert,,r a r i,SCA,,1
+Bororo-80_liedown-1-1,Bororo-80_liedown-1,pado,195,false,expert,,p a d o,SCA,,1
+Umutina-80_liedown-1-1,Umutina-80_liedown-1,pata,195,false,expert,,p a t a,SCA,,1
+Bororo-90_lightignite-1-1,Bororo-90_lightignite-1,dʒorɨto,196,false,expert,,dʒ o r - - ɨ t o,SCA,,1
+Umutina-90_lightignite-1-1,Umutina-90_lightignite-1,zorututo,196,false,expert,,z o r u t u t o,SCA,,1
+Bororo-34_liver-1-1,Bororo-34_liver-1,aka,197,false,expert,,a k a,SCA,,1
+Umutina-34_liver-1-1,Umutina-34_liver-1,ua,198,false,expert,,ua,SCA,,1
+Umutina-34_liver-2-1,Umutina-34_liver-2,a,198,false,expert,,a,SCA,,1
+Bororo-38_lizard-1-1,Bororo-38_lizard-1,amema,199,false,expert,,- a m - - e m a,SCA,,1
+Otuke-38_lizard-1-1,Otuke-38_lizard-1,mamasane,199,false,expert,,m a m a s a n e,SCA,,1
+Umutina-38_lizard-1-1,Umutina-38_lizard-1,amema,199,false,expert,,- a m - - e m a,SCA,,1
+Bororo-17_manedwolf-1-1,Bororo-17_manedwolf-1,rie,200,false,expert,,r ie,SCA,,1
+Bororo-59_mangaba-1-1,Bororo-59_mangaba-1,bato,201,false,expert,,b a t o,SCA,,1
+Bororo-101_manioc-1-1,Bororo-101_manioc-1,dʒu,203,false,expert,,dʒ u - - -,SCA,,1
+Bororo-101_manioc-2-1,Bororo-101_manioc-2,dʒurew,203,false,expert,,dʒ u r e w,SCA,,1
+Otuke-101_manioc-1-1,Otuke-101_manioc-1,tʃuhu,203,false,expert,,tʃ u h u -,SCA,,1
+Bororo-41_moon-1-1,Bororo-41_moon-1,ari,204,false,expert,,a r i,SCA,,1
+Umutina-41_moon-1-1,Umutina-41_moon-1,ari,204,false,expert,,a r i,SCA,,1
+Umutina-41_moon-2-1,Umutina-41_moon-2,ali,204,false,expert,,a l i,SCA,,1
+Bororo-52_mosquito-1-1,Bororo-52_mosquito-1,batʃe,205,false,expert,,b a tʃ e,SCA,,1
+Umutina-52_mosquito-1-1,Umutina-52_mosquito-1,mbe,205,false,expert,,m/b - - e,SCA,,1
+Umutina-52_mosquito-2-1,Umutina-52_mosquito-2,bai,205,false,expert,,b ai - -,SCA,,1
+Otuke-52_mosquito-1-1,Otuke-52_mosquito-1,mase,205,false,expert,,m a s e,SCA,,1
+Bororo-152_mother-1-1,Bororo-152_mother-1,mɨga,206,false,expert,,m ɨ g a,SCA,,1
+Umutina-152_mother-1-1,Umutina-152_mother-1,mako,206,false,expert,,m a k o,SCA,,1
+Bororo-110_mouth-1-1,Bororo-110_mouth-1,ia,207,false,expert,,- ia - -,SCA,,1
+Otuke-110_mouth-1-1,Otuke-110_mouth-1,ʃiora,207,false,expert,,ʃ io r a,SCA,,1
+Bororo-19_mud-1-1,Bororo-19_mud-1,rotu,209,false,expert,,r o t u,SCA,,1
+Otuke-19_mud-1-1,Otuke-19_mud-1,roktu,210,false,expert,,r o k t u,SCA,,1
+Umutina-19_mud-1-1,Umutina-19_mud-1,bukututu,211,false,expert,,b u k u t u t u,SCA,,1
+Bororo-15_narrate-1-1,Bororo-15_narrate-1,readodo,212,false,expert,,- r ea d o d o,SCA,,1
+Umutina-15_narrate-1-1,Umutina-15_narrate-1,alalotu,212,false,expert,,a l a l o t u,SCA,,1
+Bororo-140_neck-1-1,Bororo-140_neck-1,ko,213,false,expert,,k o,SCA,,1
+Bororo-140_neck-2-1,Bororo-140_neck-2,iko,213,false,expert,,k o,SCA,,1
+Otuke-140_neck-1-1,Otuke-140_neck-1,kio,213,false,expert,,k io,SCA,,1
+Bororo-104_nose-1-1,Bororo-104_nose-1,eno,214,false,expert,,- e n o,SCA,,1
+Otuke-104_nose-1-1,Otuke-104_nose-1,ʃeno,214,false,expert,,ʃ e n o,SCA,,1
+Bororo-153_olderbrother-1-1,Bororo-153_olderbrother-1,mana,215,false,expert,,- m a n a,SCA,,1
+Umutina-153_olderbrother-1-1,Umutina-153_olderbrother-1,amana,215,false,expert,,a m a n a,SCA,,1
+Umutina-153_olderbrother-2-1,Umutina-153_olderbrother-2,amala,215,false,expert,,a m a l a,SCA,,1
+Otuke-107_opossumsp-1-1,Otuke-107_opossumsp-1,enohʷari,216,false,expert,,e n o hʷ a r i,SCA,,1
+Bororo-25_ostrich-1-1,Bororo-25_ostrich-1,pari,217,false,expert,,p a r - - - i,SCA,,1
+Otuke-25_ostrich-1-1,Otuke-25_ostrich-1,hahari,217,false,expert,,h a h - a r i,SCA,,1
+Umutina-25_ostrich-1-1,Umutina-25_ostrich-1,pãri,217,false,expert,,p ã r - - - i,SCA,,1
+Umutina-25_ostrich-2-1,Umutina-25_ostrich-2,parwaza,217,false,expert,,p a r w a z a,SCA,,1
+Bororo-114_otter-1-1,Bororo-114_otter-1,ipie,218,false,expert,,i p ie,SCA,,1
+Umutina-114_otter-1-1,Umutina-114_otter-1,ipe,218,false,expert,,i p e,SCA,,1
+Bororo-23_paca-1-1,Bororo-23_paca-1,apu,220,false,expert,,- a p u,SCA,,1
+Umutina-23_paca-1-1,Umutina-23_paca-1,apu,220,false,expert,,- a p u,SCA,,1
+Umutina-23_paca-2-1,Umutina-23_paca-2,hapu,220,false,expert,,h a p u,SCA,,1
+Bororo-10_pacu-1-1,Bororo-10_pacu-1,pobu,221,false,expert,,p o b u,SCA,,1
+Umutina-10_pacu-1-1,Umutina-10_pacu-1,pupu,221,false,expert,,p u p u,SCA,,1
+Umutina-10_pacu-2-1,Umutina-10_pacu-2,popo,221,false,expert,,p o p o,SCA,,1
+Bororo-136_parakeet-1-1,Bororo-136_parakeet-1,kida,222,false,expert,,k i d a,SCA,,1
+Bororo-136_parakeet-2-1,Bororo-136_parakeet-2,kido,222,false,expert,,k i d o,SCA,,1
+Otuke-136_parakeet-1-1,Otuke-136_parakeet-1,kitio,222,false,expert,,k i t io,SCA,,1
+Umutina-136_parakeet-1-1,Umutina-136_parakeet-1,kixo,222,false,expert,,k i x o,SCA,,1
+Umutina-136_parakeet-2-1,Umutina-136_parakeet-2,kiso,222,false,expert,,k i s o,SCA,,1
+Bororo-161_pathorroad-1-1,Bororo-161_pathorroad-1,meru,223,false,expert,,m e r u,SCA,,1
+Bororo-73_peachpalm-1-1,Bororo-73_peachpalm-1,botora,224,false,expert,,b o t o r a,SCA,,1
+Bororo-88_peccary-1-1,Bororo-88_peccary-1,ʃao,225,false,expert,,ʃ ao,SCA,,1
+Bororo-88_peccary-2-1,Bororo-88_peccary-2,dʒugo,226,false,expert,,dʒ u g o,SCA,,1
+Bororo-122_penis-1-1,Bororo-122_penis-1,baka,227,false,expert,,b a k a,SCA,,1
+Umutina-122_penis-1-1,Umutina-122_penis-1,mainokua,228,false,expert,,m ai n o k ua,SCA,,1
+Bororo-130_pestle-1-1,Bororo-130_pestle-1,kaia,229,false,expert,,k a - ia,SCA,,1
+Bororo-86_piabaacu-1-1,Bororo-86_piabaacu-1,dʒatugugo,231,false,expert,,dʒ a t u g u g o,SCA,,1
+Umutina-86_piabaacu-1-1,Umutina-86_piabaacu-1,zatuku,231,false,expert,,z a t - - u k u,SCA,,1
+Bororo-12_pierce-1-1,Bororo-12_pierce-1,porodo,233,false,expert,,p o r o d o,SCA,,1
+Umutina-12_pierce-1-1,Umutina-12_pierce-1,podoto,233,false,expert,,p o d o t o,SCA,,1
+Umutina-12_pierce-2-1,Umutina-12_pierce-2,polotɔ,233,false,expert,,p o l o t ɔ,SCA,,1
+Bororo-40_piraputanga-1-1,Bororo-40_piraputanga-1,ararɨ,232,false,expert,,a - - r - - a r ɨ,SCA,,1
+Umutina-40_piraputanga-1-1,Umutina-40_piraputanga-1,alarekore,232,false,expert,,a l a r e k o r e,SCA,,1
+Umutina-40_piraputanga-2-1,Umutina-40_piraputanga-2,alɔrukɔre,232,false,expert,,a l ɔ r u k ɔ r e,SCA,,1
+Umutina-40_piraputanga-3-1,Umutina-40_piraputanga-3,alarikore,232,false,expert,,a l a r i k o r e,SCA,,1
+Bororo-117_piuva-1-1,Bororo-117_piuva-1,iru,234,false,expert,,i r u,SCA,,1
+Umutina-117_piuva-1-1,Umutina-117_piuva-1,huri,235,false,expert,,h u r i,SCA,,1
+Bororo-32_puma-1-1,Bororo-32_puma-1,aigo,236,false,expert,,a - i g o,SCA,,1
+Umutina-32_puma-1-1,Umutina-32_puma-1,aiku,236,false,expert,,ai - - k u,SCA,,1
+Umutina-32_puma-2-1,Umutina-32_puma-2,aiko,236,false,expert,,ai - - k o,SCA,,1
+Umutina-32_puma-3-1,Umutina-32_puma-3,ajko,236,false,expert,,a j - k o,SCA,,1
+Umutina-32_puma-4-1,Umutina-32_puma-4,aʔiko,236,false,expert,,a ʔ i k o,SCA,,1
+Bororo-82_rainprecipitation-1-1,Bororo-82_rainprecipitation-1,bu,237,false,expert,,b u - - - -,SCA,,1
+Umutina-82_rainprecipitation-1-1,Umutina-82_rainprecipitation-1,bʷenɔ,237,false,expert,,bʷ e - - n ɔ,SCA,,1
+Umutina-82_rainprecipitation-2-1,Umutina-82_rainprecipitation-2,boʔina,237,false,expert,,b o ʔ i n a,SCA,,1
+Otuke-106_rat-1-1,Otuke-106_rat-1,enohʷari,238,false,expert,,e n o hʷ a r i,SCA,,1
+Bororo-22_rattle-1-1,Bororo-22_rattle-1,bapo,239,false,expert,,b a p o,SCA,,1
+Umutina-22_rattle-1-1,Umutina-22_rattle-1,bapo,239,false,expert,,b a p o,SCA,,1
+Bororo-146_redhowlermonkey-1-1,Bororo-146_redhowlermonkey-1,kujagu,242,false,expert,,k u j a g u,SCA,,1
+Umutina-146_redhowlermonkey-1-1,Umutina-146_redhowlermonkey-1,kutʃaku,242,false,expert,,k u tʃ a k u,SCA,,1
+Bororo-164_redandgreenmacaw-1-1,Bororo-164_redandgreenmacaw-1,kuido,243,false,expert,,k u i - d o,SCA,,1
+Umutina-164_redandgreenmacaw-1-1,Umutina-164_redandgreenmacaw-1,hujʃo,243,false,expert,,h u - j ʃ o,SCA,,1
+Bororo-164_redandgreenmacaw-2-1,Bororo-164_redandgreenmacaw-2,nabure,244,false,expert,,n a b u r e,SCA,,1
+Umutina-164_redandgreenmacaw-2-1,Umutina-164_redandgreenmacaw-2,alapore,245,false,expert,,a l a p o r e,SCA,,1
+Umutina-164_redandgreenmacaw-3-1,Umutina-164_redandgreenmacaw-3,alapure,245,false,expert,,a l a p u r e,SCA,,1
+Bororo-7_river-1-1,Bororo-7_river-1,po,246,false,expert,,p o,SCA,,1
+Umutina-7_river-1-1,Umutina-7_river-1,po,246,false,expert,,p o,SCA,,1
+Bororo-48_rope-1-1,Bororo-48_rope-1,bɨkigu,247,false,expert,,b ɨ k i g u,SCA,,1
+Umutina-48_rope-1-1,Umutina-48_rope-1,boiku,247,false,expert,,b oi k - - u,SCA,,1
+Bororo-79_saliva-1-1,Bororo-79_saliva-1,otoguru,248,false,expert,,o t o g u r u,SCA,,1
+Umutina-79_saliva-1-1,Umutina-79_saliva-1,otoru,248,false,expert,,o t o - - r u,SCA,,1
+Bororo-125_sand-1-1,Bororo-125_sand-1,kɨgarɨ,249,false,expert,,k ɨ g a r ɨ,SCA,,1
+Umutina-125_sand-1-1,Umutina-125_sand-1,xoare,250,false,expert,,x oa r e,SCA,,1
+Umutina-125_sand-2-1,Umutina-125_sand-2,xuari,250,false,expert,,x ua r i,SCA,,1
+Bororo-72_scale-1-1,Bororo-72_scale-1,boto,251,false,expert,,b o t o,SCA,,1
+Otuke-27_squirrel-1-1,Otuke-27_squirrel-1,apohe,181,false,expert,,a p o h e,SCA,,1
+Otuke-27_squirrel-2-1,Otuke-27_squirrel-2,apoha,181,false,expert,,a p o h a,SCA,,1
+Bororo-159_stingray-1-1,Bororo-159_stingray-1,meru,180,false,expert,,m e r u,SCA,,1
+Otuke-159_stingray-1-1,Otuke-159_stingray-1,menu,180,false,expert,,m e n u,SCA,,1
+Bororo-93_stone-1-1,Bororo-93_stone-1,tori,179,false,expert,,t o - - r i,SCA,,1
+Otuke-93_stone-1-1,Otuke-93_stone-1,tohori,179,false,expert,,t o h o r i,SCA,,1
+Umutina-93_stone-1-1,Umutina-93_stone-1,tori,179,false,expert,,t o - - r i,SCA,,1
+Bororo-158_sun-1-1,Bororo-158_sun-1,meri,177,false,expert,,m e - r i,SCA,,1
+Otuke-158_sun-1-1,Otuke-158_sun-1,neri,177,false,expert,,n e - r i,SCA,,1
+Umutina-158_sun-1-1,Umutina-158_sun-1,mini,177,false,expert,,m i - n i,SCA,,1
+Umutina-158_sun-2-1,Umutina-158_sun-2,mejni,177,false,expert,,m e j n i,SCA,,1
+Umutina-158_sun-3-1,Umutina-158_sun-3,meni,177,false,expert,,m e - n i,SCA,,1
+Bororo-150_swim-1-1,Bororo-150_swim-1,kuru,176,false,expert,,k u r u,SCA,,1
+Bororo-154_tail-1-1,Bororo-154_tail-1,o,175,false,expert,,o,SCA,,1
+Umutina-154_tail-1-1,Umutina-154_tail-1,o,175,false,expert,,o,SCA,,1
+Bororo-134_tapir-1-1,Bororo-134_tapir-1,ki,174,false,expert,,k - - i,SCA,,1
+Umutina-134_tapir-1-1,Umutina-134_tapir-1,kui,174,false,expert,,k - - ui,SCA,,1
+Umutina-134_tapir-2-1,Umutina-134_tapir-2,koʔi,174,false,expert,,k o ʔ i,SCA,,1
+Bororo-124_termite-1-1,Bororo-124_termite-1,kumo,173,false,expert,,k u m o,SCA,,1
+Otuke-124_termite-1-1,Otuke-124_termite-1,kaymo,173,false,expert,,k ay m o,SCA,,1
+Otuke-71_thigh-1-1,Otuke-71_thigh-1,viora,171,false,expert,,v io r a,SCA,,1
+Umutina-141_throat-1-1,Umutina-141_throat-1,ku,169,false,expert,,k u,SCA,,1
+Bororo-18_tinamou-1-1,Bororo-18_tinamou-1,riwodo,168,false,expert,,r i w o d o,SCA,,1
+Umutina-18_tinamou-1-1,Umutina-18_tinamou-1,diboto,168,false,expert,,d i b o t o,SCA,,1
+Bororo-109_tree-1-1,Bororo-109_tree-1,i,167,false,expert,,i,SCA,,1
+Umutina-109_tree-1-1,Umutina-109_tree-1,i,167,false,expert,,i,SCA,,1
+Umutina-69_tucum-1-1,Umutina-69_tucum-1,bo,166,false,expert,,b o,SCA,,1
+Bororo-98_turtle-1-1,Bororo-98_turtle-1,dʒorigige,165,false,expert,,dʒ o r i g i g e,SCA,,1
+Otuke-98_turtle-1-1,Otuke-98_turtle-1,zerikiki,165,false,expert,,z e r i k i k i,SCA,,1
+Otuke-98_turtle-2-1,Otuke-98_turtle-2,rerikeke,165,false,expert,,r e r i k e k e,SCA,,1
+Umutina-98_turtle-1-1,Umutina-98_turtle-1,serikiki,165,false,expert,,s e r i k i k i,SCA,,1
+Bororo-9_two-1-1,Bororo-9_two-1,pobe,164,false,expert,,p o b e,SCA,,1
+Umutina-9_two-1-1,Umutina-9_two-1,popi,164,false,expert,,p o p i,SCA,,1
+Umutina-9_two-2-1,Umutina-9_two-2,popie,164,false,expert,,p o p ie,SCA,,1
+Umutina-9_two-3-1,Umutina-9_two-3,pupi,164,false,expert,,p u p i,SCA,,1
+Umutina-9_two-4-1,Umutina-9_two-4,pupe,164,false,expert,,p u p e,SCA,,1
+Umutina-5_ugly-1-1,Umutina-5_ugly-1,pikɛna,163,false,expert,,p i k ɛ n a,SCA,,1
+Bororo-157_walk-1-1,Bororo-157_walk-1,merɨ,162,false,expert,,- m e r ɨ,SCA,,1
+Bororo-157_walk-2-1,Bororo-157_walk-2,meru,162,false,expert,,- m e r u,SCA,,1
+Umutina-157_walk-1-1,Umutina-157_walk-1,amenu,162,false,expert,,a m e n u,SCA,,1
+Umutina-157_walk-2-1,Umutina-157_walk-2,iminu,162,false,expert,,i m i n u,SCA,,1
+Bororo-44_wasp-1-1,Bororo-44_wasp-1,atugue,161,false,expert,,a t u g u e,SCA,,1
+Otuke-44_wasp-1-1,Otuke-44_wasp-1,ohue,161,false,expert,,o h - - - ue,SCA,,1
+Bororo-6_water-1-1,Bororo-6_water-1,po,159,false,expert,,p o,SCA,,1
+Umutina-6_water-1-1,Umutina-6_water-1,po,159,false,expert,,p o,SCA,,1
+Otuke-6_water-1-1,Otuke-6_water-1,ouru,160,false,expert,,ou r u,SCA,,1
+Bororo-138_white-1-1,Bororo-138_white-1,kigadu,157,false,expert,,k i g a d u,SCA,,1
+Umutina-138_white-1-1,Umutina-138_white-1,kikoto,157,false,expert,,k i k o t o,SCA,,1
+Bororo-37_wind-1-1,Bororo-37_wind-1,akuru,156,false,expert,,- a k u r u,SCA,,1
+Bororo-37_wind-2-1,Bororo-37_wind-2,bakuru,156,false,expert,,b a k u r u,SCA,,1
+Otuke-37_wind-1-1,Otuke-37_wind-1,hʷauru,156,false,expert,,hʷ au - - r u,SCA,,1
+Bororo-115_wood-1-1,Bororo-115_wood-1,ipo,4,false,expert,,i p o,SCA,,1
 Otuke-115_wood-1-1,Otuke-115_wood-1,ipu,4,false,expert,,i p u,SCA,,1
 Otuke-115_wood-2-1,Otuke-115_wood-2,itura,2,false,expert,,i t u r a,SCA,,1
+Bororo-105_yellow-1-1,Bororo-105_yellow-1,ekɨ,61,false,expert,,e k ɨ,SCA,,1
+Umutina-105_yellow-1-1,Umutina-105_yellow-1,iku,61,false,expert,,i k u,SCA,,1
+Bororo-30_you-1-1,Bororo-30_you-1,a,60,false,expert,,a - -,SCA,,1
+Otuke-30_you-1-1,Otuke-30_you-1,a,60,false,expert,,a - -,SCA,,1
+Umutina-30_you-1-1,Umutina-30_you-1,ame,60,false,expert,,a m e,SCA,,1
+Umutina-30_you-2-1,Umutina-30_you-2,a,60,false,expert,,a - -,SCA,,1
