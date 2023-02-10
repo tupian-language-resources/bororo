@@ -2,7 +2,8 @@
 
 ## How to cite
 
-Ferraz Gerardi, F (2023) Lexical database of the Bororoan language family.
+If you use these data please cite
+this dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -10,23 +11,23 @@ Ferraz Gerardi, F (2023) Lexical database of the Bororoan language family.
 ## Statistics
 
 
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 5
-- **Concepts:** 149
-- **Lexemes:** 388
-- **Sources:** 4
-- **Synonymy:** 1.16
-- **Cognacy:** 390 cognates in 172 cognate sets (49 singletons)
-- **Cognate Diversity:** 0.10
+- **Concepts:** 167
+- **Lexemes:** 448
+- **Sources:** 8
+- **Synonymy:** 1.15
+- **Cognacy:** 468 cognates in 205 cognate sets (55 singletons)
+- **Cognate Diversity:** 0.14
 - **Invalid lexemes:** 0
-- **Tokens:** 1,681
-- **Segments:** 59 (0 BIPA errors, 0 CLTS sound class errors, 59 CLTS modified)
-- **Inventory size (avg):** 24.60
+- **Tokens:** 2,003
+- **Segments:** 62 (0 BIPA errors, 0 CLTS sound class errors, 62 CLTS modified)
+- **Inventory size (avg):** 26.80
 
 ## CLDF Datasets
 
