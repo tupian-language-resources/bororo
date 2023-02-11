@@ -1,7 +1,6 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1	Bororo	ACHIOTE	nonogo	nonogo	n o n o g o	138	1	n o n o g o	ACHIOTE	None
-2	Umutina	ACHIOTE	nonokʷa / nolukʷa	nonokʷa	n o n o kʷ a	138	1	n o n o kʷ a	ACHIOTE	None
-3	Umutina	ACHIOTE	nonokʷa / nolukʷa	nolukʷa	n o l u kʷ a	138	1	n o l u kʷ a	ACHIOTE	None
+2	Umutina	ACHIOTE	nonokʷa	nonokʷa	n o n o kʷ a	138	1	n o n o kʷ a	ACHIOTE	None
 4	Bororo	AGOUTI	mea	mea	m e a	128	137	m e a	AGOUTI	None
 5	Otuke	AGOUTI	neda	neda	n e d a	128	137	n e d a	AGOUTI	None
 6	Umutina	AGOUTI	mea	mea	m e a	128	137	m e a	AGOUTI	None
@@ -46,7 +45,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 43	Umutina	BAMBOO	katape	katape	k a t a + p e	100	41 42	k a t a + p e	BAMBOO ?	None
 44	Bororo	BANANA	bako	bako	b a k o	55	43	b a k o	BANANA	None
 45	Otuke	BANANA	aku	aku	a k u	55	43	a k u	BANANA	None
-46	Bororo	BARK OR SHELL	biri / iwiri	biri	b i r i	52	44	b i r i	BARK	None
+616	Umutina	BANANA	zaɾukukʷa	zaɾukukʷa	z a ɾ u k u kʷ a	309	327	z a ɾ u k u kʷ a	BANANA	
+46	Bororo	BARK OR SHELL	biri	biri	b i r i	52	44	b i r i	BARK	None
 47	Otuke	BARK OR SHELL	irivi	irivi	i r i v i	52	44	i r i v i	BARK	None
 48	Umutina	BARK OR SHELL	birika	birika	b i r i k a	52	44	b i r i k a	BARK	None
 49	Bororo	BAT	ke	ke	k e	105	45	k e	BAT	None
@@ -92,6 +92,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 86	Bororo	COATI (COATIMUNDI)	atoe / kudobo	atoe	a t o e	30	79	a t o e	COATI	None
 87	Bororo	COATI (COATIMUNDI)	atoe / kudobo	kudobo	k u d o b o	31	80	k u d o b o	COATI	None
 88	Umutina	COATI (COATIMUNDI)	utupu	utupu	u t u p u	31	80	u t u p u	COATI	None
+594	Umutina	COATI (COATIMUNDI)	utopo	utopo	u t o p o	292	312	u t o p o	COATI	
 89	Bororo	COB	ira	ira	i r a	90	81	i r a	COB	None
 90	Umutina	COB	ilaka	ilaka	i l a + k a	90	81 39	i l a + k a	COB BODY.PART?	None
 91	Bororo	COLD	akɨ / akodo	akɨ	a k ɨ	14	86	a k ɨ	COLD	None
@@ -101,7 +102,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 95	Umutina	COLD	aketo / bakieto / baketo	baketo	b a k e t o	14	86	b a k e t o	COLD	None
 96	Bororo	COLLARED PECCARY	dʒoi	dʒoi	dʒ oi	69	87	dʒ oi	COLLARED_PECCARY	None
 97	Umutina	COLLARED PECCARY	joa / ʒao	joa	j oa	69	87	j oa	COLLARED_PECCARY	None
-98	Umutina	COLLARED PECCARY	joa / ʒao	ʒao	ʒ ao	69	87	ʒ ao	COLLARED_PECCARY	None
+98	Umutina	COLLARED PECCARY	joa / ʒao	ʒao	ʒ ao	69	225	ʒ ao	PECCARY	None
 99	Bororo	COTTON	akigukodu	akigukodu	a kʰ i ɡʷ u + kʷ ɔ d u	12	88 158	a kʰ i ɡʷ u + kʷ ɔ d u	THREAD ?	None
 100	Otuke	COTTON	akihumari	akihumari	a k i h u + m a r i	12	88 89	a k i h u + m a r i	THREAD ?	None
 101	Bororo	COUGH	kodʒari	kodʒari	kʷ o dʒ a r i	115	90	kʷ o dʒ a r i	COUGH	None
@@ -250,9 +251,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 233	Bororo	LAKE	kuruga	kuruga	k u r u g a	123	192	k u r u g a	LAKE	None
 234	Umutina	LAKE	urukʷa	urukʷa	u r u kʷ a	123	192	u r u kʷ a	LAKE	None
 533	Otuke	LAKE	ohaeta	ohaeta	o h ae t a	280	193	o h ae t a	LAKE	
-235	Bororo	LEAF	aru / raru	aru	a r u	26	194	a r u	LEAF	None
-236	Bororo	LEAF	aru / raru	raru	r a r u	26	194	r a r u	LEAF	None
+236	Bororo	LEAF	raru	raru	r a r ɨ	26	194	r a r ɨ	LEAF	None
 237	Otuke	LEAF	rari	rari	r a r i	26	194	r a r i	LEAF	None
+606	Umutina	LEAF	ipiazo	ipiazo	i p ia z o	301	319	i p ia z o	LEAF	
 238	Bororo	LIE DOWN	pado	pado	p a d o	146	195	p a d o	LIE_DOWN	None
 239	Umutina	LIE DOWN	pata	pata	p a t a	146	195	p a t a	LIE_DOWN	None
 240	Bororo	LIGHT (IGNITE)	dʒorɨto	dʒorɨto	dʒ o r ɨ t o	72	196	dʒ o r ɨ t o	LIGHT	None
@@ -267,9 +268,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 436	Otuke	MANED WOLF	rehe	rehe	r e h e	162	200	r e h e	MANED_WOLF	None
 249	Bororo	MANGABA	bato	bato	b a t o	44	201	b a t o	MANGABA	None
 250	Umutina	MANGABA	batorukʷa	batorukʷa	b a t o + r u kʷ a	188	201 202	b a t o + r u kʷ a	MANGABA ?	None
-251	Bororo	MANIOC	dʒu / dʒurew	dʒu	dʒ u	76	203	dʒ u	MANIOC	None
-252	Bororo	MANIOC	dʒu / dʒurew	dʒurew	dʒ u r e w	76	203	dʒ u r e w	MANIOC	None
+251	Bororo	MANIOC	dʒu	dʒu	dʒ u	76	203	dʒ u	MANIOC	None
 253	Otuke	MANIOC	tʃuhu	tʃuhu	tʃ u h u	76	203	tʃ u h u	MANIOC	None
+612	Umutina	MANIOC	utuʒo	utuʒo	u t u ʒ o	76	203	u t u ʒ o	MANIOC	
 254	Bororo	MOON	ari	ari	a r i	24	204	a r i	MOON	None
 255	Umutina	MOON	ari / ali	ari	a r i	24	204	a r i	MOON	None
 256	Umutina	MOON	ari / ali	ali	a l i	24	204	a l i	MOON	None
@@ -306,11 +307,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 285	Umutina	OTTER	ipekozitabu / ipe	ipekozitabu	i p e + k o z i t a b u	88	218 219	i p e + k o z i t a b u	OTTER ?	None
 286	Umutina	OTTER	ipekozitabu / ipe	ipe	i p e	88	218	i p e	OTTER	None
 287	Bororo	PACA	apu	apu	a p u	4	220	a p u	PACA	None
-288	Umutina	PACA	apu / hapu	apu	a p u	4	220	a p u	PACA	None
-289	Umutina	PACA	apu / hapu	hapu	h a p u	4	220	h a p u	PACA	None
+288	Umutina	PACA	apɔ	apɔ	a p ɔ	4	220	a p ɔ	PACA	None
 290	Bororo	PACU	pobu	pobu	p o b u	154	221	p o b u	PACU	None
-291	Umutina	PACU	pupu / popo	pupu	p u p u	154	221	p u p u	PACU	None
-292	Umutina	PACU	pupu / popo	popo	p o p o	154	221	p o p o	PACU	None
+292	Umutina	PACU	popo	popo	p o p o	154	221	p o p o	PACU	None
 293	Bororo	PARAKEET	kida / kido	kida	k i d a	109	222	k i d a	PARAKEET	None
 294	Bororo	PARAKEET	kida / kido	kido	k i d o	109	222	k i d o	PARAKEET	None
 295	Otuke	PARAKEET	kitio	kitio	k i t io	109	222	k i t io	PARAKEET	None
@@ -329,8 +328,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 307	Bororo	PIABA-AÇU	dʒatugugo	dʒatugugo	dʒ a t u g u g o	68	231	dʒ a t u g u g o	PIABA-AÇU	None
 308	Umutina	PIABA-AÇU	zatuku	zatuku	z a t u k u	68	231	z a t u k u	PIABA-AÇU	None
 309	Bororo	PIERCE	porodo	porodo	p o r o d o	157	233	p o r o d o	PIERCE	None
-310	Umutina	PIERCE	podoto / polotɔ	podoto	p o d o t o	157	233	p o d o t o	PIERCE	None
-311	Umutina	PIERCE	podoto / polotɔ	polotɔ	p o l o t ɔ	157	233	p o l o t ɔ	PIERCE	None
+310	Umutina	PIERCE	podoto	podoto	p o d o t o	157	233	p o d o t o	PIERCE	None
 312	Bororo	PIRAPUTANGA	ararɨ	ararɨ	a r a r ɨ	23	232	a r a r ɨ	PIRAPUTANGA	None
 313	Umutina	PIRAPUTANGA	alarekore / alɔrukɔre / alarikore	alarekore	a l a r e k o r e	23	232	a l a r e k o r e	PIRAPUTANGA	None
 314	Umutina	PIRAPUTANGA	alarekore / alɔrukɔre / alarikore	alɔrukɔre	a l ɔ r u k ɔ r e	23	232	a l ɔ r u k ɔ r e	PIRAPUTANGA	None
@@ -338,13 +336,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 316	Bororo	PIUVA	iru	iru	i r u	91	234	i r u	PIUVA	None
 317	Umutina	PIUVA	huri	huri	h u r i	207	235	h u r i	PIUVA	None
 318	Bororo	PUMA	aigo	aigo	a i g o	13	236	a i g o	PUMA	None
-319	Umutina	PUMA	aiku / aiko / ajko / aʔiko	aiku	ai k u	13	236	ai k u	PUMA	None
-320	Umutina	PUMA	aiku / aiko / ajko / aʔiko	aiko	ai k o	13	236	ai k o	PUMA	None
-321	Umutina	PUMA	aiku / aiko / ajko / aʔiko	ajko	a j k o	13	236	a j k o	PUMA	None
-322	Umutina	PUMA	aiku / aiko / ajko / aʔiko	aʔiko	a ʔ i k o	13	236	a ʔ i k o	PUMA	None
+319	Umutina	PUMA	aiku	aiku	ai k u	13	236	ai k u	PUMA	None
 323	Bororo	RAIN (PRECIPITATION)	bu	bu	b u	64	237	b u	RAIN	None
-324	Umutina	RAIN (PRECIPITATION)	bo ino / bʷenɔ / boʔina	bʷenɔ	bʷ e n ɔ	64	237	bʷ e n ɔ	RAIN	None
-325	Umutina	RAIN (PRECIPITATION)	bo ino / bʷenɔ / boʔina	boʔina	b o ʔ i n a	64	237	b o ʔ i n a	RAIN	None
+324	Umutina	RAIN (PRECIPITATION)	bʷenɔ / boʔina	bʷenɔ	bʷ e n ɔ	64	237	bʷ e n ɔ	RAIN	None
+325	Umutina	RAIN (PRECIPITATION)	bʷenɔ / boʔina	boʔina	b o ʔ i n a	64	237	b o ʔ i n a	RAIN	None
 326	Otuke	RAT	enohʷari	enohʷari	e n o hʷ a r i	201	238	e n o hʷ a r i	RAT	None
 327	Bororo	RATTLE	bapo	bapo	b a p o	3	239	b a p o	RATTLE	None
 328	Umutina	RATTLE	bapo	bapo	b a p o	3	239	b a p o	RATTLE	None
@@ -353,10 +348,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 331	Bororo	RED HOWLER MONKEY	(pai) kujagu	kujagu	k u j a g u	118	242	k u j a g u	RED_HOWLER_MONKEY	None
 332	Umutina	RED HOWLER MONKEY	kutʃaku	kutʃaku	k u tʃ a k u	118	242	k u tʃ a k u	RED_HOWLER_MONKEY	None
 333	Bororo	RED-AND-GREEN MACAW	kuido	kuido	k u i d o	120	243	k u i d o	RED-AND-GREEN-MACAW	None
-334	Umutina	RED-AND-GREEN MACAW	hujʃo	hujʃo	h u j ʃ o	120	243	h u j ʃ o	RED-AND-GREEN-MACAW	None
+334	Umutina	RED-AND-GREEN MACAW	hujʃo / alapore	hujʃo	h u j ʃ o	120	243	h u j ʃ o	RED-AND-GREEN-MACAW	None
 335	Bororo	RED-AND-GREEN MACAW	nabure	nabure	n a b u r e	136	244	n a b u r e	RED-AND-GREEN-MACAW	None
-336	Umutina	RED-AND-GREEN MACAW	alapore / alapure	alapore	a l a p o r e	228	245	a l a p o r e	RED-AND-GREEN-MACAW	None
-337	Umutina	RED-AND-GREEN MACAW	alapore / alapure	alapure	a l a p u r e	228	245	a l a p u r e	RED-AND-GREEN-MACAW	None
+336	Umutina	RED-AND-GREEN MACAW	hujʃo / alapore	alapore	a l a p o r e	228	245	a l a p o r e	RED-AND-GREEN-MACAW	None
 338	Bororo	RIVER	po	po	p o	2	246	p o	RIVER	None
 339	Umutina	RIVER	po	po	p o	2	246	p o	RIVER	None
 340	Bororo	ROPE	bɨkigu	bɨkigu	b ɨ k i g u	32	247	b ɨ k i g u	ROPE	None
@@ -364,8 +358,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 342	Bororo	SALIVA	otoguru	otoguru	o t o g u r u	145	248		SALIVA	None
 343	Umutina	SALIVA	otoruta / otoru	otoru	o t o r u	145	248	o t o r u	SALIVA	None
 344	Bororo	SAND	kɨgarɨ	kɨgarɨ	k ɨ g a r ɨ	99	249	k ɨ g a r ɨ	SAND	None
-345	Umutina	SAND	xoare / xuari	xoare	x oa r e	215	250	x oa r e	SAND	None
-346	Umutina	SAND	xoare / xuari	xuari	x ua r i	215	250	x ua r i	SAND	None
+345	Umutina	SAND	xoare	xoare	x oa r e	215	250	x oa r e	SAND	None
 347	Bororo	SCALE	boto	boto	b o t o	61	251	b o t o	SCALE	None
 348	Umutina	SCALE	boto ka	boto ka	b o t o + k a	61	251 39	b o t o + k a	SCALE BODY.PART?	None
 349	Bororo	SEED	a	a	a	10	57	a	SEED	None
@@ -476,7 +469,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 454	Otuke	FIREWOOD	seruki	seruki	s e r u k i	142	117	s e r u k i	FIREWOOD	
 463	Otuke	SING	ohuarututa	ohuarututa	o h ua r u t u t a	194	155	o h ua r u t u t a	SING	
 464	Bororo	SING	ragody	ragody	ɾ a ɡ ʌ d ɯ	200	154	ɾ a ɡ ʌ d ɯ	SING	
-465	Otuke	CAT	ahi	ahi	a h i	202	71	a h i	CAT	
+465	Otuke	CAT	ahi	ahi	a h i	202	142	a h i	JAGUAR	
 466	Bororo	CAT	gato	gato	g a t o	208	70	g a t o	CAT	
 467	Otuke	CATERPILLAR	kihe	kihe	k i h e	210	72	k i h e	CATERPILLAR	
 469	Otuke	CICADA	kehue	kehue	k e h ue	211	78	k e h ue	CICADA	
@@ -516,7 +509,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 511	Otuke	CRICKET	cecuve	cecuve	tʃ e tʃ u v e	175	92	tʃ e tʃ u v e	CRICKET	
 512	Otuke	BEAN	karanahe	karanahe	k a r a n a h e	187	47	k a r a n a h e	BEAN	
 513	Kuruminaka	BEAN	karina / kañahime	karina	k a r i n a	187	47	k a r i n a	BEAN	
-514	Kuruminaka	BEAN	karina / kañahime	 kañahime	k a ɲ a h i m e	265	48	k a ɲ a h i m e	BEAN	
+514	Kuruminaka	BEAN	karina / kañahime	kañahime	k a ɲ a h i m e	265	48	k a ɲ a h i m e	BEAN	
 515	Otuke	GRASS	motsena vi	motsena vi	m o ts e n a + v i	266	132 133	m o ts e n a + v i	GRASS	
 516	Otuke	MAN	vuani	vuani	v ua n i	268	145	v ua n i	MAN	
 517	Umutina	MAN	imedy	imedy	i m e d ɨ	267	146	i m e d ɨ	MAN	
@@ -537,6 +530,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 532	Bororo	DAY	meri	meri	m e r i	279	95	m e r i	SUN	
 535	Bororo	YOU	tagi	tagi	t a g i	45	272	t a g i	YOU.PL	
 538	Otuke	FIREFLY	tuhareturutu	tuhareturutu	t u h a r e t u r u t u	155	275	t u h a r e t u r u t u	FIREFLY	
+600	Umutina	FIREFLY	zokono	zokono	z o k o n o	297	316	z o k o n o	FIREFLY	
 539	Otuke	TONGUE	ceru	ceru	tʃ ɛ ɾ u	159	276	tʃ ɛ ɾ u	TONGUE	
 540	Bororo	TONGUE	ceru	ceru	tʃ ɛ ɾ u	159	276	tʃ ɛ ɾ u	TONGUE	
 541	Otuke	DRAGONFLY	cecuvi ohe	cecuvi ohe	tʃ e tʃ u v i + o h e	171	277 278	tʃ e tʃ u v i + o h e	DRAGONFLY ?	
@@ -545,6 +539,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 544	Otuke	MAIZE	mucata	mucata	m u tʃ a t a	180	281	m u tʃ a t a	MAIZE	
 545	Bororo	MAIZE	kuiada	kuiada	kʷ u j a d a	181	282	kʷ u j a d a	MAIZE	
 546	Kovareka	MAIZE	takuri	takuri	t a k u r i	183	283	t a k u r i	MAIZE	
+607	Umutina	MAIZE	humataka	humataka	h u m a t a k a	302	320	h u m a t a k a	MAIZE	
 549	Otuke	CHIN	tiura	tiura	t iu r a	186	286	t iu r a	CHIN	
 550	Bororo	CHIN	okura	okura	o kʷ u r a	186	286	o kʷ u r a	CHIN	
 552	Otuke	HONEY	subeoru	subeoru	s u b eo r u	191	288	s u b eo r u	HONEY	
@@ -578,3 +573,19 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 590	Bororo	OWL	tagogo	tagogo	t a g ʌ g ʌ	289	309	t a g ʌ g ʌ	OWL	
 591	Umutina	CAIMAN	waʒu	waʒu	w a ʒ u	290	310	w a ʒ u	CAIMAN	
 592	Bororo	CAIMAN	uwai	uwai	u w ai	290	310	u w ai	CAIMAN	
+593	Umutina	CURASSOW	ube	ube	u b e	291	311	u b e	CURASSOW	
+595	Umutina	MONKEY	wutukuana	wutukuana	w u t u k ua n a	293	313	w u t u k ua n a	MONKEY	
+596	Bororo	MONKEY	juko	juko	dʒ u kʷ ɔ	294	314	dʒ u kʷ ɔ	MONKEY	
+597	Umutina	CHICKEN	wasaɾamety	wasaɾamety	w a s a ɾ a m e t ɨ	295	315	w a s a ɾ a m e t ɨ	CHICKEN	
+598	Bororo	CHICKEN	kagaɾiga	kagaɾiga	k a g a ɾ i g a	296	315	k a g a ɾ i g a	CHICKEN	
+601	Umutina	PIRANHA	bujɛ	bujɛ	b u ʒ ɛ	298	317	b u ʒ ɛ	PIRANHA	
+602	Bororo	PIRANHA	bɯjɔgʷɔ	bɯjɔgʷɔ	b ɯ j ɔ gʷ ɔ	298	317	b ɯ j ɔ gʷ ɔ	PIRANHA	
+603	Bororo	CURIMBATÁ (Prochilodus lineatus)	do	do	d o	299	318	d o	CURIMBATA	
+604	Umutina	HOPLIAS (GENUS)	hekapo	hekapo	h e k a p o	300	71	h e k a p o	HOPLIAS	
+605	Bororo	HOPLIAS (GENUS)	ɾɛkʌ	ɾɛkʌ	ɾ ɛ k ʌ	300	71	ɾ ɛ k ʌ	HOPLIAS	
+608	Umutina	PUMPKIN	piɾipiɾi biɾiti	piɾipiɾi biɾiti	p i ɾ i p i ɾ i + b i ɾ i t i	303	321 322	p i ɾ i p i ɾ i + b i ɾ i t i	? ?	
+609	Umutina	YAM	tapatuku	tapatuku	t a p a t u k u	304	323	t a p a t u k u	?	
+610	Umutina	LIANA	u	u	u	305	324	u	?	
+611	Bororo	LIANA	kɯɾo	kɯɾo	k ɯ ɾ o	306	324	k ɯ ɾ o	?	
+613	Umutina	TREE TRUNK	ʃipaɾi	ʃipaɾi	ʃ i p a ɾ i	307	325	ʃ i p a ɾ i	?	
+615	Bororo	TREE TRUNK	ikʷɔbɔ	ikʷɔbɔ	i kʷ ɔ b ɔ	308	326	i kʷ ɔ b ɔ	?	
