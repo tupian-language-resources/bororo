@@ -10,7 +10,7 @@
         {
             "rdf:about": "git@github.com:tupian-language-resources/bororo",
             "rdf:type": "prov:Entity",
-            "dc:created": "d90fbf5",
+            "dc:created": "93b5c85",
             "dc:title": "Repository"
         },
         {
@@ -51,7 +51,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 448,
+            "dc:extent": 553,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +241,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 167,
+            "dc:extent": 216,
             "tableSchema": {
                 "columns": [
                     {
@@ -281,7 +281,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 468,
+            "dc:extent": 586,
             "tableSchema": {
                 "columns": [
                     {
