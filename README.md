@@ -18,14 +18,14 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 5
-- **Concepts:** 259
-- **Lexemes:** 704
+- **Concepts:** 267
+- **Lexemes:** 724
 - **Sources:** 9
 - **Synonymy:** 1.15
-- **Cognacy:** 753 cognates in 425 cognate sets (224 singletons)
-- **Cognate Diversity:** 0.37
+- **Cognacy:** 773 cognates in 440 cognate sets (235 singletons)
+- **Cognate Diversity:** 0.38
 - **Invalid lexemes:** 0
-- **Tokens:** 3,504
+- **Tokens:** 3,601
 - **Segments:** 76 (0 BIPA errors, 0 CLTS sound class errors, 76 CLTS modified)
 - **Inventory size (avg):** 35.00
 

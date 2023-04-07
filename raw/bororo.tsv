@@ -529,8 +529,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 487	Otuke	STAR	ukema	ukema	u k e m a	250	148	u k e m a	STAR	
 488	Otuke	WOMAN	vuaneti	vuaneti	v ua n e t i	174	62	v ua n e t i	WOMAN	
 489	Bororo	WOMAN	aredy	aredy	a ɾ e d ɨ	174	62	a ɾ e d ɨ	WOMAN	
-490	Otuke	BUTTOCKS	ʃu	ʃu	ʃ u	251	67	ʃ u	BUTTOCKS	
-491	Bororo	BUTTOCKS	pera	pera	p e r a	252	66	p e r a	BUTTOCKS	
+490	Otuke	BUTTOCKS	ʃu	ʃu	ʃ u	251	67	ʃ u	BUTTOCK	
+491	Bororo	BUTTOCKS	pera	pera	p e r a	252	66	p e r a	BUTTOCK	
 492	Otuke	DAUGHTER	eno	eno	e n o	253	3	e n o	DAUGHTER	
 493	Bororo	DAUGHTER	onaregody aredy	onaregody aredy	ʌ n a ɾ ɛ ɡ ɛ d ɨ + a r e d ɨ	253	3 6	ʌ n a ɾ ɛ ɡ ɛ d ɨ + a r e d ɨ	SON FEMNALE	
 494	Bororo	SON	onaregody	onaregody	ʌ n a ɾ ɛ ɡ ɛ d ɨ	254	3	ʌ n a ɾ ɛ ɡ ɛ d ɨ	SON	
@@ -542,15 +542,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 503	Otuke	FRUIT	boka	boka	b o k a	258	12	b o k a	FRUIT	
 504	Bororo	FRUIT	tydy	tydy	t ɯ d ɨ	259	11	t ɯ d ɨ	FRUIT	
 505	Otuke	BOY	caoro	caoro	tʃ ao r o	260	19	tʃ ao r o	BOY	
-506	Bororo	BOY	ekygyre / nagedirogwu	ekygyre	e k ɯ g ɨ r e	260	19	e k ɯ g ɨ r e	BOY	
-507	Bororo	BOY	ekygyre / nagedirogwu	nagedirogwu	n e ɡ e d ɨ ɾ o ɡw u	261	16	n e ɡ e d ɨ ɾ o ɡw u	BOY	
+506	Bororo	BOY	ekygyre / nagedirogwu	ekygyre / nagedirogwu	e k ɯ g ɨ r e	260	19	e k ɯ g ɨ r e	BOY	
+507	Bororo	BOY	ekygyre / nagedirogwu	ekygyre / nagedirogwu	n e ɡ e d ɨ ɾ o ɡw u	261	16	n e ɡ e d ɨ ɾ o ɡw u	BOY	
 508	Otuke	KNEE	sĩ	sĩ	s ĩ	262	22	s ĩ	KNEE	
 509	Bororo	KNEE	pogwodao	pogwodao	p ɔ ɡw ɔ d aɔ	263	21	p ɔ ɡw ɔ d aɔ	KNEE	
 511	Otuke	CRICKET	cecuve	cecuve	tʃ e tʃ u v e	175	92	tʃ e tʃ u v e	CRICKET	
 512	Otuke	BEAN	karanahe	karanahe	k a r a n a h e	187	47	k a r a n a h e	BEAN	
 513	Kuruminaka	BEAN	karina / kañahime	karina	k a r i n a	187	47	k a r i n a	BEAN	
 514	Kuruminaka	BEAN	karina / kañahime	kañahime	k a ɲ a h i m e	265	48	k a ɲ a h i m e	BEAN	
-515	Otuke	GRASS	motsena vi	motsena vi	m o ts e n a + v i	266	132 133	m o ts e n a + v i	GRASS ?	
+515	Otuke	GRASS	motsena vi	motsena vi	m o ts e n a + v i	266	132 133	m o ts e n a + v i	GRASS	
 516	Otuke	MAN	vuani	vuani	v ua n i	268	145	v ua n i	MAN	
 517	Umutina	MAN	imedy	imedy	i m e d ɨ	267	146	i m e d ɨ	MAN	
 519	Otuke	INTESTINES	ceuru	ceuru	tʃ eu r u	269	144	tʃ eu r u	INTESTINES	
@@ -648,7 +648,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 618	Otuke	TOBACCO	caha	caha	tʃ a h a	311	329	tʃ a h a	TOBACCO	
 751	Bororo	TOBACCO	mea	mea	m ea	412	434	m ea	TOBACCO	
 622	Umutina	THUNDER	vetororova / boina matare	vetororova	v e t o r o r o v a	314	332	v e t o r o r o v a	THUNDER	
-749	Umutina	THUNDER	vetororova / boina matare	boina matare	b oi n a + m a t a r e	411	433	b oi n a + m a t a r e	THUNDER	
+749	Umutina	THUNDER	vetororova / boina matare	boina matare	b oi n a + m a t a r e	411	433 446	b oi n a + m a t a r e	THUNDER ?	
 750	Bororo	THUNDER	boiaruru	boiaruru	b oia r u r u	411	433	b oia r u r u	THUNDER	
 623	Otuke	WANT	viasike	viasike	v ia s i k e	315	333	v ia s i k e	WANT	
 748	Bororo	WANT	aidu	aidu	ai d u	405	428	ai d u	WANT	
@@ -687,10 +687,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 717	Bororo	EEL	kurigi / pedago	pedago	p e d a g o	390	413	p e d a g o	EEL	Smalles species
 653	Otuke	LOOK	aretake	aretake	a ɾ e t a k e	343	364	a ɾ e t a k e	LOOK	
 696	Bororo	LOOK	aiwo	aiwo	ai w o	377	399	ai w o	LOOK	
-732	Umutina	LOOK	arikixi	arikixi	a ɾ i k i ʃ i	402	425	a ɾ i k i ʃ i	? EYE	
+732	Umutina	LOOK	arikixi	arikixi	a ɾ i k i ʃ i	402	425	a ɾ i k i ʃ i	EYE	
 654	Otuke	LAUGH	ocututa	ocututa	o tʃ u t u t a	344	365	o tʃ u t u t a	LAUGH	
 694	Umutina	LAUGH	zorika	zorika	z o ɾ i k a	375	398	z o ɾ i k a	LAUGH	
-695	Bororo	LAUGH	okwari	okwari	o kʷ a + r i	376		o kʷ a + r i	MOUTH ?	
+695	Bororo	LAUGH	okwari	okwari	o kʷ a + r i	376	259	o kʷ a + r i	MOUTH ?	
 657	Otuke	GRASSHOPPER	cecuhua	cecuhua	tʃ e tʃ u h ua	215	250	tʃ e tʃ u h ua	GRASSHOPPER	
 692	Bororo	GRASSHOPPER	dʒokugo / kitoriga 	dʒokugo	dʒ o k u g o	373	396	dʒ o k u g o	GRASSHOPPER	
 693	Bororo	GRASSHOPPER	dʒokugo / kitoriga	kitoriga	k i t o r i g a	374	397	k i t o r i g a	GRASSHOPPER	
