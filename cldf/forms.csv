@@ -87,6 +87,8 @@ Umutina-34_buriti-2,,Umutina,34_buriti,mano / manazokua,manazokua,m a n a z o k 
 Bororo-35_butterfly-1,,Bororo,35_butterfly,baragadu,baragadu,b a r a g a d u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BUTTERFLY,56,65
 Umutina-35_butterfly-1,,Umutina,35_butterfly,balatutu,balatutu,b a l a t u t u,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,BUTTERFLY,56,65
 Otuke-35_butterfly-1,,Otuke,35_butterfly,kĩve,kĩve,k ĩ v e,,de1912linguistique;monfort1913linguistique,,,,,BUTTERFLY,329,348
+Bororo-37_caja-1,,Bororo,37_caja,dʒatugo,dʒatugo,dʒ a t u g o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CAJA,67,68
+Umutina-37_caja-1,,Umutina,37_caja,zatuku,zatuku,z a t u k u,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,CAJA,67,68
 Bororo-38_capybara-1,,Bororo,38_capybara,akiwa,akiwa,a k i w a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CAPYBARA,17,69
 Otuke-38_capybara-1,,Otuke,38_capybara,okiwia,okiwia,o k i w ia,,de1912linguistique;monfort1913linguistique,,,,,CAPYBARA,17,69
 Umutina-38_capybara-1,,Umutina,38_capybara,ojba,ojba,o j b a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,CAPYBARA,283,258
@@ -499,6 +501,7 @@ Umutina-188_thou-1,,Umutina,188_thou,ame / a,ame,a m e,,schultz1952vocabulario;l
 Umutina-188_thou-2,,Umutina,188_thou,ame / a,a,a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,YOU,11,60
 Otuke-5_anus-1,,Otuke,5_anus,tʃera,tʃera,tʃ e ɾ a,,de1912linguistique;monfort1913linguistique,,,,,ANUS,34,7
 Bororo-5_anus-1,,Bororo,5_anus,peraporo,peraporo,p e ɾ a p o ɾ o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,ANUS,34,7
+Otuke-22_beard-1,,Otuke,22_beard,tera vihi,tera vihi,t e r a + v i h i,,de1912linguistique;monfort1913linguistique,,,,,BEARD ?,48,49 50
 Bororo-22_beard-1,,Bororo,22_beard,itoraby,itoraby,i t o r a b ɯ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BEARD,48,49
 Otuke-46_cockroach-1,,Otuke,46_cockroach,tʃetʃuvi,tʃetʃuvi,tʃ e tʃ u v i + t a r u t o,,de1912linguistique;monfort1913linguistique,,,,,COCKROACH ?,53,83 84
 Umutina-46_cockroach-1,,Umutina,46_cockroach,borewu,borewu,b o r e w u,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,COCKROACH,59,85
@@ -526,12 +529,16 @@ Bororo-179_star-1,,Bororo,179_star,kuieje,kuieje,k u j e dʒ e,,crowell1979gramm
 Otuke-179_star-1,,Otuke,179_star,ukema,ukema,u k e m a,,de1912linguistique;monfort1913linguistique,,,,,STAR,250,148
 Otuke-205_woman-1,,Otuke,205_woman,vuaneti,vuaneti,v ua n e t i,,de1912linguistique;monfort1913linguistique,,,,,WOMAN,174,62
 Bororo-205_woman-1,,Bororo,205_woman,aredy,aredy,a ɾ e d ɨ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,WOMAN,174,62
+Otuke-36_buttocks-1,,Otuke,36_buttocks,ʃu,ʃu,ʃ u,,de1912linguistique;monfort1913linguistique,,,,,BUTTOCKS,251,67
+Bororo-36_buttocks-1,,Bororo,36_buttocks,pera,pera,p e r a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BUTTOCKS,252,66
 Otuke-55_daughter-1,,Otuke,55_daughter,eno,eno,e n o,,de1912linguistique;monfort1913linguistique,,,,,DAUGHTER,253,3
 Bororo-55_daughter-1,,Bororo,55_daughter,onaregody aredy,onaregody aredy,ʌ n a ɾ ɛ ɡ ɛ d ɨ + a r e d ɨ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,SON FEMNALE,253,3 6
 Bororo-174_son-1,,Bororo,174_son,onaregody,onaregody,ʌ n a ɾ ɛ ɡ ɛ d ɨ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,SON,254,3
 Otuke-4_anteater-1,,Otuke,4_anteater,apuhe,apuhe,a p u h e,,de1912linguistique;monfort1913linguistique,,,,,ANTEATER,168,5
 Bororo-4_anteater-1,,Bororo,4_anteater,apogo,apogo,a p o g o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,ANTEATER,168,5
 Umutina-4_anteater-1,,Umutina,4_anteater,bʷɛ,bʷɛ,bʷ ɛ,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,ANTEATER,168,5
+Otuke-261_forehead-1,,Otuke,261_forehead,tʃoara,tʃoara,tʃ oa r a,,de1912linguistique;monfort1913linguistique,,,,,FOREHEAD,256,9
+Bororo-261_forehead-1,,Bororo,261_forehead,jeri,jeri,dʒ e r i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,FOREHEAD,257,9
 Otuke-87_fruit-1,,Otuke,87_fruit,boka,boka,b o k a,,de1912linguistique;monfort1913linguistique,,,,,FRUIT,258,12
 Bororo-87_fruit-1,,Bororo,87_fruit,tydy,tydy,t ɯ d ɨ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,FRUIT,259,11
 Otuke-29_boy-1,,Otuke,29_boy,caoro,caoro,tʃ ao r o,,de1912linguistique;monfort1913linguistique,,,,,BOY,260,19
@@ -541,6 +548,7 @@ Otuke-52_cricket-1,,Otuke,52_cricket,cecuve,cecuve,tʃ e tʃ u v e,,de1912lingui
 Otuke-21_bean-1,,Otuke,21_bean,karanahe,karanahe,k a r a n a h e,,de1912linguistique;monfort1913linguistique,,,,,BEAN,187,47
 Kuruminaka-21_bean-1,,Kuruminaka,21_bean,karina / kañahime,karina,k a r i n a,,de1912linguistique;monfort1913linguistique,,,,,BEAN,187,47
 Kuruminaka-21_bean-2,,Kuruminaka,21_bean,karina / kañahime,kañahime,k a ɲ a h i m e,,de1912linguistique;monfort1913linguistique,,,,,BEAN,265,48
+Otuke-93_grass-1,,Otuke,93_grass,motsena vi,motsena vi,m o ts e n a + v i,,de1912linguistique;monfort1913linguistique,,,,,GRASS ?,266,132 133
 Otuke-122_man-1,,Otuke,122_man,vuani,vuani,v ua n i,,de1912linguistique;monfort1913linguistique,,,,,MAN,268,145
 Umutina-122_man-1,,Umutina,122_man,imedy,imedy,i m e d ɨ,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,MAN,267,146
 Otuke-108_intestines-1,,Otuke,108_intestines,ceuru,ceuru,tʃ eu r u,,de1912linguistique;monfort1913linguistique,,,,,INTESTINES,269,144
@@ -556,9 +564,14 @@ Otuke-23_beautiful-1,,Otuke,23_beautiful,aniesokikia,aniesokikia,a n ie s o k i 
 Bororo-23_beautiful-1,,Bororo,23_beautiful,moty,moty,m o t ɯ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BEAUTIFUL,276,51
 Otuke-41_cheek-1,,Otuke,41_cheek,renara,renara,r e n a r a,,de1912linguistique;monfort1913linguistique,,,,,CHEEK,277,74
 Bororo-41_cheek-1,,Bororo,41_cheek,jeködy,jeködy,dʒ e k ʌ d ɨ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CHEEK,278,73
+Otuke-56_daynotnight-1,,Otuke,56_daynotnight,nericoki,nericoki,n e r i c o k i,,de1912linguistique;monfort1913linguistique,,,,,SUN,279,95
+Bororo-56_daynotnight-1,,Bororo,56_daynotnight,meri,meri,m e r i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,SUN,279,95
 Bororo-208_you-1,,Bororo,208_you,tagi,tagi,t a g i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,YOU.PL,45,272
 Otuke-76_firefly-1,,Otuke,76_firefly,tuhareturutu,tuhareturutu,t u h a r e t u r u t u,,de1912linguistique;monfort1913linguistique,,,,,FIREFLY,155,275
 Umutina-76_firefly-1,,Umutina,76_firefly,zokono,zokono,z o k o n o,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,FIREFLY,297,316
+Otuke-264_tongue-1,,Otuke,264_tongue,ceru,ceru,tʃ ɛ ɾ u,,de1912linguistique;monfort1913linguistique,,,,,TONGUE,159,276
+Bororo-264_tongue-1,,Bororo,264_tongue,ceru,ceru,tʃ ɛ ɾ u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,TONGUE,159,276
+Otuke-260_dragonfly-1,,Otuke,260_dragonfly,cecuvi ohe,cecuvi ohe,tʃ e tʃ u v i + o h e,,de1912linguistique;monfort1913linguistique,,,,,DRAGONFLY ?,171,277 278
 Otuke-95_hand-1,,Otuke,95_hand,seni,seni,s e n i,,de1912linguistique;monfort1913linguistique,,,,,HAND,176,279
 Bororo-95_hand-1,,Bororo,95_hand,gera,gera,g e r a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,HAND,179,280
 Otuke-209_maize-1,,Otuke,209_maize,mucata,mucata,m u tʃ a t a,,de1912linguistique;monfort1913linguistique,,,,,MAIZE,180,281
@@ -567,6 +580,13 @@ Kovareka-209_maize-1,,Kovareka,209_maize,takuri,takuri,t a k u r i,,de1912lingui
 Umutina-209_maize-1,,Umutina,209_maize,humataka,humataka,h u m a t a k a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,MAIZE,302,320
 Otuke-210_chin-1,,Otuke,210_chin,tiura,tiura,t iu r a,,de1912linguistique;monfort1913linguistique,,,,,CHIN,186,286
 Bororo-210_chin-1,,Bororo,210_chin,okura,okura,o kʷ u r a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CHIN,186,286
+Otuke-262_honey-1,,Otuke,262_honey,subeoru,subeoru,s u b eo r u,,de1912linguistique;monfort1913linguistique,,,,,HONEY,191,288
+Kuruminaka-262_honey-1,,Kuruminaka,262_honey,zeru,zeru,z e r u,,de1912linguistique;monfort1913linguistique,,,,,HONEY,192,289
+Bororo-262_honey-1,,Bororo,262_honey,meiawe eweguru,meiawe eweguru,m ei a w ɔe + e w e ɡ u ɾ u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BEE HONEY,193,290 291
+Bororo-259_bee-1,,Bororo,259_bee,meiao,meiao,m ei ao,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BEE,195,290
+Otuke-259_bee-1,,Otuke,259_bee,sure,sure,s u r e,,de1912linguistique;monfort1913linguistique,,,,,BEE,316,334
+Otuke-263_mountain-1,,Otuke,263_mountain,batari,batari,b a t a r i,,de1912linguistique;monfort1913linguistique,,,,,MOUNTAIN,196,292
+Bororo-263_mountain-1,,Bororo,263_mountain,tori,tori,t o r i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,MOUNTAIN,196,292
 Otuke-211_weexclusive-1,,Otuke,211_weexclusive,sekiaco,sekiaco,s e k ia tʃ o,,de1912linguistique;monfort1913linguistique,,,,,WE.(EXCLUSIVE),205,294
 Bororo-211_weexclusive-1,,Bororo,211_weexclusive,cegi,cegi,tʃ e g i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,WE.(EXCLUSIVE),205,294
 Otuke-212_night-1,,Otuke,212_night,huasahuitaha,huasahuitaha,h ua s a h ui t a h a,,de1912linguistique;monfort1913linguistique,,,,,NIGHT,206,295
@@ -607,6 +627,79 @@ Bororo-227_chicken-1,,Bororo,227_chicken,kagaɾiga,kagaɾiga,k a g a ɾ i g a,,c
 Otuke-227_chicken-1,,Otuke,227_chicken,civiaku,civiaku,tʃ i v ia k u,,de1912linguistique;monfort1913linguistique,,,,,CHICKEN,318,336
 Umutina-228_piranha-1,,Umutina,228_piranha,bujɛ,bujɛ,b u ʒ ɛ,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,PIRANHA,298,317
 Bororo-228_piranha-1,,Bororo,228_piranha,buiogo,buiogo,b ɯ j ɔ gʷ ɔ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,PIRANHA,298,317
+Bororo-229_curimbataprochiloduslineatus-1,,Bororo,229_curimbataprochiloduslineatus,do,do,d o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CURIMBATA,299,318
+Umutina-229_curimbataprochiloduslineatus-1,,Umutina,229_curimbataprochiloduslineatus,do,do,d o,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,CURIMBATA,299,318
 Umutina-230_hopliasgenus-1,,Umutina,230_hopliasgenus,hekapo,hekapo,h e k a p o,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,HOPLIAS,300,71
 Bororo-230_hopliasgenus-1,,Bororo,230_hopliasgenus,ɾɛkʌ,ɾɛkʌ,ɾ ɛ k ʌ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,HOPLIAS,300,71
 Umutina-232_pumpkin-1,,Umutina,232_pumpkin,piɾipiɾi biɾiti,piɾipiɾi biɾiti,p i ɾ i p i ɾ i + b i ɾ i t i,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,? ?,303,321 322
+Bororo-232_pumpkin-1,,Bororo,232_pumpkin,riboareu,riboareu,r i b oa r eu,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,PUMPKIN,417,439
+Umutina-233_yam-1,,Umutina,233_yam,tapatuku,tapatuku,t a p a t u k u,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,YAM,304,323
+Bororo-233_yam-1,,Bororo,233_yam,pogodawu / tadari,pogodawu,p o g o d a w u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,YAM,415,437
+Bororo-233_yam-2,,Bororo,233_yam,pogodawu / tadari,tadari,t a d a ɾ i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,YAM,416,438
+Umutina-234_liana-1,,Umutina,234_liana,u,u,u,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,LIANA,305,324
+Bororo-234_liana-1,,Bororo,234_liana,kyro,kyro,k ɯ ɾ o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,LIANA,306,324
+Umutina-235_treetrunk-1,,Umutina,235_treetrunk,ʃipaɾi,ʃipaɾi,ʃ i p a ɾ i,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,?,307,325
+Bororo-235_treetrunk-1,,Bororo,235_treetrunk,ikʷɔbɔ,ikʷɔbɔ,i kʷ ɔ b ɔ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,?,308,326
+Umutina-236_breast-1,,Umutina,236_breast,monukwa,monukwa,m o n u kʷ a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,BREAST,413,435
+Bororo-236_breast-1,,Bororo,236_breast,mokuro,mokuro,m o k u r o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BREAST,414,436
+Otuke-237_tobacco-1,,Otuke,237_tobacco,caha,caha,tʃ a h a,,de1912linguistique;monfort1913linguistique,,,,,TOBACCO,311,329
+Bororo-237_tobacco-1,,Bororo,237_tobacco,mea,mea,m ea,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,TOBACCO,412,434
+Otuke-238_blueandyellowmacaw-1,,Otuke,238_blueandyellowmacaw,karusane,karusane,k a r u s a n e,,de1912linguistique;monfort1913linguistique,,,,,MACAW,319,337
+Umutina-238_blueandyellowmacaw-1,,Umutina,238_blueandyellowmacaw,alapore,alapore,a l a p o ɾ ɛ,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,MACAW,407,430
+Bororo-238_blueandyellowmacaw-1,,Bororo,238_blueandyellowmacaw,kuido,kuido,k ui d o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,MACAW,408,431
+Otuke-239_bellybutton-1,,Otuke,239_bellybutton,cenapo,cenapo,tʃ e n a p o,,de1912linguistique;monfort1913linguistique,,,,,BELLYBUTTON,323,342
+Bororo-239_bellybutton-1,,Bororo,239_bellybutton,kunabo,kunabo,k u n a b o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BELLYBUTTON,323,342
+Umutina-239_bellybutton-1,,Umutina,239_bellybutton,upopono,upopono,u p o p o n o,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,BELLYBUTTON,406,429
+Otuke-240_straw-1,,Otuke,240_straw,oro,oro,o r o,,de1912linguistique;monfort1913linguistique,,,,,STRAW,328,347
+Bororo-240_straw-1,,Bororo,240_straw,ba,ba,b a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,STRAW,410,432
+Otuke-241_sloth-1,,Otuke,241_sloth,opohema,opohema,o p o h e m a,,de1912linguistique;monfort1913linguistique,,,,,SLOTH,330,349
+Otuke-242_sweetpotato-1,,Otuke,242_sweetpotato,huaravu,huaravu,h ua r a v u,,de1912linguistique;monfort1913linguistique,,,,,SWEET_POTATO,331,350
+Umutina-242_sweetpotato-1,,Umutina,242_sweetpotato,balakupu,balakupu,b a l a k u p u,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,SWEET_POTATO,404,427
+Otuke-243_skin-1,,Otuke,243_skin,rivi,rivi,r i v i,,de1912linguistique;monfort1913linguistique,,,,,SKIN,332,351
+Bororo-243_skin-1,,Bororo,243_skin,bure,bure,b u r e,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,SKIN,403,359
+Umutina-243_skin-1,,Umutina,243_skin,birika,birika,b i r i + k a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,SKIN ?,403,359 426
+Otuke-244_father-1,,Otuke,244_father,ioxa,ioxa,j o ʃ a,,de1912linguistique;monfort1913linguistique,,,,,FATHER,334,353
+Kuruminaka-244_father-1,,Kuruminaka,244_father,coko,coko,tʃ o k o,,de1912linguistique;monfort1913linguistique,,,,,FATHER,335,354
+Umutina-244_father-1,,Umutina,244_father,yuko,yuko,ʒ u k ɔ,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,FATHER,335,354
+Bororo-244_father-1,,Bororo,244_father,o,o,o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,FATHER,335,354
+Otuke-245_cry-1,,Otuke,245_cry,ohoateta,ohoateta,o h oa t e t a,,de1912linguistique;monfort1913linguistique,,,,,CRY,336,355
+Bororo-245_cry-1,,Bororo,245_cry,aragydy,aragydy,a r a g ɯ d ɨ,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CRY,380,403
+Umutina-245_cry-1,,Umutina,245_cry,tua,tua,t ua,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,CRY,381,404
+Otuke-247_feather-1,,Otuke,247_feather,navo,navo,n a v o,,de1912linguistique;monfort1913linguistique,,,,,FEATHER,338,357
+Bororo-247_feather-1,,Bororo,247_feather,ikodo,ikodo,i k o d o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,FEATHER,379,402
+Umutina-247_feather-1,,Umutina,247_feather,ibotoka,ibotoka,i b o t o k a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,FEATHER,339,358
+Otuke-248_wrist-1,,Otuke,248_wrist,yuna ra,yuna ra,j u n a + ɾ a,,de1912linguistique;monfort1913linguistique,,,,,HAND ?,378,400 401
+Bororo-248_wrist-1,,Bororo,248_wrist,iera paru,iera paru,ie ɾ a + p a ɾ u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,HAND ?,378,400 401
+Umutina-248_wrist-1,,Umutina,248_wrist,iata pare,iata pare,j a t a + p a ɾ e,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,HAND ?,378,400 401
+Otuke-249_fur-1,,Otuke,249_fur,vuaka vi,vuaka vi,v ua k a + v i,,de1912linguistique;monfort1913linguistique,,,,,? ?,340,360 361
+Bororo-249_fur-1,,Bororo,249_fur,bu,bu,b u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,FUR,340,361
+Kuruminaka-250_eel-1,,Kuruminaka,250_eel,mono / mapo,mono,m o n o,,de1912linguistique;monfort1913linguistique,,,,,EEL,341,362
+Kuruminaka-250_eel-2,,Kuruminaka,250_eel,mono / mapo,mapo,m a p o,,de1912linguistique;monfort1913linguistique,,,,,EEL,342,363
+Bororo-250_eel-1,,Bororo,250_eel,kurigi / pedago,kurigi,k u ɾ i g i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,EEL,389,412
+Bororo-250_eel-2,,Bororo,250_eel,kurigi / pedago,pedago,p e d a g o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,EEL,390,413
+Otuke-251_look-1,,Otuke,251_look,aretake,aretake,a ɾ e t a k e,,de1912linguistique;monfort1913linguistique,,,,,LOOK,343,364
+Bororo-251_look-1,,Bororo,251_look,aiwo,aiwo,ai w o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,LOOK,377,399
+Otuke-252_laugh-1,,Otuke,252_laugh,ocututa,ocututa,o tʃ u t u t a,,de1912linguistique;monfort1913linguistique,,,,,LAUGH,344,365
+Umutina-252_laugh-1,,Umutina,252_laugh,zorika,zorika,z o ɾ i k a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,LAUGH,375,398
+Otuke-253_grasshopper-1,,Otuke,253_grasshopper,cecuhua,cecuhua,tʃ e tʃ u h ua,,de1912linguistique;monfort1913linguistique,,,,,GRASSHOPPER,215,250
+Bororo-253_grasshopper-1,,Bororo,253_grasshopper,dʒokugo / kitoriga,dʒokugo,dʒ o k u g o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,GRASSHOPPER,373,396
+Bororo-253_grasshopper-2,,Bororo,253_grasshopper,dʒokugo / kitoriga,kitoriga,k i t o r i g a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,GRASSHOPPER,374,397
+Umutina-253_grasshopper-1,,Umutina,253_grasshopper,kasape,kasape,k a s a p e,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,GRASSHOPPER,401,424
+Otuke-254_beetle-1,,Otuke,254_beetle,okane,okane,o k a n e,,de1912linguistique;monfort1913linguistique,,,,,BEETLE,346,367
+Bororo-254_beetle-1,,Bororo,254_beetle,boreu,boreu,b o r eu,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,BEETLE,372,395
+Umutina-254_beetle-1,,Umutina,254_beetle,psimo,psimo,p s i m o,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,BEETLE,347,368
+Otuke-255_centipede-1,,Otuke,255_centipede,rektaka,rektaka,r e k t a k a,,de1912linguistique;monfort1913linguistique,,,,,CENTIPEDE,371,394
+Bororo-255_centipede-1,,Bororo,255_centipede,iwagu / ekoe / orari / betaga,iwagu,i w a g u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CENTIPEDE,368,391
+Bororo-255_centipede-2,,Bororo,255_centipede,iwagu / ekoe / orari / betaga,ekoe,e k oe,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CENTIPEDE,369,392
+Bororo-255_centipede-3,,Bororo,255_centipede,iwagu / ekoe / orari / betaga,orari,o r a r i,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CENTIPEDE,370,393
+Bororo-255_centipede-4,,Bororo,255_centipede,iwagu / ekoe / orari / betaga,betaga,b e t a g a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,CENTIPEDE,371,394
+Umutina-255_centipede-1,,Umutina,255_centipede,botolo,botolo,b o t o l o,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,CENTIPEDE,400,423
+Otuke-256_salt-1,,Otuke,256_salt,maktahu,maktahu,m a k t a h u,,de1912linguistique;monfort1913linguistique,,,,,SALT,348,369
+Bororo-256_salt-1,,Bororo,256_salt,ta / tʃa,ta,t a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,SALT,367,390
+Bororo-256_salt-2,,Bororo,256_salt,ta / tʃa,tʃa,tʃ a,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,SALT,367,390
+Otuke-257_rattlesnake-1,,Otuke,257_rattlesnake,ahuaku,ahuaku,a h ua k u,,de1912linguistique;monfort1913linguistique,,,,,RATTLESNAKE,349,370
+Bororo-257_rattlesnake-1,,Bororo,257_rattlesnake,ewo,ewo,e w o,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,RATTLESNAKE,366,389
+Umutina-257_rattlesnake-1,,Umutina,257_rattlesnake,embaki,embaki,e m b a k i,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,RATTLESNAKE,349,370
+Otuke-258_eyebrow-1,,Otuke,258_eyebrow,reka vi,reka vi,r e k a + v i,,de1912linguistique;monfort1913linguistique,,,,,EYEBROW ?,352,373 374
+Umutina-258_eyebrow-1,,Umutina,258_eyebrow,zimoʃika,zimoʃika,z i m o ʃ i k a,,schultz1952vocabulario;lima1997lingua;telles2007flexao;cruz2012povo,,,,,EYEBROW,364,386
+Bororo-258_eyebrow-1,,Bororo,258_eyebrow,dʒerira bu,dʒerira bu,dʒ e r i r a + b u,,crowell1979grammar;Ccrowell1973cohesion;nonato2008ainore,,,,,FRONTAL ?,365,387 388
