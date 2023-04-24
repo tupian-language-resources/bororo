@@ -5,6 +5,8 @@
 If you use these data please cite
 this dataset using the DOI of the [particular released version](../../releases/) you were using
 
+Ferraz Gerardi, Fabrício (2023). Lexical database of the Bororoan family.
+
 ## Description
 
 
