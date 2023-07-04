@@ -97,10 +97,15 @@ Umutina-45_caja-1-1,Umutina-45_caja-1,zatuku,68,false,expert,,z a t u k u,SCA,,1
 Bororo-46_capybara-1-1,Bororo-46_capybara-1,akiwa,69,false,expert,,a k i w a,SCA,,1
 Otuke-46_capybara-1-1,Otuke-46_capybara-1,okiwia,69,false,expert,,o k i w ia,SCA,,1
 Umutina-46_capybara-1-1,Umutina-46_capybara-1,ojba,258,false,expert,,- o j b - - - - - - - - a,SCA,,1
-Otuke-51_chicha-1-1,Otuke-51_chicha-1,tʃoro,75,false,expert,,- tʃ o r o -,SCA,,1
-Otuke-51_chicha-2-1,Otuke-51_chicha-2,iʃoro,75,false,expert,,i ʃ o r o -,SCA,,1
-Umutina-51_chicha-1-1,Umutina-51_chicha-1,zuluʔ rukwa,75,false,expert,,- z u l u ʔ,SCA,,1
-Umutina-51_chicha-1-2,Umutina-51_chicha-1,zuluʔ rukwa,77,false,expert,,r u kʷ a,SCA,,2
+Otuke-275_chicha-1-1,Otuke-275_chicha-1,yoro,75,false,expert,,j o r o -,SCA,,1
+Umutina-275_chicha-1-1,Umutina-275_chicha-1,zuluʔ rukwa,75,false,expert,,z u l u ʔ,SCA,,1
+Umutina-275_chicha-1-2,Umutina-275_chicha-1,zuluʔ rukwa,77,false,expert,,r u kʷ a,SCA,,2
+Bororo-275_chicha-1-1,Bororo-275_chicha-1,boekuru pagodureu,470,false,expert,,b oe,SCA,,1
+Bororo-275_chicha-1-2,Bororo-275_chicha-1,boekuru pagodureu,75,false,expert,,k u r u -,SCA,,2
+Bororo-275_chicha-1-3,Bororo-275_chicha-1,boekuru pagodureu,471,false,expert,,p a g o d u,SCA,,3
+Bororo-275_chicha-1-4,Bororo-275_chicha-1,boekuru pagodureu,472,false,expert,,r eu,SCA,,4
+Kuruminaka-275_chicha-1-1,Kuruminaka-275_chicha-1,tʃoro,75,false,expert,,tʃ o r o -,SCA,,1
+Kovareka-275_chicha-1-1,Kovareka-275_chicha-1,tʃoro,75,false,expert,,tʃ o r o -,SCA,,1
 Bororo-56_coaticoatimundi-1-1,Bororo-56_coaticoatimundi-1,atoe,79,false,expert,,a t o e,SCA,,1
 Bororo-56_coaticoatimundi-2-1,Bororo-56_coaticoatimundi-2,kudobo,80,false,expert,,k u d o b o,SCA,,1
 Umutina-56_coaticoatimundi-1-1,Umutina-56_coaticoatimundi-1,utupu,80,false,expert,,- u t u p u,SCA,,1
@@ -156,6 +161,8 @@ Umutina-78_dry-1-1,Umutina-78_dry-1,ki,103,false,expert,,k i,SCA,,1
 Bororo-79_duck-1-1,Bororo-79_duck-1,turubare,104,false,expert,,t u r u b a r e,SCA,,1
 Otuke-79_duck-1-1,Otuke-79_duck-1,turupare,104,false,expert,,t u r u p a r e,SCA,,1
 Umutina-79_duck-1-1,Umutina-79_duck-1,harumo,104,false,expert,,h a r u m - - o,SCA,,1
+Bororo-79_duck-2-1,Bororo-79_duck-2,turubare,469,false,expert,,t u r u b a r e,SCA,,1
+Kovareka-79_duck-1-1,Kovareka-79_duck-1,turupare,469,false,expert,,t u r u p a r e,SCA,,1
 Bororo-80_ear-1-1,Bororo-80_ear-1,bia,105,false,expert,,b i a,SCA,,1
 Umutina-80_ear-1-1,Umutina-80_ear-1,bia,105,false,expert,,b i a,SCA,,1
 Otuke-80_ear-1-1,Otuke-80_ear-1,caparara,344,false,expert,,c a p a ɾ a ɾ a,SCA,,1
@@ -230,10 +237,10 @@ Umutina-111_genipa-1-1,Umutina-111_genipa-1,bei,14,false,expert,,b ei,SCA,,1
 Bororo-111_genipa-1-1,Bororo-111_genipa-1,bie,14,false,expert,,b ie,SCA,,1
 Bororo-112_gildedcatfish-1-1,Bororo-112_gildedcatfish-1,poru,15,false,expert,,p o r u,SCA,,1
 Umutina-112_gildedcatfish-1-1,Umutina-112_gildedcatfish-1,poru,15,false,expert,,p o r u,SCA,,1
-Bororo-114_good-1-1,Bororo-114_good-1,amarew,128,false,expert,,a m a r e w,SCA,,1
-Umutina-114_good-1-1,Umutina-114_good-1,emaka,128,false,expert,,e m a k a -,SCA,,1
-Kovareka-114_good-1-1,Kovareka-114_good-1,emaka,128,false,expert,,e m a k a -,SCA,,1
-Kuruminaka-114_good-1-1,Kuruminaka-114_good-1,ĩmaxa,128,false,expert,,ĩ m a x a -,SCA,,1
+Bororo-114_good-1-1,Bororo-114_good-1,pemega,128,false,expert,,p e m e g a,SCA,,1
+Umutina-114_good-1-1,Umutina-114_good-1,emaka,128,false,expert,,- e m a k a,SCA,,1
+Kovareka-114_good-1-1,Kovareka-114_good-1,emaka,128,false,expert,,- e m a k a,SCA,,1
+Kuruminaka-114_good-1-1,Kuruminaka-114_good-1,ĩmaxa,128,false,expert,,- ĩ m a x a,SCA,,1
 Bororo-115_gourd-1-1,Bororo-115_gourd-1,poari,129,false,expert,,p oa r i,SCA,,1
 Bororo-115_gourd-2-1,Bororo-115_gourd-2,pogoga,130,false,expert,,p o g o g a,SCA,,1
 Umutina-115_gourd-1-1,Umutina-115_gourd-1,poari,129,false,expert,,p oa r i,SCA,,1
@@ -309,6 +316,7 @@ Umutina-157_manioc-1-1,Umutina-157_manioc-1,utuʒo,203,false,expert,,u t u ʒ o,
 Bororo-159_moon-1-1,Bororo-159_moon-1,ari,204,false,expert,,a r i,SCA,,1
 Umutina-159_moon-1-1,Umutina-159_moon-1,ari,204,false,expert,,a r i,SCA,,1
 Umutina-159_moon-2-1,Umutina-159_moon-2,ali,204,false,expert,,a l i,SCA,,1
+Otuke-159_moon-1-1,Otuke-159_moon-1,ari,204,false,expert,,a r i,SCA,,1
 Bororo-160_mosquito-1-1,Bororo-160_mosquito-1,batʃe,205,false,expert,,b a tʃ e,SCA,,1
 Umutina-160_mosquito-1-1,Umutina-160_mosquito-1,mbe,205,false,expert,,m/b - - e,SCA,,1
 Umutina-160_mosquito-2-1,Umutina-160_mosquito-2,bai,205,false,expert,,b ai - -,SCA,,1
@@ -514,9 +522,10 @@ Umutina-250_walk-2-1,Umutina-250_walk-2,iminu,162,false,expert,,i m i n u,SCA,,1
 Bororo-251_wasp-1-1,Bororo-251_wasp-1,atugue,161,false,expert,,a t u g u e,SCA,,1
 Otuke-251_wasp-1-1,Otuke-251_wasp-1,ohue,161,false,expert,,o h - - - ue,SCA,,1
 Umutina-251_wasp-1-1,Umutina-251_wasp-1,upuie,441,false,expert,,u p u j e,SCA,,1
-Bororo-252_water-1-1,Bororo-252_water-1,po,159,false,expert,,p o,SCA,,1
-Umutina-252_water-1-1,Umutina-252_water-1,po,159,false,expert,,p o,SCA,,1
+Bororo-252_water-1-1,Bororo-252_water-1,po,159,false,expert,,p o - - - - -,SCA,,1
+Umutina-252_water-1-1,Umutina-252_water-1,po,159,false,expert,,p o - - - - -,SCA,,1
 Otuke-252_water-1-1,Otuke-252_water-1,ouru,160,false,expert,,ou r u,SCA,,1
+Umutina-252_water-2-1,Umutina-252_water-2,purukwa,159,false,expert,,p u r u k w a,SCA,,1
 Bororo-255_white-1-1,Bororo-255_white-1,kigadu,157,false,expert,,- k i g a d u,SCA,,1
 Umutina-255_white-1-1,Umutina-255_white-1,kikoto,157,false,expert,,- k i k o t o,SCA,,1
 Umutina-255_white-2-1,Umutina-255_white-2,akɨkoto,157,false,expert,,a k ɨ k o t o,SCA,,1
@@ -534,8 +543,6 @@ Umutina-236_thou-1-1,Umutina-236_thou-1,ame,60,false,expert,,a m e,SCA,,1
 Umutina-236_thou-2-1,Umutina-236_thou-2,a,60,false,expert,,a - -,SCA,,1
 Otuke-5_anus-1-1,Otuke-5_anus-1,tʃera,7,false,expert,,tʃ e ɾ - - - - a,SCA,,1
 Bororo-5_anus-1-1,Bororo-5_anus-1,peraporo,7,false,expert,,p e ɾ a p o ɾ o,SCA,,1
-Otuke-23_beard-1-1,Otuke-23_beard-1,tera vihi,49,false,expert,,- t e r - - a,SCA,,1
-Otuke-23_beard-1-2,Otuke-23_beard-1,tera vihi,50,false,expert,,v i h i,SCA,,2
 Bororo-23_beard-1-1,Bororo-23_beard-1,itoraby,49,false,expert,,i t o r a b ɯ,SCA,,1
 Otuke-58_cockroach-1-1,Otuke-58_cockroach-1,tʃetʃuvi,83,false,expert,,tʃ e tʃ u v i,SCA,,1
 Otuke-58_cockroach-1-2,Otuke-58_cockroach-1,tʃetʃuvi,84,false,expert,,t a r u t o,SCA,,2
@@ -548,10 +555,14 @@ Otuke-47_cat-1-1,Otuke-47_cat-1,ahi,142,false,expert,,a h i,SCA,,1
 Bororo-47_cat-1-1,Bororo-47_cat-1,gato,70,false,expert,,g a t o,SCA,,1
 Otuke-48_caterpillar-1-1,Otuke-48_caterpillar-1,kihe,72,false,expert,,k i h e,SCA,,1
 Otuke-54_cicada-1-1,Otuke-54_cicada-1,kehue,78,false,expert,,k e h ue,SCA,,1
+Umutina-54_cicada-1-1,Umutina-54_cicada-1,utukwarepo,460,false,expert,,u t u kw a ɾ e p o,SCA,,1
+Bororo-54_cicada-1-1,Bororo-54_cicada-1,4io4io,462,false,expert,,ɾ io ɾ io,SCA,,1
+Bororo-54_cicada-2-1,Bororo-54_cicada-2,konorigi,461,false,expert,,k o n o ɾ i g i,SCA,,1
 Otuke-253_wax-1-1,Otuke-253_wax-1,surebori,153,false,expert,,s u r e b o r i,SCA,,1
 Bororo-253_wax-1-1,Bororo-253_wax-1,bori,153,false,expert,,- - - - b ɔ r i,SCA,,1
-Otuke-241_tooth-1-1,Otuke-241_tooth-1,o,152,false,expert,,o,SCA,,1
-Bororo-241_tooth-1-1,Bororo-241_tooth-1,o,152,false,expert,,o,SCA,,1
+Otuke-241_tooth-1-1,Otuke-241_tooth-1,o,152,false,expert,,- - - - o,SCA,,1
+Bororo-241_tooth-1-1,Bororo-241_tooth-1,o,152,false,expert,,- - - - o,SCA,,1
+Umutina-241_tooth-1-1,Umutina-241_tooth-1,okopo,152,false,expert,,o k o p ɔ,SCA,,1
 Otuke-94_finger-1-1,Otuke-94_finger-1,iuna,114,false,expert,,- j u n a,SCA,,1
 Bororo-94_finger-1-1,Bororo-94_finger-1,ierako,114,false,expert,,ie r a k o,SCA,,1
 Otuke-113_give-1-1,Otuke-113_give-1,iyura,127,false,expert,,i j u r a,SCA,,1
@@ -564,8 +575,6 @@ Bororo-223_star-1-1,Bororo-223_star-1,kuieje,147,false,expert,,k u j e dʒ e,SCA
 Otuke-223_star-1-1,Otuke-223_star-1,ukema,148,false,expert,,u k e m a,SCA,,1
 Otuke-259_woman-1-1,Otuke-259_woman-1,vuaneti,62,false,expert,,v ua n e t i,SCA,,1
 Bororo-259_woman-1-1,Bororo-259_woman-1,aredy,62,false,expert,,- a ɾ e d ɨ,SCA,,1
-Otuke-43_buttocks-1-1,Otuke-43_buttocks-1,ʃu,67,false,expert,,ʃ u,SCA,,1
-Bororo-43_buttocks-1-1,Bororo-43_buttocks-1,pera,66,false,expert,,p e r a,SCA,,1
 Otuke-70_daughter-1-1,Otuke-70_daughter-1,eno,3,false,expert,,e n - - - - - - o,SCA,,1
 Bororo-70_daughter-1-1,Bororo-70_daughter-1,onaregody aredy,3,false,expert,,ʌ n a ɾ ɛ ɡ ɛ d ɨ,SCA,,1
 Bororo-70_daughter-1-2,Bororo-70_daughter-1,onaregody aredy,6,false,expert,,a r e d ɨ,SCA,,2
@@ -578,7 +587,7 @@ Bororo-105_forehead-1-1,Bororo-105_forehead-1,jeri,9,false,expert,,dʒ e r i,SCA
 Otuke-109_fruit-1-1,Otuke-109_fruit-1,boka,12,false,expert,,b o k a,SCA,,1
 Bororo-109_fruit-1-1,Bororo-109_fruit-1,tydy,11,false,expert,,t ɯ d ɨ,SCA,,1
 Otuke-35_boy-1-1,Otuke-35_boy-1,caoro,19,false,expert,,- - - tʃ ao r o,SCA,,1
-Bororo-35_boy-1-1,Bororo-35_boy-1,ekygyre / nagedirogwu,19,false,expert,,e k ɯ g ɨ r e,SCA,,1
+Bororo-35_boy-1-1,Bororo-35_boy-1,ekygyre,19,false,expert,,e k ɯ g ɨ r e,SCA,,1
 Otuke-142_knee-1-1,Otuke-142_knee-1,sĩ,22,false,expert,,s ĩ,SCA,,1
 Otuke-64_cricket-1-1,Otuke-64_cricket-1,cecuve,92,false,expert,,tʃ e tʃ u v e,SCA,,1
 Otuke-22_bean-1-1,Otuke-22_bean-1,karanahe,47,false,expert,,k a r a n a h e,SCA,,1
@@ -590,27 +599,30 @@ Otuke-135_intestines-1-1,Otuke-135_intestines-1,ceuru,144,false,expert,,tʃ eu r
 Otuke-122_he-1-1,Otuke-122_he-1,ikica ano,139,false,expert,,i k i c a,SCA,,1
 Otuke-122_he-1-2,Otuke-122_he-1,ikica ano,140,false,expert,,a n o,SCA,,2
 Bororo-122_he-1-1,Bororo-122_he-1,ema,136,false,expert,,e m a,SCA,,1
-Otuke-138_jaguar-1-1,Otuke-138_jaguar-1,ahi,142,false,expert,,a h i,SCA,,1
+Otuke-138_jaguar-1-1,Otuke-138_jaguar-1,ahi / anteko,142,false,expert,,a h i,SCA,,1
 Kovareka-138_jaguar-1-1,Kovareka-138_jaguar-1,anteko,141,false,expert,,a n t e k - - - o,SCA,,1
 Bororo-138_jaguar-1-1,Bororo-138_jaguar-1,adygo,141,false,expert,,a - d ɯ ɡʷ - - - ɔ,SCA,,1
 Umutina-138_jaguar-1-1,Umutina-138_jaguar-1,aʒukujta,141,false,expert,,a - ʒ u k u j t a,SCA,,1
+Otuke-138_jaguar-2-1,Otuke-138_jaguar-2,ahi / anteko,141,false,expert,,a n t e k - - - o,SCA,,1
 Otuke-146_leg-1-1,Otuke-146_leg-1,la,143,false,expert,,- - - - l a,SCA,,1
 Bororo-146_leg-1-1,Bororo-146_leg-1,pogwora,143,false,expert,,p o gʷ o r a,SCA,,1
 Otuke-24_beautiful-1-1,Otuke-24_beautiful-1,aniesokikia,52,false,expert,,a n ie s o k i k ia,SCA,,1
 Bororo-24_beautiful-1-1,Bororo-24_beautiful-1,moty,51,false,expert,,m o t ɯ,SCA,,1
 Otuke-50_cheek-1-1,Otuke-50_cheek-1,renara,74,false,expert,,r e n a r a,SCA,,1
 Bororo-50_cheek-1-1,Bororo-50_cheek-1,jeködy,73,false,expert,,dʒ e k ʌ d ɨ,SCA,,1
-Otuke-71_daynotnight-1-1,Otuke-71_daynotnight-1,nericoki,95,false,expert,,n e r i c o k i,SCA,,1
-Bororo-71_daynotnight-1-1,Bororo-71_daynotnight-1,meri,95,false,expert,,m e r - - - - i,SCA,,1
 Bororo-264_you-1-1,Bororo-264_you-1,tagi,272,false,expert,,t a g i,SCA,,1
 Otuke-97_firefly-1-1,Otuke-97_firefly-1,tuhareturutu,275,false,expert,,t u h a r e t u r u t u,SCA,,1
 Umutina-97_firefly-1-1,Umutina-97_firefly-1,zokono,316,false,expert,,z o k o n o,SCA,,1
+Bororo-97_firefly-1-1,Bororo-97_firefly-1,bytyiari,466,false,expert,,b ɨ t ɨ ia r i,SCA,,1
+Bororo-97_firefly-2-1,Bororo-97_firefly-2,joko pigipigi,316,false,expert,,j o k - - o,SCA,,1
+Bororo-97_firefly-2-2,Bororo-97_firefly-2,joko pigipigi,468,false,expert,,p i g i p i g i,SCA,,2
 Otuke-240_tongue-1-1,Otuke-240_tongue-1,ceru,276,false,expert,,tʃ ɛ ɾ u,SCA,,1
 Bororo-240_tongue-1-1,Bororo-240_tongue-1,ceru,276,false,expert,,tʃ ɛ ɾ u,SCA,,1
 Otuke-76_dragonfly-1-1,Otuke-76_dragonfly-1,cecuvi ohe,277,false,expert,,tʃ e tʃ u v i,SCA,,1
 Otuke-76_dragonfly-1-2,Otuke-76_dragonfly-1,cecuvi ohe,278,false,expert,,o h e,SCA,,2
 Otuke-120_hand-1-1,Otuke-120_hand-1,seni,279,false,expert,,s e n i,SCA,,1
 Bororo-120_hand-1-1,Bororo-120_hand-1,gera,280,false,expert,,g e r a,SCA,,1
+Umutina-120_hand-1-1,Umutina-120_hand-1,zila,280,false,expert,,z i l a,SCA,,1
 Otuke-153_maize-1-1,Otuke-153_maize-1,mucata,281,false,expert,,m u tʃ a t a,SCA,,1
 Bororo-153_maize-1-1,Bororo-153_maize-1,kuiada,282,false,expert,,kʷ u j a d a,SCA,,1
 Kovareka-153_maize-1-1,Kovareka-153_maize-1,takuri,283,false,expert,,t a k u r i,SCA,,1
@@ -685,8 +697,6 @@ Bororo-37_breast-1-1,Bororo-37_breast-1,mokuro,436,false,expert,,m o k u r o,SCA
 Otuke-239_tobacco-1-1,Otuke-239_tobacco-1,caha,329,false,expert,,tʃ a h a,SCA,,1
 Bororo-239_tobacco-1-1,Bororo-239_tobacco-1,mea,434,false,expert,,m ea,SCA,,1
 Umutina-272_thunder-1-1,Umutina-272_thunder-1,vetororova,332,false,expert,,v e t o r o r o v a,SCA,,1
-Umutina-272_thunder-2-1,Umutina-272_thunder-2,boina matare,433,false,expert,,b oi n - - a,SCA,,1
-Umutina-272_thunder-2-2,Umutina-272_thunder-2,boina matare,446,false,expert,,m a t a r e,SCA,,2
 Otuke-273_want-1-1,Otuke-273_want-1,viasike,333,false,expert,,v ia s i k e,SCA,,1
 Bororo-273_want-1-1,Bororo-273_want-1,aidu,428,false,expert,,ai d u,SCA,,1
 Otuke-31_blueandyellowmacaw-1-1,Otuke-31_blueandyellowmacaw-1,karusane,337,false,expert,,k a r u s a n e,SCA,,1
@@ -729,7 +739,6 @@ Bororo-83_eel-1-1,Bororo-83_eel-1,kurigi,412,false,expert,,k u ɾ i g i,SCA,,1
 Bororo-83_eel-2-1,Bororo-83_eel-2,pedago,413,false,expert,,p e d a g o,SCA,,1
 Otuke-152_look-1-1,Otuke-152_look-1,aretake,364,false,expert,,a ɾ e t a k e,SCA,,1
 Bororo-152_look-1-1,Bororo-152_look-1,aiwo,399,false,expert,,ai w o,SCA,,1
-Umutina-152_look-1-1,Umutina-152_look-1,arikixi,425,false,expert,,a ɾ i k i ʃ i,SCA,,1
 Otuke-144_laugh-1-1,Otuke-144_laugh-1,ocututa,365,false,expert,,o tʃ u t u t a,SCA,,1
 Umutina-144_laugh-1-1,Umutina-144_laugh-1,zorika,398,false,expert,,z o ɾ i k a,SCA,,1
 Otuke-117_grasshopper-1-1,Otuke-117_grasshopper-1,cecuhua,250,false,expert,,tʃ e tʃ u h ua,SCA,,1
@@ -754,11 +763,11 @@ Umutina-195_rattlesnake-1-1,Umutina-195_rattlesnake-1,embaki,370,false,expert,,e
 Otuke-87_eyebrow-1-1,Otuke-87_eyebrow-1,reka vi,373,false,expert,,r e k a,SCA,,1
 Otuke-87_eyebrow-1-2,Otuke-87_eyebrow-1,reka vi,374,false,expert,,v i,SCA,,2
 Umutina-87_eyebrow-1-1,Umutina-87_eyebrow-1,zimoʃika,386,false,expert,,z i m o ʃ i k a,SCA,,1
-Bororo-87_eyebrow-1-1,Bororo-87_eyebrow-1,dʒerira bu,387,false,expert,,dʒ e r i r a,SCA,,1
+Bororo-87_eyebrow-1-1,Bororo-87_eyebrow-1,dʒerira bu,387,false,expert,,dʒ e ɾ i ɾ a,SCA,,1
 Bororo-87_eyebrow-1-2,Bororo-87_eyebrow-1,dʒerira bu,388,false,expert,,b u,SCA,,2
 Umutina-271_hunt-1-1,Umutina-271_hunt-1,kimolo,375,false,expert,,k i m o l o,SCA,,1
 Bororo-271_hunt-1-1,Bororo-271_hunt-1,meri,254,false,expert,,m e r i,SCA,,1
-Umutina-267_fat-1-1,Umutina-267_fat-1,ramu,376,false,expert,,r a m u,SCA,,1
+Umutina-267_fat-1-1,Umutina-267_fat-1,ramu,376,false,expert,,ɾ a m u,SCA,,1
 Bororo-267_fat-1-1,Bororo-267_fat-1,ka,377,false,expert,,k a,SCA,,1
 Umutina-269_head-1-1,Umutina-269_head-1,tori,378,false,expert,,t ɔ ɾ i,SCA,,1
 Bororo-269_head-1-1,Bororo-269_head-1,aora,379,false,expert,,ao ɾ a,SCA,,1

@@ -5,8 +5,6 @@
 If you use these data please cite
 this dataset using the DOI of the [particular released version](../../releases/) you were using
 
-Ferraz Gerardi, Fabrício (2023). Lexical database of the Bororoan family.
-
 ## Description
 
 
@@ -20,16 +18,16 @@ Ferraz Gerardi, Fabrício (2023). Lexical database of the Bororoan family.
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 5
-- **Concepts:** 267
-- **Lexemes:** 724
+- **Concepts:** 265
+- **Lexemes:** 731
 - **Sources:** 9
-- **Synonymy:** 1.15
-- **Cognacy:** 773 cognates in 440 cognate sets (235 singletons)
+- **Synonymy:** 1.14
+- **Cognacy:** 782 cognates in 443 cognate sets (238 singletons)
 - **Cognate Diversity:** 0.38
 - **Invalid lexemes:** 0
-- **Tokens:** 3,601
-- **Segments:** 76 (0 BIPA errors, 0 CLTS sound class errors, 76 CLTS modified)
-- **Inventory size (avg):** 35.00
+- **Tokens:** 3,658
+- **Segments:** 77 (0 BIPA errors, 0 CLTS sound class errors, 77 CLTS modified)
+- **Inventory size (avg):** 35.60
 
 ## CLDF Datasets
 
