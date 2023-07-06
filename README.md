@@ -20,7 +20,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 - **Varieties:** 5
 - **Concepts:** 265
 - **Lexemes:** 731
-- **Sources:** 9
+- **Sources:** 8
 - **Synonymy:** 1.14
 - **Cognacy:** 782 cognates in 443 cognate sets (238 singletons)
 - **Cognate Diversity:** 0.38

@@ -1,5 +1,5 @@
 # Error Analysis for Bororo
-* BIBTEX MISSING 
+* BIBTEX MISSING Ccrowell1973cohesion
 * CONCEPT ANT
 * CONCEPT BASKET
 * CONCEPT BUTTOCK
@@ -14,6 +14,12 @@
 * CONCEPT RED
 * CONCEPT RED MACAW
 * CONCEPT RHEA (RHEA AMERICANA)
+* LANGUAGE ID Bororo (Steinen)
+* LANGUAGE ID Bororo Cabaçal
+* LANGUAGE ID Bororo Campanha
+* LANGUAGE ID Bororo São Lourenço
+* LANGUAGE ID Bororo Western (Castelnau)
+* LANGUAGE ID Eastern Bororo (Natterer)
 * LENGTH: 447 Otuke BEARD
 * LENGTH: 515 Otuke GRASS
 * LENGTH: 695 Bororo LAUGH
