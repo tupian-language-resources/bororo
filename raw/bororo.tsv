@@ -1,6 +1,6 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1	Bororo	ACHIOTE	nonogo	nonogo	n o n o g o	138	1	n o n o g o	ACHIOTE	
-2	Umutina	ACHIOTE	nonokʷa	nonokʷa	n o n o kʷ a	138	1	n o n o kʷ a	ACHIOTE	'hither' (adverb)
+2	Umutina	ACHIOTE	nonokʷa	nonokʷa	n o n o kʷ a	138	1	n o n o kʷ a	ACHIOTE	hither' (adverb)
 4	Bororo	AGOUTI	mea	mea	m e a	128	137	m e - a	AGOUTI	
 5	Otuke	AGOUTI	neda	neda	n e d a	128	137	n e d a	AGOUTI	None
 6	Umutina	AGOUTI	mea	mea	m e a	128	137	m e a	AGOUTI	
@@ -280,9 +280,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 176	Umutina	FOOT	bure / ambure	bure	b u r e	33	10	b u r e	FOOT	None
 177	Umutina	FOOT	bure / ambure	ambure	a m/b u r e	33	10	a m/b u r e	FOOT	None
 1024	Bororo Campanha	FOOT	itori	itori	t o r i	33	10	t o r i	FOOT	
-1063	Bororo Cabaçal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	"my" foot
+1063	Bororo Cabaçal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	my foot
 1076	Bororo Cabaçal	FOOT	igure / gule	gule	g u l e	33		g u l e	FOOT	
-1239	Bororo Western (Castelnau)	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	"my" foot
+1239	Bororo Western (Castelnau)	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	my foot
 178	Bororo	FOREST	itura	itura	i t u r a	94	2	i t u r a	WOOD	None
 180	Umutina	FOREST	iʃula	iʃula	i ʃ u l a	94	2	i ʃ u l a	WOOD	None
 456	Otuke	FOREST	itura	itura	i t u r a	94	2	i t u r a	WOOD	
@@ -312,7 +312,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 198	Bororo	HAIR	ao	ao	ao	20	134	- - ao	HAIR	
 199	Umutina	HAIR	azo / azu	azo	a z o	20	134	a z o	HAIR	
 468	Otuke	HAIR	aho	aho	a h o	20	134	a h o	HAIR	
-974	Bororo Cabaçal	HAIR	ita	ita	a	20	134	- - a	HAIR	"my" hair
+974	Bororo Cabaçal	HAIR	ita	ita	a	20	134	- - a	HAIR	my hair
 1020	Bororo Campanha	HAIR	itau	itau	au	498	546	au	HAIR	
 1077	Bororo Cabaçal	HAIR	ae	ae	ae	20	134	- - ae	HAIR	
 1237	Bororo Western (Castelnau)	HAIR	itai	itai	t ai	20	134	- t ai	HAIR	”my” hair
@@ -617,7 +617,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 977	Bororo Cabaçal	THIGH	igoda / gola	igoda	g o d a	546	573	g o d a	THIGH	
 1027	Bororo Campanha	THIGH	jobona	jobona	dʒ o b o n a	547	610	dʒ o b o n a	THIGH	
 1075	Bororo Cabaçal	THIGH	igoda / gola	gola	g o l a	546	573	g o l a	THIGH	
-1238	Bororo Western (Castelnau)	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	"my" flesh
+1238	Bororo Western (Castelnau)	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	my flesh
 406	Umutina	THROAT	ku(po)	ku	k u	113	169	k u	THROAT	None
 763	Bororo	THROAT	ruwo	ruwo	r u w o	420	442	r u w o	THROAT	
 407	Bororo	TINAMOU	riwodo	riwodo	r i w o d o	163	168	r i w o d o	TINAMOU	None
@@ -714,7 +714,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 475	Otuke	TOOTH	o	o	o	242	152	o	TOOTH	
 476	Bororo	TOOTH	o	o	ɔ	242	152	ɔ	TOOTH	
 772	Umutina	TOOTH	akopo	akopo	a k o p ɔ	242	152	a k o p ɔ	TOOTH	
-975	Bororo Cabaçal	TOOTH	ito	ito	o	242	152	o	TOOTH	"my" tooth
+975	Bororo Cabaçal	TOOTH	ito	ito	o	242	152	o	TOOTH	my tooth
 1021	Bororo Campanha	TOOTH	ita	ita	a	242	152	a	TOOTH	Plural given
 1250	Bororo (Steinen)	TOOTH	o	o	o	242	152	o	TOOTH	
 477	Otuke	FINGER	iuna	iuna	j u n a	243	114	j u n a	FINGER	
@@ -748,7 +748,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 984	Bororo São Lourenço	DAUGHTER	tonaregete	tonaregete	t o n a r e g e t e	253	3	t o n a r e g e t e	SON	
 494	Bororo	SON	onaregody	onaregody	ʌ n a ɾ ɛ ɡ ɛ d ɨ	254	3	ʌ n a ɾ ɛ ɡ ɛ d ɨ	SON	
 810	Bororo Campanha	SON	onaregedu	agane	a g a n e	456	485	a g a n e	SON	Still exist as agare in the ritual language
-983	Bororo São Lourenço	SON	itagate	itagate	a g a t e	456	485	a g a t e	SON	'my son'
+983	Bororo São Lourenço	SON	itagate	itagate	a g a t e	456	485	a g a t e	SON	my son'
 497	Otuke	ANTEATER	apuhe	apuhe	a p u h e	168	5	a p u h e	ANTEATER	Myrmecophaga tridactyla
 498	Bororo	ANTEATER	apogo	apogo	a p o g o	168	5	a p o g o	ANTEATER	Myrmecophaga tridactyla
 576	Umutina	ANTEATER	bʷɛ / apo	bʷɛ	bʷ ɛ	168	5	- bʷ ɛ - -	ANTEATER	Myrmecophaga tridactyla
@@ -957,14 +957,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 738	Bororo	SKIN	bure	bure	b u r e	403	359	b u r e	SKIN	
 739	Umutina	SKIN	birika	birika	b i r i + k a	403	359 426	b i r i + k a	SKIN ?	
 995	Bororo São Lourenço	SKIN	miri	miri	m i r i	403	359	m i r i	SKIN	
-643	Otuke	FATHER	ioxa	ioxa	j o x a	335	354	j o x a	FATHER	'my father'
-644	Kuruminaka	FATHER	coko	coko	tʃ o k o	335	354	tʃ o k o	FATHER	'my father'
-736	Umutina	FATHER	yuko	yuko	ʒ u k ɔ	335	354	ʒ u k ɔ	FATHER	'my father'
+643	Otuke	FATHER	ioxa	ioxa	j o x a	335	354	j o x a	FATHER	my father'
+644	Kuruminaka	FATHER	coko	coko	tʃ o k o	335	354	tʃ o k o	FATHER	my father'
+736	Umutina	FATHER	yuko	yuko	ʒ u k ɔ	335	354	ʒ u k ɔ	FATHER	my father'
 737	Bororo	FATHER	o	o	o	335	354	o	FATHER	ioga 'my father'
 910	Bororo Cabaçal	FATHER	itaua	itaua	i t a u a	335	354	i t a u a	FATHER	
-981	Bororo São Lourenço	FATHER	o	o	o	335	354	o	FATHER	'my father' (cf. Bororo i-oga 'my father')
-1030	Bororo Campanha	FATHER	vacururu	vacururu	v a tʃ u r u r u	513	571	v a tʃ u r u r u	FATHER	'our father'
-1110	Kovareka	FATHER	oxa	oxa	o x a	335	354	o x a	FATHER	'my father'
+981	Bororo São Lourenço	FATHER	o	o	o	335	354	o	FATHER	my father' (cf. Bororo i-oga 'my father')
+1030	Bororo Campanha	FATHER	vacururu	vacururu	v a tʃ u r u r u	513	571	v a tʃ u r u r u	FATHER	our father'
+1110	Kovareka	FATHER	oxa	oxa	o x a	335	354	o x a	FATHER	my father'
 1299	Bororo (Steinen)	FATHER	iuga	iuga	o	335	354	o	FATHER	iuga 'my father'
 646	Otuke	CRY	ohoateta	ohoateta	o h oa t e t a	336	355	o h oa t e t a	CRY	
 700	Bororo	CRY	aragydy	aragydy	a r a g ɯ d ɨ	380	403	a r a g ɯ d ɨ	CRY	
@@ -993,7 +993,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 694	Umutina	LAUGH	zorika	zorika	z o ɾ i k a	375	398	z o ɾ i k a	LAUGH	
 695	Bororo	LAUGH	okwari	okwari	o kʷ a + r i	376	208 598	o kʷ a + r i	MOUTH ?	
 657	Otuke	GRASSHOPPER	cecuhua	cecuhua	tʃ e tʃ u h ua	215	250	tʃ e tʃ u h ua	GRASSHOPPER	
-692	Bororo	GRASSHOPPER	dʒokugo / kitoriga 	dʒokugo	dʒ o k u g o	373	396	dʒ o k u g o	GRASSHOPPER	
+692	Bororo	GRASSHOPPER	dʒokugo / kitoriga	dʒokugo	dʒ o k u g o	373	396	dʒ o k u g o	GRASSHOPPER	
 693	Bororo	GRASSHOPPER	dʒokugo / kitoriga	kitoriga	k i t o r i g a	374	397	k i t o r i g a	GRASSHOPPER	
 731	Umutina	GRASSHOPPER	kasape	kasape	k a s a p e	401	424	k a s a p e	GRASSHOPPER	
 658	Otuke	BEETLE	okane	okane	o k a n e	346	367	o k a n e	BEETLE	
@@ -1031,7 +1031,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 674	Umutina	HOT	amaru	amaru	a m a ɾ u	358	380	a m a ɾ u	HEAT	
 675	Bororo	HOT	urureu / boeru	boeru	b oe ɾ u	358	380	b oe ɾ u	HEAT	
 859	Bororo Campanha	HOT	baieru	baieru	b ai e ɾ u	358	380	b ai e ɾ u	HEAT	
-1029	Bororo Cabaçal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	"warm" given
+1029	Bororo Cabaçal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	warm given
 676	Umutina	COMB	putɨka	putɨka	p u t ɨ k a	359	381	p u t ɨ k a	COMB	
 677	Bororo	COMB	puduga	puduga	p u d u g a	359	381	p u d u g a	COMB	
 678	Umutina	GREEN	akɨ	akɨ	a k ɨ	360	382	a k ɨ	GREEN	
@@ -1071,7 +1071,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1168	Bororo Cabaçal	RHEA (RHEA AMERICANA)	pari / kui	kui	k ui	579	648	k ui	RHEA	
 811	Bororo	HUSBAND	oɾedy	oɾedy	o ɾ e d ɨ	446	473	o ɾ e d ɨ	HUSBAND	
 812	Bororo Campanha	HUSBAND	olete	olete	o l e t e	446	473	o l e t e	HUSBAND	
-915	Bororo Cabaçal	HUSBAND	iguri	iguri	g u ɾ i	480	516	g u ɾ i	OLDER.BROTHER	i-wuri 'my older brother' in Bororo 
+915	Bororo Cabaçal	HUSBAND	iguri	iguri	g u ɾ i	480	516	g u ɾ i	OLDER.BROTHER	i-wuri 'my older brother' in Bororo
 813	Bororo	WIFE	oredyje	oredyje	o ɾ e d ɨ + dʒ e	447	473 474	o ɾ e d ɨ + dʒ e	HUSBAND ?	
 814	Bororo Campanha	WIFE	oretxe	oretxe	o ɾ e + tʃ e	447	473 474	o ɾ e + tʃ e	HUSBAND ?	
 916	Bororo Cabaçal	WIFE	itege	itege	t e g e	479	515	t e g e	HUSBAND	
@@ -1201,7 +1201,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1100	Otuke	STAND UP	osemote	osemote	o s e m o t e	545	609	o s e m o t e	STAND.UP	
 1101	Kuruminaka	STAND UP	arumatuma	arumatuma	a r u m a t u m a	545	609	a r u m a t u m a	STAND.UP	
 1102	Kovareka	STAND UP	osemote	osemote	o s e m o t e	545	609	o s e m o t e	STAND.UP	
-1114	Bororo	COME HERE	mato	mato	m a t o	316	334	m a t o	HITHER	'hither' (adverb)
+1114	Bororo	COME HERE	mato	mato	m a t o	316	334	m a t o	HITHER	hither' (adverb)
 1115	Kuruminaka	COME HERE	mate	mate	m a t e	316	334	m a t e	HITHER	
 1116	Kovareka	COME HERE	mate	mate	m a t e	316	334	m a t e	HITHER	
 1117	Otuke	COME HERE	ate	ate	a t e	316	334	a t e	HITHER	
