@@ -11,9 +11,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 11	Otuke	ARM	keara	keara	k ea ɾ a	106	1	k ea ɾ a	ARM	None
 12	Umutina	ARM	tʃe	tʃe	tʃ e	220	24	tʃ e	ARM	
 895	Bororo	ARM	kera / kodu	kodu	k o d ɨ	471	503	k o d ɨ	ARM	
-1026	Bororo Campanha	ARM	iketo	iketo	k e t o	471	503	k e t o	ARM	
-1120	Bororo Cabaçal	ARM	atschimutura		a tʃ i m u t u ɾ a	550	613	a tʃ i m u t u ɾ a	ARM	
-1193	Bororo Western (Castelnau)	ARM	tito	tito	t i t o	471	503	t i t o	ARM	
+1026	BororoCampanha	ARM	iketo	iketo	k e t o	471	503	k e t o	ARM	
+1120	BororoCabaçal	ARM	atschimutura		a tʃ i m u t u ɾ a	550	613	a tʃ i m u t u ɾ a	ARM	
+1193	BororoWestern(Castelnau)	ARM	tito	tito	t i t o	471	503	t i t o	ARM	
 13	Bororo	ARMADILLO	okʷaru / waru	okʷaru	o kʷ a ɾ u	92	25	o kʷ a ɾ u	ARMADILLO	None
 14	Bororo	ARMADILLO	okʷaru / waru	waru	w a ɾ u	92	25	w a ɾ u	ARMADILLO	None
 15	Otuke	ARMADILLO	ohʷaru	ohʷaru	o hʷ a ɾ u	92	25	o hʷ a ɾ u	ARMADILLO	None
@@ -28,10 +28,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 21	Otuke	ARROW	tehʷa	tehʷa	t e hʷ a	239	30	t e hʷ a	ARROW	None
 22	Umutina	ARROW	to / itʃo	to	t ɔ	240	31	t ɔ	ARROW	None
 23	Umutina	ARROW	to / itʃo	tʃo	tʃ ɔ	240	31	tʃ ɔ	ARROW	None
-954	Bororo Cabaçal	ARROW	tʃora / koka	tʃora	tʃ o ɾ a	240	31	tʃ o ɾ a	ARROW	
-955	Bororo Cabaçal	ARROW	tʃora / koka	koka	k o k a	481	518	k o k a	ARROW	
-987	Bororo São Lourenço	ARROW	duga	duga	d u g a	239	30	d u g a	ARROW	
-1216	Bororo Western (Castelnau)	ARROW	jula	jula	j u l a	240	31	j u l a	ARROW	
+954	BororoCabaçal	ARROW	tʃora / koka	tʃora	tʃ o ɾ a	240	31	tʃ o ɾ a	ARROW	
+955	BororoCabaçal	ARROW	tʃora / koka	koka	k o k a	481	518	k o k a	ARROW	
+987	BororoSãoLourenço	ARROW	duga	duga	d u g a	239	30	d u g a	ARROW	
+1216	BororoWestern(Castelnau)	ARROW	jula	jula	j u l a	240	31	j u l a	ARROW	
 24	Bororo	ASH	dʒorugudo	dʒorugudo	dʒ o ɾ u g u d o	75	32	dʒ o ɾ u g u d o	ASH	None
 25	Umutina	ASH	zorotu / zorutu	zorotu	z o ɾ o d u	75	32	z o ɾ o d u	ASH	None
 27	Bororo	ASTYANAX FISH	tubore	tubore	t u b o ɾ e	170	33	t u b o ɾ e	ASTYANAX_FISH	None
@@ -39,8 +39,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 29	Bororo	AXE	paro	paro	p a ɾ o	1	34	- p a ɾ o	AXE	None
 30	Umutina	AXE	palo / apado	palo	p a l o	1	34	- p a l o	AXE	None
 31	Umutina	AXE	palo / apado	apado	a p a d o	1	34	a p a d o	AXE	None
-957	Bororo Cabaçal	AXE	fano / halo	fano	f a n o	1	34	- f a n o	AXE	
-1122	Bororo Cabaçal	AXE	fano / halo	halo	h a l o	1	34	- h a l o	AXE	
+957	BororoCabaçal	AXE	fano / halo	fano	f a n o	1	34	- f a n o	AXE	
+1122	BororoCabaçal	AXE	fano / halo	halo	h a l o	1	34	- h a l o	AXE	
 32	Bororo	BABAÇU (Attalea speciosa)	no	no	n o	137	35	n o	ATTALEA_SPECIOSA	None
 33	Umutina	BABAÇU (Attalea speciosa)	no / nojʃuka	no	n o	137	35	n o	ATTALEA_SPECIOSA	None
 34	Umutina	BABAÇU (Attalea speciosa)	no / nojʃuka	nojʃuka	n o j ʃ u + kʷ a	229	36 54	n o j ʃ u + kʷ a	ATTALEA_SPECIOSA ?	None
@@ -56,9 +56,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 44	Bororo	BANANA	bako	bako	b a k o	55	43	b a k o	BANANA	None
 45	Otuke	BANANA	aku	aku	a k u	55	43	a k u	BANANA	None
 616	Umutina	BANANA	zaɾukukʷa	zaɾukukʷa	z a ɾ u k u kʷ a	309	327	z a ɾ u k u kʷ a	BANANA	
-946	Bororo Cabaçal	BANANA	fako / ilako	fako	f a k o	55	43	f a k o	BANANA	
-1123	Bororo Cabaçal	BANANA	fako / ilako	ilako	i l a k o	55	43	i l a k o	BANANA	
-1214	Bororo Western (Castelnau)	BANANA	aco	aco	a k o	55	43	a k o	BANANA	
+946	BororoCabaçal	BANANA	fako / ilako	fako	f a k o	55	43	f a k o	BANANA	
+1123	BororoCabaçal	BANANA	fako / ilako	ilako	i l a k o	55	43	i l a k o	BANANA	
+1214	BororoWestern(Castelnau)	BANANA	aco	aco	a k o	55	43	a k o	BANANA	
 46	Bororo	BARK OR SHELL	biri	biri	b i ɾ i	52	44	b i ɾ i - -	BARK	None
 47	Otuke	BARK OR SHELL	irivi	irivi	i ɾ i v i	52	44	- i ɾ i v i	BARK	None
 48	Umutina	BARK OR SHELL	birika	birika	b i ɾ i k a	52	44	b i ɾ i k a	BARK	None
@@ -70,17 +70,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 52	Bororo	BEAK	oto	oto	o t o	144	46	o t o	BEAK	
 53	Otuke	BEAK	aho	aho	a h o	144	46	a h o	BEAK	None
 54	Umutina	BEAK	oto	oto	o t o	144	46	o t o	BEAK	
-1266	Bororo (Steinen)	BEAK	oto / ato	oto	o t o	144	46	o t o	BEAK	
-1267	Bororo (Steinen)	BEAK	oto / ato	ato	a t o	144	46	a t o	BEAK	
+1266	BororoSteinen	BEAK	oto / ato	oto	o t o	144	46	o t o	BEAK	
+1267	BororoSteinen	BEAK	oto / ato	ato	a t o	144	46	a t o	BEAK	
 55	Bororo	BEVERAGE	ku / kuru	ku	k u	119	53	k u	LIQUID	None
 56	Bororo	BEVERAGE	ku / kuru	kuru	k u + r u	119	53 38	k u + r u	LIQUID ?	None
 1056	Umutina	BEVERAGE	hurukwa	hurukwa	h u + r u + kʷ a	119	53 38 287	h u + r u + kʷ a	LIQUID ? ?	
 57	Bororo	BLOOD	ku	ku	k u	116	53	k u	LIQUID	None
 58	Umutina	BLOOD	koka	koka	k o + k a	116	53 39	k o + k a	LIQUID BODY.PART?	None
-822	Bororo Campanha	BLOOD	ku	ku	k u	116	53	k u	LIQUID	
-884	Bororo Cabaçal	BLOOD	ku	ku	k u	116	53	k u	LIQUID	
-1194	Bororo Western (Castelnau)	BLOOD	iko	iko	i k o	116	53	i k o	LIQUID	
-1253	Bororo (Steinen)	BLOOD	kogwa	kogwa	k o + gʷ a	116	53 39	k o + gʷ a	LIQUID BODY.PART?	
+822	BororoCampanha	BLOOD	ku	ku	k u	116	53	k u	LIQUID	
+884	BororoCabaçal	BLOOD	ku	ku	k u	116	53	k u	LIQUID	
+1194	BororoWestern(Castelnau)	BLOOD	iko	iko	i k o	116	53	i k o	LIQUID	
+1253	BororoSteinen	BLOOD	kogwa	kogwa	k o + gʷ a	116	53 39	k o + gʷ a	LIQUID BODY.PART?	
 59	Bororo	BOIL	bere	bere	b e r e	46	55	b e r e	BOIL	None
 60	Umutina	BOIL	bere	bere	b e r e	46	55	b e r e	BOIL	None
 61	Bororo	BONE	ra	ra	r a	156	56	r a	BONE	None
@@ -91,10 +91,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 65	Bororo	BOW	baiga / boeiga / tygo	tygo	t ɯ g o	22	18	t ɯ g o - -	BOW	None
 66	Otuke	BOW	wewika	wewika	w e w i k a	37	17	w e w i k a	BOW	None
 67	Umutina	BOW	boika	boika	b oi k a	37	17	b oi k a	BOW	None
-953	Bororo Cabaçal	BOW	tʃigara / kui	tʃigara	tʃ i g a ɾ a	22	18	tʃ i g a ɾ a	BOW	
-986	Bororo São Lourenço	BOW	oiga	oiga	oi g a	37	17	oi g a	BOW	
-1129	Bororo Cabaçal	BOW	tʃigara / kui	kui	k ui	555	619	k ui	BOW	
-1215	Bororo Western (Castelnau)	BOW	botorica	botorica	b o t o ɾ i c a	37	17	b o t o ɾ i c a	BOW	
+953	BororoCabaçal	BOW	tʃigara / kui	tʃigara	tʃ i g a ɾ a	22	18	tʃ i g a ɾ a	BOW	
+986	BororoSãoLourenço	BOW	oiga	oiga	oi g a	37	17	oi g a	BOW	
+1129	BororoCabaçal	BOW	tʃigara / kui	kui	k ui	555	619	k ui	BOW	
+1215	BororoWestern(Castelnau)	BOW	botorica	botorica	b o t o ɾ i c a	37	17	b o t o ɾ i c a	BOW	
 68	Umutina	BREAK (BREAKING)	hatɔ	hatɔ	h a t ɔ	101	20	h a t ɔ	BREAK	None
 706	Bororo	BREAK (BREAKING)	kado / bo	kado	k a d o	101	93	k a d o	CUT	Also 'cut'
 707	Bororo	BREAK (BREAKING)	kado / bo	bo	b o	385	407	b o	BREAK	
@@ -105,7 +105,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 500	Bororo	BROTHER-IN-LAW	iedaga	iedaga	ie d a g a	255	8	ie d a g a	BROTHER-IN-LAW	
 73	Umutina	BROTHER	inoto	inoto	i n o t o	86	59	i n o t o	BROTHER	None
 499	Otuke	BROTHER	ietaka	ietaka	ie t a k a	255	8	ie t a k a	BROTHER	
-913	Bororo Cabaçal	BROTHER	ikire	ikire	k i ɾ e	199	519	k i ɾ e	BROTHER	
+913	BororoCabaçal	BROTHER	ikire	ikire	k i ɾ e	199	519	k i ɾ e	BROTHER	
 74	Bororo	BURITI	mano	mano	m a n o	127	64	m a n o	BURITI	None
 75	Umutina	BURITI	mano / manazokua	mano	m a n o	127	64	m a n o	BURITI	None
 76	Umutina	BURITI	mano / manazokua	manazokua	m a n a + z o kʷ a	127	64 520	m a n a + z o kʷ a	BURITI ?	None
@@ -122,7 +122,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 806	Bororo	CHICHA	boekuru pagodureu	boekuru pagodureu	b oe + k u r u + p a g o d u + r eu	241	470 75 471 472	b oe + k u r u + p a g o d u + r eu	THING LIQUID SOUR RELATIVIZER	
 807	Kuruminaka	CHICHA	tʃoro	tʃoro	tʃ o r o	241	75	- - - tʃ o r o - - - - - - - - - -	CHICHA	
 808	Kovareka	CHICHA	tʃoro	tʃoro	tʃ o r o	241	75	- - - tʃ o r o - - - - - - - - - -	CHICHA	
-991	Bororo São Lourenço	CHICHA	jolu	jolu	j o l u	241	75	- - - j o l u - - - - - - - - - -		
+991	BororoSãoLourenço	CHICHA	jolu	jolu	j o l u	241	75	- - - j o l u - - - - - - - - - -		
 86	Bororo	COATI (COATIMUNDI)	atoe / kudobo	atoe	a t o e	30	79	a t o e	COATI	
 87	Bororo	COATI (COATIMUNDI)	atoe / kudobo	kudobo	k u d o b o	31	80	k u d o b o	COATI	
 88	Umutina	COATI (COATIMUNDI)	utupu	utupu	u t u p u	31	80	u t u p u	COATI	
@@ -133,14 +133,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 92	Bororo	COLD	akɨ / akodo	akodo	a k o d o	14	86	- - - - a k o d o	COLD	None
 93	Umutina	COLD	aketo / bakieto / baketo	aketo	a k e t o	14	86	- - - - a k e t o	COLD	None
 95	Umutina	COLD	aketo / bakieto / baketo	baketo	b a k e t o	14	86	b - - - a k e t o	COLD	None
-1028	Bororo Campanha	COLD	boi aku	boi aku	b o i + a k u	14	547 86	b o i + a k u - -	? COLD	
+1028	BororoCampanha	COLD	boi aku	boi aku	b o i + a k u	14	547 86	b o i + a k u - -	? COLD	
 96	Bororo	COLLARED PECCARY	dʒoi	dʒoi	dʒ oi	69	87	dʒ oi	COLLARED_PECCARY	None
 97	Umutina	COLLARED PECCARY	joa / ʒao	joa	j oa	69	87	j oa	COLLARED_PECCARY	None
 98	Umutina	COLLARED PECCARY	joa / ʒao	ʒao	ʒ ao	69	225	ʒ ao	PECCARY	None
 99	Bororo	COTTON	akigu	akigu	a kʰ i ɡʷ u	12	88	- a kʰ i ɡʷ u - - - - -	THREAD	None
 100	Otuke	COTTON	akihumari	akihumari	a k i h u + m a r i	12	88 89	- a k i h u + m a r i	THREAD ?	None
 708	Umutina	COTTON	hakea mãni	hakea mãni	h a k ɛa + m ã n i	12	88 89	h a k ɛa - - + m ã n i	THREAD ?	
-996	Bororo Campanha	COTTON	akikoto	akikoto	a k i k o t o	12	88	- a k i k o t - o - -	THREAD	
+996	BororoCampanha	COTTON	akikoto	akikoto	a k i k o t o	12	88	- a k i k o t - o - -	THREAD	
 101	Bororo	COUGH	kodʒari	kodʒari	kʷ o dʒ a r i	115	90	kʷ o dʒ a r i	COUGH	None
 102	Umutina	COUGH	koyakore	koyakore	k o j a + k o r e	115	90 265	k o j a + k o r e	COUGH ?	None
 103	Bororo	CRAB	ruca	ruca	ɾ u tʃ a	166	91	ɾ u tʃ a	CRAB	None
@@ -150,31 +150,31 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 107	Bororo	DANCE	reru	reru	r e r u	161	94	- - r e r u - -	DANCE	None
 108	Otuke	DANCE	arareta	arareta	a r a r e t a	161	94	- a r a r e t a	DANCE	None
 709	Umutina	DANCE	matate	matate	m a t a t e	161	94	m a t a t e - -	DANCE	
-1132	Bororo Cabaçal	DANCE	aleeru	aleeru	a l eː ɾ u	161	94	a l eː ɾ u	DANCE	
-1221	Bororo Western (Castelnau)	DANCE	tauarairourai	tauarairourai	t au a ɾ ai + ɾ ou ɾ ai	597	675 677	t au a ɾ ai + ɾ ou ɾ ai	? ?	
+1132	BororoCabaçal	DANCE	aleeru	aleeru	a l eː ɾ u	161	94	a l eː ɾ u	DANCE	
+1221	BororoWestern(Castelnau)	DANCE	tauarairourai	tauarairourai	t au a ɾ ai + ɾ ou ɾ ai	597	675 677	t au a ɾ ai + ɾ ou ɾ ai	? ?	
 109	Otuke	DEER	waroa	waroa	w a r oa	233	97	w a r oa	DEER	None
 110	Bororo	DEER	pobogo	pobogo	p o b o g o	143	96	p o b o g o	DEER	None
 572	Umutina	DEER	atupututu	atupututu	a t u p u t u t u	227	303	a t u p u t u t u	DEER	
-942	Bororo Cabaçal	DEER	ikaru	ikaru	i k a ɾ u	482	158	i k a ɾ u	DEER	
-989	Bororo São Lourenço	DEER	nonogu	nonogu	n o n o g u	143	96	n o n o g u	DEER	
-1134	Bororo Campanha	DEER	laku	laku	l a k u	558	623	l a k u	DEER	
-1208	Bororo Western (Castelnau)	DEER	cualo / atou-o	cualo	c ua l o	594	666	c ua l o	DEER	
-1209	Bororo Western (Castelnau)	DEER	cualo / atou-o	atou-o	a t ou + o	595	667	a t ou + o	DEER	
+942	BororoCabaçal	DEER	ikaru	ikaru	i k a ɾ u	482	158	i k a ɾ u	DEER	
+989	BororoSãoLourenço	DEER	nonogu	nonogu	n o n o g u	143	96	n o n o g u	DEER	
+1134	BororoCampanha	DEER	laku	laku	l a k u	558	623	l a k u	DEER	
+1208	BororoWestern(Castelnau)	DEER	cualo / atou-o	cualo	c ua l o	594	666	c ua l o	DEER	
+1209	BororoWestern(Castelnau)	DEER	cualo / atou-o	atou-o	a t ou + o	595	667	a t ou + o	DEER	
 111	Bororo	DEER (Ozotoseros Bezoarticus)	orogo	orogo	o ɾ o g o	468	96	o ɾ o g o	DEER	None
 462	Otuke	DEER (Ozotoseros Bezoarticus)	oroikia	oroikia	o r oi k ia	468	96	o r oi k ia	DEER	
-875	Bororo Campanha	DEER (Ozotoseros Bezoarticus)	orogo	orogo	o ɾ o g o	468	96	o ɾ o g o	DEER	
+875	BororoCampanha	DEER (Ozotoseros Bezoarticus)	orogo	orogo	o ɾ o g o	468	96	o ɾ o g o	DEER	
 112	Bororo	DIE	bi	bi	b i	47	99	b i	DIE	
 113	Umutina	DIE	bia	bia	b i a	47	99	b i a	DIE	
-824	Bororo Campanha	DIE	aloe	aloe	a l oe	450	477	a l oe	SOUL	
-923	Bororo Cabaçal	DIE	duigie / dschis	duigie	d u i g i e	483	98	d u i g i e	DIE	
-1135	Bororo Cabaçal	DIE	duigie / dschis	dschis	dʒ i s	559	624	dʒ i s	DIE	
+824	BororoCampanha	DIE	aloe	aloe	a l oe	450	477	a l oe	SOUL	
+923	BororoCabaçal	DIE	duigie / dschis	duigie	d u i g i e	483	98	d u i g i e	DIE	
+1135	BororoCabaçal	DIE	duigie / dschis	dschis	dʒ i s	559	624	dʒ i s	DIE	
 114	Bororo	DOG	arigao	arigao	a ɾ i g a o	25	100	a ɾ i g a o	DOG	
 115	Umutina	DOG	arikabo	arikabo	a ɾ i k a b o	25	100	a ɾ i k a b o	DOG	
 116	Otuke	DOG	arikau / harikaʔu	sixaara	s i ʃ aːa ɾ a	25	100	s i ʃ aːa ɾ a	DOG	None
-941	Bororo Cabaçal	DOG	ariago / metere / itensali	ariago	a ɾ i a g o	25	100	a ɾ i a g o	DOG	
-1136	Bororo Cabaçal	DOG	ariago / metere / itensali	metere	m e t e ɾ e	560	625	m e t e ɾ e	DOG	
-1137	Bororo Cabaçal	DOG	ariago / metere / itensali	ariago	i t e n s a l i	561	626	i t e n s a l i	DOG	
-1207	Bororo Western (Castelnau)	DOG	arao	arao	a ɾ a o	25	100	a ɾ a o	DOG	
+941	BororoCabaçal	DOG	ariago / metere / itensali	ariago	a ɾ i a g o	25	100	a ɾ i a g o	DOG	
+1136	BororoCabaçal	DOG	ariago / metere / itensali	metere	m e t e ɾ e	560	625	m e t e ɾ e	DOG	
+1137	BororoCabaçal	DOG	ariago / metere / itensali	ariago	i t e n s a l i	561	626	i t e n s a l i	DOG	
+1207	BororoWestern(Castelnau)	DOG	arao	arao	a ɾ a o	25	100	a ɾ a o	DOG	
 117	Bororo	DOVE	metugo	metugo	m e t u g o	134	101	m e t u g o	DOVE	
 118	Umutina	DOVE	umitu / mitu	umitu	u m i t u	134	101	u m i t u	DOVE	
 119	Umutina	DOVE	umitu / mitu	mitu	m i t u	134	101	m i t u	DOVE	
@@ -183,9 +183,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 121	Umutina	DRINK	kutu	kutu	k u + t u	119	102	k u + t u	LIQUID ?	
 451	Kovareka	DRINK	ko	ko	k o	119	102	k o	LIQUID	
 452	Kuruminaka	DRINK	kututo	kututo	k u + t u t o	119	102	k u + t u t o	LIQUID ?	
-1005	Bororo Campanha	DRINK	dua	dua	d ua	119	102	d ua	DRINK	
-1138	Bororo Cabaçal	DRINK	kututo	kututo	k u + t u t o	119	102 627	k u + t u t o	LIQUID ?	
-1220	Bororo Western (Castelnau)	DRINK	ikotouai	ikotouai	i k o + t ou + ai	119	672 673 674	i k o + t ou + ai	? ? ?	
+1005	BororoCampanha	DRINK	dua	dua	d ua	119	102	d ua	DRINK	
+1138	BororoCabaçal	DRINK	kututo	kututo	k u + t u t o	119	102 627	k u + t u t o	LIQUID ?	
+1220	BororoWestern(Castelnau)	DRINK	ikotouai	ikotouai	i k o + t ou + ai	119	672 673 674	i k o + t ou + ai	? ? ?	
 123	Bororo	DRY	ki	ki	k i	108	103	k i	DRY	
 124	Umutina	DRY	ki	ki	k i	108	103	k i	DRY	
 126	Bororo	DUCK	turubare	turubare	t u r u b a r e	173	104	t u r u b a r e	DUCK	
@@ -196,28 +196,28 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 128	Bororo	EAR	bia	bia	b i a	50	105	b i a	EAR	
 129	Umutina	EAR	bia	bia	b i a	50	105	b i a	EAR	
 634	Otuke	EAR	caparara	caparara	tʃ a p a ɾ a ɾ a	325	344	tʃ a p a ɾ a ɾ a	EAR	
-972	Bororo Cabaçal	EAR	nadʃiri / jagiri	nadʃiri	n a dʒ i ɾ i	484	521	- n a dʒ i ɾ i	EAR	
-1016	Bororo Campanha	EAR	a	a	a	494	542	a	EAR	
-1067	Bororo Cabaçal	EAR	nadʃiri / jagiri	jagiri	j a g i ɾ i	484	521	- j a g i ɾ i	EAR	
-1235	Bororo Western (Castelnau)	EAR	knahiri	knahiri	k n a h i r i	484	521	k n a h i r i	EAR	
-1265	Bororo (Steinen)	EAR	bia	bia	b i a	50	105	b i a	EAR	
+972	BororoCabaçal	EAR	nadʃiri / jagiri	nadʃiri	n a dʒ i ɾ i	484	521	- n a dʒ i ɾ i	EAR	
+1016	BororoCampanha	EAR	a	a	a	494	542	a	EAR	
+1067	BororoCabaçal	EAR	nadʃiri / jagiri	jagiri	j a g i ɾ i	484	521	- j a g i ɾ i	EAR	
+1235	BororoWestern(Castelnau)	EAR	knahiri	knahiri	k n a h i r i	484	521	k n a h i r i	EAR	
+1265	BororoSteinen	EAR	bia	bia	b i a	50	105	b i a	EAR	
 132	Bororo	EARTH OR LAND	moto	moto	m o t o	135	106	m o t o	EARTH	
 133	Otuke	EARTH OR LAND	moktuhu	moktuhu	m o k t u h u	135	106	m o k t u h u	EARTH	
 134	Umutina	EARTH OR LAND	moto	moto	m o t o	135	106	m o t o	EARTH	
-850	Bororo Campanha	EARTH OR LAND	moto	moto	m o t o	135	106	m o t o	EARTH	
+850	BororoCampanha	EARTH OR LAND	moto	moto	m o t o	135	106	m o t o	EARTH	
 135	Bororo	EAT	ko	ko	k o	112	107	k o	EAT	
 136	Umutina	EAT	ho	ho	h o	112	107	h o	EAT	None
 547	Otuke	EAT	oaketa	oaketa	oa k e t a	184	284	oa k e t a	EAT	
-967	Bororo Cabaçal	EAT	goiakogo / goo	goiakogo	g o ia + k o + g o	112	522 107 523	g o ia + k o + g o	? EAT ?	
-1004	Bororo Campanha	EAT	ike pe	ike pe	i k e + p e	527	588 589	i k e + p e	FOOD ?	
-1139	Bororo Cabaçal	EAT	goiakogo / goo	goo	g oː	112	107	g oː	EAT	
-1219	Bororo Cabaçal	EAT	omaigo	omaigo	o m ai + g o	112	671 523	o m ai + g o	EAT ?	
-1232	Bororo Western (Castelnau)	EAT	omaigo	omaigo	o m ai g o	490	517	o m ai g o	?	
+967	BororoCabaçal	EAT	goiakogo / goo	goiakogo	g o ia + k o + g o	112	522 107 523	g o ia + k o + g o	? EAT ?	
+1004	BororoCampanha	EAT	ike pe	ike pe	i k e + p e	527	588 589	i k e + p e	FOOD ?	
+1139	BororoCabaçal	EAT	goiakogo / goo	goo	g oː	112	107	g oː	EAT	
+1219	BororoCabaçal	EAT	omaigo	omaigo	o m ai + g o	112	671 523	o m ai + g o	EAT ?	
+1232	BororoWestern(Castelnau)	EAT	omaigo	omaigo	o m ai g o	490	517	o m ai g o	?	
 137	Bororo	EGG	ba	ba	b a	35	108	b a	EGG	None
 138	Umutina	EGG	ba	ba	b a	35	108	b a	EGG	None
 565	Otuke	EGG	huaha	huaha	h ua h a	217	297	h ua h a	EGG	
-949	Bororo Cabaçal	EGG	kotanaga / aga	kotanaga	k o t a n a g a	485	524	k o t a n a g a	EGG	
-1140	Bororo Cabaçal	EGG	kotanaga / aga	aga	a g a	217	524	a g a	EGG	
+949	BororoCabaçal	EGG	kotanaga / aga	kotanaga	k o t a n a g a	485	524	k o t a n a g a	EGG	
+1140	BororoCabaçal	EGG	kotanaga / aga	aga	a g a	217	524	a g a	EGG	
 140	Bororo	ELBOW	piora	piora	p io r a	66	109	p io r a	ELBOW	
 473	Otuke	ELBOW	kiarato	kiarato	k ia r a t o	66	109	k ia r a t o	ELBOW	
 711	Umutina	ELBOW	ataka	ataka	a t a k a	386	408	a t a k a	ELBOW	
@@ -226,7 +226,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 143	Umutina	FACE	azeʔ	azeʔ	a z e ʔ	9	110	a z e ʔ	FACE	None
 144	Bororo	FAECES (EXCREMENT)	pe	pe	p e	149	111	p e	FECES	None
 145	Umutina	FAECES (EXCREMENT)	pe	pe	p e	149	111	p e	FECES	None
-1257	Bororo (Steinen)	FAECES (EXCREMENT)	epe	epe	e p e	149	111	e p e	FECES	
+1257	BororoSteinen	FAECES (EXCREMENT)	epe	epe	e p e	149	111	e p e	FECES	
 146	Bororo	FEAR (FRIGHT)	pagɨdɨ	pagɨdɨ	p a g ɨ d ɨ	147	112	p a g ɨ d ɨ	FEAR	
 147	Umutina	FEAR (FRIGHT)	pakixi	pakixi	p a k i ʃ i	147	112	p a k i ʃ i	FEAR	
 148	Bororo	FIELD	boku	boku	b o k u	58	113	b o k u	FIELD	
@@ -234,9 +234,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 150	Bororo	FINGERNAIL	inogi	inogi	i n o g i	87	115	i n o g i	FINGERNAIL	
 151	Umutina	FINGERNAIL	hino	hino	h i n o	87	115	h i n o	FINGERNAIL	
 633	Otuke	FINGERNAIL	reki	reki	r e k i	324	343	r e k i	FINGERNAIL	
-820	Bororo Campanha	FINGERNAIL	enege	enege	e n e g e	87	115	e n e g e	FINGERNAIL	
-920	Bororo Cabaçal	FINGERNAIL	tʃeraoete / turdu tima	tʃeraoete	tʃ e ɾ ao e t e	486	525	tʃ e ɾ ao e t e	FINGERNAIL	Plural given
-1144	Bororo Cabaçal	FINGERNAIL	tʃeraoete / turdu tima	turdu tima	t u ɾ d u + t i m a	563	629 681	t u ɾ d u + t i m a	? ?	Plural given
+820	BororoCampanha	FINGERNAIL	enege	enege	e n e g e	87	115	e n e g e	FINGERNAIL	
+920	BororoCabaçal	FINGERNAIL	tʃeraoete / turdu tima	tʃeraoete	tʃ e ɾ ao e t e	486	525	tʃ e ɾ ao e t e	FINGERNAIL	Plural given
+1144	BororoCabaçal	FINGERNAIL	tʃeraoete / turdu tima	turdu tima	t u ɾ d u + t i m a	563	629 681	t u ɾ d u + t i m a	? ?	Plural given
 152	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	dʒoru	dʒ o r u	74	116	dʒ o r u	FIRE	
 153	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	eru	e r u	74	116	e r u	FIRE	
 154	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	oru	o r u	74	116	o r u	FIRE	
@@ -244,26 +244,26 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 156	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	rugadu	r u g a d u	74	116	r u g a d u	FIRE	
 157	Otuke	FIRE	reru	reru	r e r u	74	116	r e r u	FIRE	None
 158	Umutina	FIRE	zoru	zoru	z o r u	74	116	z o r u	FIRE	
-846	Bororo Campanha	FIRE	dʒoru	dʒoru	dʒ o r u	74	116	dʒ o r u	FIRE	
-933	Bororo Cabaçal	FIRE	toru / toldu	toru	t o ɾ u	74	116	t o ɾ u	FIRE	
-1003	Bororo Campanha	FIRE	dschorugu	dschorugu	dʒ o r u + g u	74	116 534	dʒ o r u + g u	FIRE COLOR	
-1145	Bororo Cabaçal	FIRE	toru / toldu	toldu	t o l d u	74	116	t o l d u	FIRE	
-1229	Bororo Western (Castelnau)	FIRE	tolu	tolu	t o l u	74	116	t o l u	FIRE	
-1295	Bororo (Steinen)	FIRE	joro	joro	j o ɾ o	74	116	j o ɾ o	FIRE	
+846	BororoCampanha	FIRE	dʒoru	dʒoru	dʒ o r u	74	116	dʒ o r u	FIRE	
+933	BororoCabaçal	FIRE	toru / toldu	toru	t o ɾ u	74	116	t o ɾ u	FIRE	
+1003	BororoCampanha	FIRE	dschorugu	dschorugu	dʒ o r u + g u	74	116 534	dʒ o r u + g u	FIRE COLOR	
+1145	BororoCabaçal	FIRE	toru / toldu	toldu	t o l d u	74	116	t o l d u	FIRE	
+1229	BororoWestern(Castelnau)	FIRE	tolu	tolu	t o l u	74	116	t o l u	FIRE	
+1295	BororoSteinen	FIRE	joro	joro	j o ɾ o	74	116	j o ɾ o	FIRE	
 159	Bororo	FISH	karo	karo	k a r ʌ	104	118	k a r ʌ	FISH	
 160	Umutina	FISH	hare	hare	h a r e	104	118	h a r e	FISH	
 161	Otuke	FISH	aharo	aharo	a h a r o	104	118	a h a r o	FISH	None
-867	Bororo Campanha	FISH	karo	karo	k a ɾ o	104	118	k a ɾ o	FISH	
-938	Bororo Cabaçal	FISH	aru / hahu / agie / olari	aru	a ɾ u	104	118	a ɾ u	FISH	
-1146	Bororo Cabaçal	FISH	aru / hahu / agie / olari	hahu	h a h u	104	118	h a h u	FISH	
-1147	Bororo Cabaçal	FISH	aru / hahu / agie / olari	agie	a g i e	564	630	a g i e	FISH	
-1148	Bororo Cabaçal	FISH	aru / hahu / agie / olari	olari	o l a ɾ i	104	118	o l a ɾ i	FISH	
-1204	Bororo Western (Castelnau)	FISH	aleu	aleu	a l eu	104	118	a l eu	FISH	
+867	BororoCampanha	FISH	karo	karo	k a ɾ o	104	118	k a ɾ o	FISH	
+938	BororoCabaçal	FISH	aru / hahu / agie / olari	aru	a ɾ u	104	118	a ɾ u	FISH	
+1146	BororoCabaçal	FISH	aru / hahu / agie / olari	hahu	h a h u	104	118	h a h u	FISH	
+1147	BororoCabaçal	FISH	aru / hahu / agie / olari	agie	a g i e	564	630	a g i e	FISH	
+1148	BororoCabaçal	FISH	aru / hahu / agie / olari	olari	o l a ɾ i	104	118	o l a ɾ i	FISH	
+1204	BororoWestern(Castelnau)	FISH	aleu	aleu	a l eu	104	118	a l eu	FISH	
 162	Bororo	FLESH OR MEAT	kodɨ	kodɨ	k ʌ d ɨ	114	119	k ʌ d ɨ	FLESH	
 163	Umutina	FLESH OR MEAT	kotyka / katika	kotyka	k o t ɨ + k a	114	119 39	k o t ɨ + k a	FLESH BODY.PART?	
-821	Bororo Campanha	FLESH OR MEAT	kade	kade	k a d e	114	119	k a d e	FLESH	
-921	Bororo Cabaçal	FLESH OR MEAT	tatacala	tatacala	t a t a tʃ a l a	523	584	t a t a tʃ a l a	FLESH	
-1281	Bororo (Steinen)	FLESH OR MEAT	kodo	kodo	k o d o	114	119	k o d o	FELSH	
+821	BororoCampanha	FLESH OR MEAT	kade	kade	k a d e	114	119	k a d e	FLESH	
+921	BororoCabaçal	FLESH OR MEAT	tatacala	tatacala	t a t a tʃ a l a	523	584	t a t a tʃ a l a	FLESH	
+1281	BororoSteinen	FLESH OR MEAT	kodo	kodo	k o d o	114	119	k o d o	FELSH	
 165	Bororo	FLOWER	ku / kʷo / oku / okureboe	ku	k u	117	121	k u	FLOWER	
 166	Bororo	FLOWER	ku / kʷo / oku / okureboe	kʷo	kʷ o	117	121	kʷ o	FLOWER	
 167	Bororo	FLOWER	ku / kʷo / oku / okureboe	oku	o k u	117	121	o k u	FLOWER	
@@ -279,14 +279,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 175	Bororo	FOOT	bɨre	bɨre	b ɨ r e	33	10	b ɨ r e	FOOT	None
 176	Umutina	FOOT	bure / ambure	bure	b u r e	33	10	b u r e	FOOT	None
 177	Umutina	FOOT	bure / ambure	ambure	a m/b u r e	33	10	a m/b u r e	FOOT	None
-1024	Bororo Campanha	FOOT	itori	itori	t o r i	33	10	t o r i	FOOT	
-1063	Bororo Cabaçal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	my foot
-1076	Bororo Cabaçal	FOOT	igure / gule	gule	g u l e	33		g u l e	FOOT	
-1239	Bororo Western (Castelnau)	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	my foot
+1024	BororoCampanha	FOOT	itori	itori	t o r i	33	10	t o r i	FOOT	
+1063	BororoCabaçal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	my foot
+1076	BororoCabaçal	FOOT	igure / gule	gule	g u l e	33		g u l e	FOOT	
+1239	BororoWestern(Castelnau)	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	my foot
 178	Bororo	FOREST	itura	itura	i t u r a	94	2	i t u r a	WOOD	None
 180	Umutina	FOREST	iʃula	iʃula	i ʃ u l a	94	2	i ʃ u l a	WOOD	None
 456	Otuke	FOREST	itura	itura	i t u r a	94	2	i t u r a	WOOD	
-862	Bororo Campanha	FOREST	dulian	dulian	d u l ia n	94	2	d u l ia n	WOOD	
+862	BororoCampanha	FOREST	dulian	dulian	d u l ia n	94	2	d u l ia n	WOOD	
 181	Bororo	FOX	okʷa	okʷa	o kʷ a	54	124	o kʷ a	FOX	None
 182	Otuke	FOX	oka	oka	o k a	54	124	o k a	FOX	None
 183	Umutina	FOX	akakonoʔ	akakonoʔ	a k a k o n o ʔ	232	124	a k a k o n o ʔ	FOX	None
@@ -312,10 +312,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 198	Bororo	HAIR	ao	ao	ao	20	134	- - ao	HAIR	
 199	Umutina	HAIR	azo / azu	azo	a z o	20	134	a z o	HAIR	
 468	Otuke	HAIR	aho	aho	a h o	20	134	a h o	HAIR	
-974	Bororo Cabaçal	HAIR	ita	ita	a	20	134	- - a	HAIR	my hair
-1020	Bororo Campanha	HAIR	itau	itau	au	498	546	au	HAIR	
-1077	Bororo Cabaçal	HAIR	ae	ae	ae	20	134	- - ae	HAIR	
-1237	Bororo Western (Castelnau)	HAIR	itai	itai	t ai	20	134	- t ai	HAIR	”my” hair
+974	BororoCabaçal	HAIR	ita	ita	a	20	134	- - a	HAIR	my hair
+1020	BororoCampanha	HAIR	itau	itau	au	498	546	au	HAIR	
+1077	BororoCabaçal	HAIR	ae	ae	ae	20	134	- - ae	HAIR	
+1237	BororoWestern(Castelnau)	HAIR	itai	itai	t ai	20	134	- t ai	HAIR	”my” hair
 201	Bororo	HAMMOCK	buke	buke	b u k e	42	135	b u k e	HAMMOCK	
 202	Umutina	HAMMOCK	bukye	bukye	b u k ye	42	135	b u k ye	HAMMOCK	
 203	Bororo	HEART	bapo	bapo	b a p o	40	76	b a p o	HEART	
@@ -336,10 +336,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 216	Bororo	HOUSE	iwaj / baj	baj	b a j	97	187	b a j	HOUSE	None
 217	Otuke	HOUSE	hwalʔa	hwalʔa	hʷ a l ʔ a	214	188	hʷ a l ʔ a	HOUSE	None
 715	Umutina	HOUSE	xipa	xipa	tʃ i p a	388	411	tʃ i p a	HOUSE	
-963	Bororo Cabaçal	HOUSE	ga ahito / tschagalete	ga ahito	g a + a h i t o	487	527	g a + a h i t o	HOUSE	
-997	Bororo Campanha	HOUSE	bai	bai	b ai	97	187	b ai	HOUSE	
-1155	Bororo Cabaçal	HOUSE	ga ahito / tschagalete	tschagalete	tʃ a g a l e t e	568	634 635 636	tʃ a g a l e t e	? ? ?	
-1218	Bororo Western (Castelnau)	HOUSE	iga	iga	i g a	388	411	i g a	HOUSE	
+963	BororoCabaçal	HOUSE	ga ahito / tschagalete	ga ahito	g a + a h i t o	487	527	g a + a h i t o	HOUSE	
+997	BororoCampanha	HOUSE	bai	bai	b ai	97	187	b ai	HOUSE	
+1155	BororoCabaçal	HOUSE	ga ahito / tschagalete	tschagalete	tʃ a g a l e t e	568	634 635 636	tʃ a g a l e t e	? ? ?	
+1218	BororoWestern(Castelnau)	HOUSE	iga	iga	i g a	388	411	i g a	HOUSE	
 218	Bororo	HOWLER MONKEY	pai	pai	p ai	6	189	- p ai - -	HOWLER_MONKEY	None
 219	Umutina	HOWLER MONKEY	epaʒʲo	epaʒʲo	e p a ʒʲ o	6	189	e p a ʒʲ o	HOWLER_MONKEY	None
 664	Otuke	HOWLER MONKEY	kucaku	kucaku	k u tʃ a k u	351	372	k u tʃ a k u	HOWLER_MONKEY	
@@ -368,7 +368,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 241	Umutina	LIGHT (IGNITE)	zorututo	zorututo	z o r u t u t o	72	196	z o r u t u t o	LIGHT	None
 242	Bororo	LIVER	aka	aka	a k a	15	197	a k a	LIVER	None
 244	Umutina	LIVER	ua / a	a	a	15	197	a	LIVER	None
-1252	Bororo (Steinen)	LIVER	aka	aka	a k a	15	197	a k a	LIVER	
+1252	BororoSteinen	LIVER	aka	aka	a k a	15	197	a k a	LIVER	
 245	Bororo	LIZARD	amema	amema	a m e m a	19	199	a m e m a - - - - -	LIZARD	None
 246	Otuke	LIZARD	mamasane	mamasane	m a m a + s a n e	19	199 266	- m a m a + s a n e	LIZARD ?	None
 247	Umutina	LIZARD	amema	amema	a m e m a	19	199	a m e m a - - - - -	LIZARD	None
@@ -383,12 +383,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 255	Umutina	MOON	ari / ali	ari	a ɾ i	24	204	a ɾ i	MOON	
 256	Umutina	MOON	ari / ali	ali	a l i	24	204	a l i	MOON	
 800	Otuke	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
-826	Bororo Campanha	MOON	ari / ali	ari	a ɾ i	24	204	a ɾ i	MOON	
-827	Bororo Campanha	MOON	ari / ali	ali	a l i	24	204	a l i	MOON	
-924	Bororo Cabaçal	MOON	aari / ali	aari	aː ɾ i	24	204	aː ɾ i	MOON	Natterer possibly confused the order of 'moon' and 'sun' in his list
-1159	Bororo Cabaçal	MOON	aari / ali	ali	a l i	24	204	a l i	MOON	
-1196	Bororo Western (Castelnau)	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
-1283	Bororo (Steinen)	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
+826	BororoCampanha	MOON	ari / ali	ari	a ɾ i	24	204	a ɾ i	MOON	
+827	BororoCampanha	MOON	ari / ali	ali	a l i	24	204	a l i	MOON	
+924	BororoCabaçal	MOON	aari / ali	aari	aː ɾ i	24	204	aː ɾ i	MOON	Natterer possibly confused the order of 'moon' and 'sun' in his list
+1159	BororoCabaçal	MOON	aari / ali	ali	a l i	24	204	a l i	MOON	
+1196	BororoWestern(Castelnau)	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
+1283	BororoSteinen	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
 257	Bororo	MOSQUITO	batʃe	batʃe	b a tʃ e	36	205	b a tʃ e	MOSQUITO	None
 258	Umutina	MOSQUITO	mbe / bai	mbe	m/b e	36	205	m/b e	MOSQUITO	None
 259	Umutina	MOSQUITO	mbe / bai	bai	b ai	36	205	b ai	MOSQUITO	None
@@ -396,18 +396,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 261	Bororo	MOTHER	mɨga	mɨga	m ɨ g a	124	206	m ɨ g a	MOTHER	None
 262	Umutina	MOTHER	mako / imako	mako	m a k o	124	206	m a k o	MOTHER	None
 551	Kovareka	MOTHER	mana	mana	m a n a	124	206	m a n a	MOTHER	
-809	Bororo Campanha	MOTHER	muga	muga	m u g a	124	206	m u g a	MOTHER	
-911	Bororo Cabaçal	MOTHER	ika	ika	i k a	124	206	i k a	MOTHER	
-982	Bororo São Lourenço	MOTHER	munga	munga	m u n/g a	124	206	m u n/g a	MOTHER	
-1300	Bororo (Steinen)	MOTHER	imuga	imuga	m u g a	124	204	m u g a	MOTHER	
+809	BororoCampanha	MOTHER	muga	muga	m u g a	124	206	m u g a	MOTHER	
+911	BororoCabaçal	MOTHER	ika	ika	i k a	124	206	i k a	MOTHER	
+982	BororoSãoLourenço	MOTHER	munga	munga	m u n/g a	124	206	m u n/g a	MOTHER	
+1300	BororoSteinen	MOTHER	imuga	imuga	m u g a	124	204	m u g a	MOTHER	
 264	Bororo	MOUTH	ia / okwa	ia	ia	84	207	ia	MOUTH	None
 265	Umutina	MOUTH	oza	oza	o z a	203	208	o z a	MOUTH	None
 460	Otuke	MOUTH	ʃiora	ʃiora	o r a	203	208	o r a	MOUTH	
 832	Bororo	MOUTH	ia / okwa	okwa	o kʷ a	203	208	o kʷ a	MOUTH	
-973	Bororo Cabaçal	MOUTH	inoa	inoa	o a	203	208	o a	MOUTH	i-n- = 1.SG ”my” mouth
-1017	Bororo Campanha	MOUTH	inoga	inoga	o g a	203	208	o g a	MOUTH	
-1236	Bororo Western (Castelnau)	MOUTH	noiri	noiri	n oi r i	596	533	n oi r i	?	
-1251	Bororo (Steinen)	MOUTH	okwa	okwa	o kʷ a	203	208	o kʷ a	MOUTH	
+973	BororoCabaçal	MOUTH	inoa	inoa	o a	203	208	o a	MOUTH	i-n- = 1.SG ”my” mouth
+1017	BororoCampanha	MOUTH	inoga	inoga	o g a	203	208	o g a	MOUTH	
+1236	BororoWestern(Castelnau)	MOUTH	noiri	noiri	n oi r i	596	533	n oi r i	?	
+1251	BororoSteinen	MOUTH	okwa	okwa	o kʷ a	203	208	o kʷ a	MOUTH	
 266	Bororo	MUD	rotu	rotu	r o t u	164	209	r o t u	MUD	None
 267	Otuke	MUD	roktu	roktu	r o k t u	164	210	r o k t u	MUD	None
 268	Umutina	MUD	bukututu	bukututu	b u k u t u t u	236	211	b u k u t u t u	MUD	None
@@ -418,14 +418,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 273	Otuke	NECK	kio	kio	k io	113	213	k io	NECK	
 718	Umutina	NECK	ajupuru / alapokwa	ajupuru	a ʒ u p u ɾ u	391	414	a ʒ u p u ɾ u	NECK	
 719	Umutina	NECK	ajupuru / alapokwa	alapokwa	a l a p o kʷ a	392	415	a l a p o kʷ a	NECK	
-1279	Bororo (Steinen)	NECK	idory	idory	i d o ɾ ɨ	608	687	i d o ɾ ɨ	NECK	
+1279	BororoSteinen	NECK	idory	idory	i d o ɾ ɨ	608	687	i d o ɾ ɨ	NECK	
 274	Bororo	NOSE	eno	eno	e n o	79	214	e n o	NOSE	None
 275	Otuke	NOSE	ʃeno	ʃeno	ʃ e n o	79	214	ʃ e n o	NOSE	None
 720	Umutina	NOSE	napulu	napulu	n a p u l u	393	416	n a p u l u	NOSE	
-971	Bororo Cabaçal	NOSE	tʃena	tʃena	tʃ e n a	79	214	tʃ e n a	NOSE	
-1015	Bororo Campanha	NOSE	keno	keno	k e n o	79	214	k e n o	NOSE	
-1234	Bororo Western (Castelnau)	NOSE	kinamalo	kinamalo	k i n a m a l o	79	214	k i n a m a l o	NOSE	
-1256	Bororo (Steinen)	NOSE	eno	eno	e n o	79	214	e n o	NOSE	
+971	BororoCabaçal	NOSE	tʃena	tʃena	tʃ e n a	79	214	tʃ e n a	NOSE	
+1015	BororoCampanha	NOSE	keno	keno	k e n o	79	214	k e n o	NOSE	
+1234	BororoWestern(Castelnau)	NOSE	kinamalo	kinamalo	k i n a m a l o	79	214	k i n a m a l o	NOSE	
+1256	BororoSteinen	NOSE	eno	eno	e n o	79	214	e n o	NOSE	
 276	Bororo	OLDER BROTHER	mana	mana	m a n a	126	215	m a n a	OLDER_BROTHER	None
 277	Umutina	OLDER BROTHER	amana / amala	amana	a m a n a	126	215	a m a n a	OLDER_BROTHER	None
 278	Umutina	OLDER BROTHER	amana / amala	amala	a m a l a	126	215	a m a l a	OLDER_BROTHER	None
@@ -457,10 +457,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 301	Bororo	PECCARY	dʒugo / ʃao	dʒugo	dʒ u g o	70	226	dʒ u g o	PECCARY	None
 577	Umutina	PECCARY	ʒoa	ʒoa	ʒ oa	198	225	ʒ oa	PECCARY	
 642	Otuke	PECCARY	suvuakarani	suvuakarani	s u v ua k a r a n i	333	352	s u v ua k a r a n i	PECCARY	
-1089	Bororo Cabaçal	PECCARY	tuike	tuike	t u i k e	70	226	t u i k e	PECCARY	pig (porco) in the original list
+1089	BororoCabaçal	PECCARY	tuike	tuike	t u i k e	70	226	t u i k e	PECCARY	pig (porco) in the original list
 302	Bororo	PENIS	baka	baka	b a k a	96	227	b a k a	PENIS	None
 303	Umutina	PENIS	mainokua	mainokua	m ai n o k ua	213	228	m ai n o k ua	PENIS	None
-1072	Bororo Cabaçal	PENIS	galaka	galaka	g a l a k a	532	593	g a l a k a	PENIS	
+1072	BororoCabaçal	PENIS	galaka	galaka	g a l a k a	532	593	g a l a k a	PENIS	
 304	Bororo	PESTLE	kaia	kaia	k a ia	103	229	k a ia	PESTLE	None
 306	Umutina	PESTLE	kazokupo	kazokupo	k a z o + k u p o	103	229 230	k a z o + k u p o	PESTLE ?	None
 307	Bororo	PIABA-AÇU	dʒatugugo	dʒatugugo	dʒ a t u g u g o	68	231	dʒ a t u g u g o	PIABA-AÇU	None
@@ -497,51 +497,51 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 628	Otuke	HYACINTH MACAW	kaharu	kaharu	k a h a r u	320	338	k a h a r u	MACAW	
 745	Bororo	HYACINTH MACAW	kuido / kudoro	kuido	k ui d o	408	431	k ui d o	MACAW	
 880	Bororo	HYACINTH MACAW	kuido / kudoro	kudoro	k u d o r o	408	431	k u d o r o	MACAW	
-881	Bororo Campanha	HYACINTH MACAW	kudoro	kudoro	k u d o r o	408	431	k u d o r o	MACAW	
+881	BororoCampanha	HYACINTH MACAW	kudoro	kudoro	k u d o r o	408	431	k u d o r o	MACAW	
 335	Bororo	RED-AND-GREEN MACAW	nabure	nabure	n a b u r e	136	430	n a b u r e	MACAW	
 336	Umutina	RED-AND-GREEN MACAW	hujʃo / alapore	alapore	a l a p o r e	228	245	a l a p o r e	MACAW	
 746	Bororo	RED-AND-GREEN MACAW	nabure	nabure	n a b u ɾ e	409	430	n a b u ɾ e	MACAW	
 770	Umutina	RED-AND-GREEN MACAW	alapore	alapore	a l a p o ɾ e	409	430	a l a p o ɾ e	MACAW	
-879	Bororo Campanha	RED-AND-GREEN MACAW	kiogo	kiogo	k ioː g o	470	299	k ioː g o	BIRD	
+879	BororoCampanha	RED-AND-GREEN MACAW	kiogo	kiogo	k ioː g o	470	299	k ioː g o	BIRD	
 338	Bororo	RIVER	po	po	p o	2	246	p o - - - - -	WATER	
 339	Umutina	RIVER	po	po	p o	2	246	p o - - - - -	WATER	
 655	Otuke	RIVER	ouru	ouru	ou r u	345	366	ou r u	RIVER	
-1012	Bororo Campanha	RIVER	orariba	orariba	o r a r i b a	345	366	o r a r i b a	RIVER	
-1066	Bororo Cabaçal	RIVER	ha	ha	h a	2	246	h a - - - - -	WATER	
-1241	Bororo Western (Castelnau)	RIVER	au	au	au	345	366	au	RIVER	
+1012	BororoCampanha	RIVER	orariba	orariba	o r a r i b a	345	366	o r a r i b a	RIVER	
+1066	BororoCabaçal	RIVER	ha	ha	h a	2	246	h a - - - - -	WATER	
+1241	BororoWestern(Castelnau)	RIVER	au	au	au	345	366	au	RIVER	
 340	Bororo	ROPE	bɨkigu	bɨkigu	b ɨ k i g u	32	247	b ɨ k i g u	ROPE	
 341	Umutina	ROPE	boiku	boiku	b oi k u	32	247	b oi k u	ROPE	
 342	Bororo	SALIVA	otoguru	otoguru	o t o g u r u	145	248		SALIVA	
 343	Umutina	SALIVA	otoruta / otoru	otoru	o t o r u	145	248	o t o r u	SALIVA	
 889	Umutina	SALIVA	otoruta / otoru	otoruta	o t o r u t a	145	248	o t o r u t a	SALIVA	
-1254	Bororo (Steinen)	SALIVA	kodoguro / jatoguro	kodoguro	k o d o g u r o	145	248	k o d o g u r o	SALIVA	
-1255	Bororo (Steinen)	SALIVA	kodoguro / jatoguro	jatoguro	j a t o g u r o	145	248	j a t o g u r o	SALIVA	
+1254	BororoSteinen	SALIVA	kodoguro / jatoguro	kodoguro	k o d o g u r o	145	248	k o d o g u r o	SALIVA	
+1255	BororoSteinen	SALIVA	kodoguro / jatoguro	jatoguro	j a t o g u r o	145	248	j a t o g u r o	SALIVA	
 344	Bororo	SAND	kɨgarɨ	kɨgarɨ	k ɨ g a r ɨ	99	249	k ɨ g a r ɨ	SAND	None
 345	Umutina	SAND	xoare	xoare	ʃ oa r e	99	249	ʃ oa r e	SAND	None
 656	Otuke	SAND	huaĩri	huaĩri	h ua ĩ r i	99	249	h ua ĩ r i	SAND	
-851	Bororo Campanha	SAND	kokarta	kokarta	k o k a r t a	99	249	k o k a r t a	SAND	
+851	BororoCampanha	SAND	kokarta	kokarta	k o k a r t a	99	249	k o k a r t a	SAND	
 347	Bororo	SCALE	boto	boto	b o t o	61	251	b o t o	SCALE	None
 348	Umutina	SCALE	boto ka	boto ka	b o t o + k a	61	251 39	b o t o + k a	SCALE BODY.PART?	None
 349	Bororo	SEED	a	a	a	10	57	a	SEED	None
 350	Umutina	SEED	aka	aka	a + k a	10	57 39	a + k a	SEED BODY.PART?	None
 510	Otuke	SEED	ohatẽ	ohatẽ	o h a t ẽ	264	63	o h a t ẽ	SEED	
-1290	Bororo (Steinen)	SEED	boenoboe	boenoboe	b oe n o b oe			b oe n o b oe		
+1290	BororoSteinen	SEED	boenoboe	boenoboe	b oe n o b oe			b oe n o b oe		
 351	Bororo	SHELL	atu	atu	a t u	28	82	a t u	SHELL	
 727	Umutina	SHELL	atukwa	atukwa	a t u + kʷ a	28	82 502	a t u + kʷ a	SHELL ?	
-883	Bororo São Lourenço	SHELL	atu	atu	a t u	28	82	a t u	SHELL	
+883	BororoSãoLourenço	SHELL	atu	atu	a t u	28	82	a t u	SHELL	
 352	Bororo	SKY	baru	baru	b a r u	41	120	b a r u	SKY	None
 353	Otuke	SKY	hʷaru	hʷaru	hʷ a r u	41	120	hʷ a r u	SKY	None
 354	Umutina	SKY	baroto / baroza	baroto	b a r o + t o	41	120 270	b a r o + t o	SKY ?	None
 835	Umutina	SKY	baroto / baroza	baroza	b a r o + z a	41	120 270	b a r o + z a	SKY ?	
-1293	Bororo (Steinen)	SKY	baru	baru	b a r u	41	120	b a r u	SKY	
+1293	BororoSteinen	SKY	baru	baru	b a r u	41	120	b a r u	SKY	
 355	Bororo	SLEEP	nudu / nududu	nudu	n u d u	140	253	n u d u	SLEEP	None
 356	Bororo	SLEEP	nudu / nududu	nududu	n u d u d u	140	253	n u d u d u	SLEEP	None
 357	Otuke	SLEEP	anutake	anutake	a n u t a k e	140	253	a n u t a k e	SLEEP	None
 358	Umutina	SLEEP	notu	notu	n u t u	140	253	n u t u	SLEEP	None
-968	Bororo Cabaçal	SLEEP	turatu / tunatu	turatu	t u ɾ a t u	514	475	t u ɾ a t u	SLEEP	
-1170	Bororo Cabaçal	SLEEP	turatu / tunatu	tunatu	t u n a t u	514	475	t u n a t u	SLEEP	
-1222	Bororo Western (Castelnau)	SLEEP	tounotounai	tounotounai	t ou n o t ou + n ai	514	475 676	t ou n o t ou + n ai	SLEEP ?	
-1227	Bororo Cabaçal	SLEEP	inu dua	inu dua	i n u + d ua	140	682 683	i n u + d ua	? ?	
+968	BororoCabaçal	SLEEP	turatu / tunatu	turatu	t u ɾ a t u	514	475	t u ɾ a t u	SLEEP	
+1170	BororoCabaçal	SLEEP	turatu / tunatu	tunatu	t u n a t u	514	475	t u n a t u	SLEEP	
+1222	BororoWestern(Castelnau)	SLEEP	tounotounai	tounotounai	t ou n o t ou + n ai	514	475 676	t ou n o t ou + n ai	SLEEP ?	
+1227	BororoCabaçal	SLEEP	inu dua	inu dua	i n u + d ua	140	682 683	i n u + d ua	? ?	
 359	Bororo	SLEEP (STATE)	nori	nori	n o r i	139	252	n o r i	SLEEP	None
 360	Umutina	SLEEP (STATE)	nori	nori	n o r i	139	252	n o r i	SLEEP	None
 361	Bororo	SMALL ANTEATER	apu / apogo	apu	a p u	7	5	a p u - -	SMALL_ANTEATER	Tamandua tetradactyla
@@ -577,36 +577,36 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 387	Otuke	STONE	tohori	tohori	t o h o ɾ i	172	179	t o h o ɾ i	STONE	None
 388	Umutina	STONE	tori	tori	t ɔ ɾ i	172	179	t ɔ ɾ i	STONE	None
 645	Kovareka	STONE	tĩri	tĩri	t ĩ ɾ i	172	179	t ĩ ɾ i	STONE	
-844	Bororo Campanha	STONE	(tori) kotxoli	(tori) kotxoli	t o ɾ i + k o tʃ o l i	172	179 487	t o ɾ i + k o tʃ o l i	STONE	
-935	Bororo Cabaçal	STONE	tori / toldi	tori	t o ɾ i	172	179	t o ɾ i	STONE	
-1039	Bororo Western (Castelnau)	STONE	toli	toli	t o l i	172	179	t o l i	STONE	
+844	BororoCampanha	STONE	(tori) kotxoli	(tori) kotxoli	t o ɾ i + k o tʃ o l i	172	179 487	t o ɾ i + k o tʃ o l i	STONE	
+935	BororoCabaçal	STONE	tori / toldi	tori	t o ɾ i	172	179	t o ɾ i	STONE	
+1039	BororoWestern(Castelnau)	STONE	toli	toli	t o l i	172	179	t o l i	STONE	
 1111	Kuruminaka	STONE	tiri	tiri	t iː ɾ i	172	179	t iː ɾ i	STONE	
-1174	Bororo Cabaçal	STONE	tori / toldi	toldi	t o l d i	172	179	t o l d i	STONE	
-1298	Bororo (Steinen)	STONE	tori	tori	t o ɾ i	172	179	t o ɾ i	STONE	
+1174	BororoCabaçal	STONE	tori / toldi	toldi	t o l d i	172	179	t o l d i	STONE	
+1298	BororoSteinen	STONE	tori	tori	t o ɾ i	172	179	t o ɾ i	STONE	
 389	Bororo	SUN	meri	meri	m e ɾ i	130	177	m e ɾ i	SUN	
 390	Otuke	SUN	neri	neri	n e ɾ i	130	177	n e ɾ i	SUN	
 391	Umutina	SUN	mini / baru	mini	m i n i	130	177	m i n i	SUN	
-825	Bororo Campanha	SUN	meri / meli	meri	m eː ɾ i	130	177	m eː ɾ i	SUN	
-828	Bororo Campanha	SUN	meri / meli	meli	m eː l i	130	177	m eː l i	SUN	
-925	Bororo Cabaçal	SUN	beeri / meeri	beeri	b eː ɾ i	130	177	b eː ɾ i	SUN	Natterer possibly confused the order of 'moon' and 'sun' in his list
-994	Bororo São Lourenço	SUN	meeli	meeli	m eː l i	130	177	m eː l i	SUN	
-1175	Bororo Cabaçal	SUN	beeri / meeri	meeri	m eː ɾ i	130	177	m eː ɾ i	SUN	
-1195	Bororo Western (Castelnau)	SUN	cuerou	cuerou	tʃ ue r ou	587	489	tʃ ue r ou	SUN	
-1282	Bororo (Steinen)	SUN	meri	meri	m e r i	130	177	m e r i	SUN	
+825	BororoCampanha	SUN	meri / meli	meri	m eː ɾ i	130	177	m eː ɾ i	SUN	
+828	BororoCampanha	SUN	meri / meli	meli	m eː l i	130	177	m eː l i	SUN	
+925	BororoCabaçal	SUN	beeri / meeri	beeri	b eː ɾ i	130	177	b eː ɾ i	SUN	Natterer possibly confused the order of 'moon' and 'sun' in his list
+994	BororoSãoLourenço	SUN	meeli	meeli	m eː l i	130	177	m eː l i	SUN	
+1175	BororoCabaçal	SUN	beeri / meeri	meeri	m eː ɾ i	130	177	m eː ɾ i	SUN	
+1195	BororoWestern(Castelnau)	SUN	cuerou	cuerou	tʃ ue r ou	587	489	tʃ ue r ou	SUN	
+1282	BororoSteinen	SUN	meri	meri	m e r i	130	177	m e r i	SUN	
 1289	Umutina	SUN	mini / baru	baru	b a r u	611	380	b a r u	HOT	
 394	Bororo	SWIM	kuru	kuru	k u r u	121	176	k u r u	SWIM	None
 395	Umutina	SWIM	oru pu	oru pu	o r u + p u	121	176 178	o r u + p u	SWIM ?	None
 396	Bororo	TAIL	o	o	o	141	175	o	TAIL	None
 397	Umutina	TAIL	o	o	o	141	175	o	TAIL	None
-1263	Bororo (Steinen)	TAIL	o	o	o	141	175	o	TAIL	
+1263	BororoSteinen	TAIL	o	o	o	141	175	o	TAIL	
 398	Bororo	TAPIR	ki	ki	k i	107	174	k i	TAPIR	None
 399	Umutina	TAPIR	kuj	kuj	k u j	107	174	k u j	TAPIR	None
 620	Otuke	TAPIR	kuhui	kuhui	k u h ui	107	174	k u h ui	TAPIR	
-874	Bororo Campanha	TAPIR	ki	ki	k i	107	174	k i	TAPIR	
-990	Bororo São Lourenço	TAPIR	kii	kii	k iː	107	174	k iː	TAPIR	
-1087	Bororo Cabaçal	TAPIR	kui atuho / atuho	kui atuho	k ui + a t u h o	107	174 605	k ui + a t u h o	TAPIR DEER	
-1176	Bororo Cabaçal	TAPIR	kui atuho / atuho	atuho	a t u h o	107	174	a t u h o	TAPIR	
-1206	Bororo Western (Castelnau)	TAPIR	coui	coui	c ou i	107	174	c ou i	TAPIR	
+874	BororoCampanha	TAPIR	ki	ki	k i	107	174	k i	TAPIR	
+990	BororoSãoLourenço	TAPIR	kii	kii	k iː	107	174	k iː	TAPIR	
+1087	BororoCabaçal	TAPIR	kui atuho / atuho	kui atuho	k ui + a t u h o	107	174 605	k ui + a t u h o	TAPIR DEER	
+1176	BororoCabaçal	TAPIR	kui atuho / atuho	atuho	a t u h o	107	174	a t u h o	TAPIR	
+1206	BororoWestern(Castelnau)	TAPIR	coui	coui	c ou i	107	174	c ou i	TAPIR	
 401	Bororo	TERMITE	kumo	kumo	k u m o	98	173	k u m o	TERMITE	None
 402	Otuke	TERMITE	kaymo / makihe	kaymo	k ai m o	98	173	k ai m o	TERMITE	None
 621	Otuke	TERMITE	kaymo / makihe	makihe	m a k i h e	313	331	m a k i h e	TERMITE	
@@ -614,17 +614,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 403	Bororo	THIGH	bopona / iviora	bopona	b o p o + n a	60	170 172	b o p o + n a	THIGH ?	None
 404	Umutina	THIGH	bopo to	bopo to	b o p o + t o	60	170 271	b o p o + t o	THIGH ?	None
 405	Otuke	THIGH	bopona / iviora	viora	v io r a	197	171	v io r a	THIGH	None
-977	Bororo Cabaçal	THIGH	igoda / gola	igoda	g o d a	546	573	g o d a	THIGH	
-1027	Bororo Campanha	THIGH	jobona	jobona	dʒ o b o n a	547	610	dʒ o b o n a	THIGH	
-1075	Bororo Cabaçal	THIGH	igoda / gola	gola	g o l a	546	573	g o l a	THIGH	
-1238	Bororo Western (Castelnau)	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	my flesh
+977	BororoCabaçal	THIGH	igoda / gola	igoda	g o d a	546	573	g o d a	THIGH	
+1027	BororoCampanha	THIGH	jobona	jobona	dʒ o b o n a	547	610	dʒ o b o n a	THIGH	
+1075	BororoCabaçal	THIGH	igoda / gola	gola	g o l a	546	573	g o l a	THIGH	
+1238	BororoWestern(Castelnau)	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	my flesh
 406	Umutina	THROAT	ku(po)	ku	k u	113	169	k u	THROAT	None
 763	Bororo	THROAT	ruwo	ruwo	r u w o	420	442	r u w o	THROAT	
 407	Bororo	TINAMOU	riwodo	riwodo	r i w o d o	163	168	r i w o d o	TINAMOU	None
 408	Umutina	TINAMOU	diboto	diboto	d i b o t o	163	168	d i b o t o	TINAMOU	None
 409	Bororo	TREE	i	i	i	83	167	i	TREE	None
 410	Umutina	TREE	i	i	i	83	167	i	TREE	None
-863	Bororo Campanha	TREE	i	i	i	83	167	i	TREE	
+863	BororoCampanha	TREE	i	i	i	83	167	i	TREE	
 411	Umutina	TUCUM	bo / boyo	bo	b o	57	166	b o	TUCUM	
 762	Bororo	TUCUM	bukido	bukido	b u k i d o	57	166	b u k i d o	TUCUM	
 412	Bororo	TURTLE	dʒerigige	dʒerigige	dʒ e r i g i g e	73	165	dʒ e r i g i g e	TURTLE	None
@@ -635,11 +635,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1113	Kovareka	TURTLE	rerikeke	rerikeke	ɾ e ɾ i k e k e	73	165	ɾ e ɾ i k e k e	TURTLE	
 416	Bororo	TWO	pobe	pobe	p o b e	8	164	- - - p o b e	TWO	None
 419	Umutina	TWO	pupi	pupi	p u p i	8	164	- - - p u p i	TWO	None
-1008	Bororo Campanha	TWO	oi hobe / ehobe	oi hobe / ehobe	o i + h o b e	8	535 164	o i + h o b e	TWO	
-1009	Bororo Campanha	TWO	oi hobe / ehobe	oi hobe / ehobe	e h o b e	8	164	e - - h o b e	TWO	
-1179	Bororo Cabaçal	TWO	bee / oa	bee	b eː	8	164	- - - - - b eː	TWO	
-1180	Bororo Cabaçal	TWO	bee / oa	oa	oa	585	655	oa	TWO	
-1224	Bororo Western (Castelnau)	TWO	macouai	macouai	m a + tʃ ou ai	599	679 678	m a + tʃ ou ai	? ONE	
+1008	BororoCampanha	TWO	oi hobe / ehobe	oi hobe / ehobe	o i + h o b e	8	535 164	o i + h o b e	TWO	
+1009	BororoCampanha	TWO	oi hobe / ehobe	oi hobe / ehobe	e h o b e	8	164	e - - h o b e	TWO	
+1179	BororoCabaçal	TWO	bee / oa	bee	b eː	8	164	- - - - - b eː	TWO	
+1180	BororoCabaçal	TWO	bee / oa	oa	oa	585	655	oa	TWO	
+1224	BororoWestern(Castelnau)	TWO	macouai	macouai	m a + tʃ ou ai	599	679 678	m a + tʃ ou ai	? ONE	
 421	Umutina	UGLY	pikɛna	pikɛna	p i k ɛ n a	150	163	p i k ɛ n a	UGLY	None
 536	Otuke	UGLY	orovosokiete	orovosokiete	o r o v o s o k ie t e	151	273	o r o v o s o k ie t e	UGLY	
 537	Bororo	UGLY	moty bokwa	moty bokwa	m o t ɯ + b o kʷ a	152	52 274	m o t ɯ + b o kʷ a	BEAUTIFUL NEGATION	
@@ -653,36 +653,36 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 429	Umutina	WATER	po / purukwa	po	p o	2	159	p o - - - - -	WATER	
 481	Otuke	WATER	ouru	ouru	ou r u	246	366	ou r u	RIVER	
 771	Umutina	WATER	po / purukwa	purukwa	p u r u kʷ a	2	159	p u r - u kʷ a	WATER	
-845	Bororo Campanha	WATER	boba	boba	b o + b a	2	246	b o + b a - -	WATER	
-934	Bororo Cabaçal	WATER	ho / ha	ho	h o	2	246	h o - - - - -	WATER	
-1006	Bororo Campanha	WATER	pabatsche	pabatsche	p a + b a tʃ e	2	246	p a + b a tʃ e	WATER	
-1182	Bororo Cabaçal	WATER	ho / ha	ha	h a	2	246	h a - - - - -	WATER	
-1202	Bororo Western (Castelnau)	WATER	ikotowai	ikotowai	i k o t o w ai	592	664	i k o t o w ai	WATER	
-1296	Bororo (Steinen)	WATER	paba	paba	p a b a	2	246	p a b a	WATER	
+845	BororoCampanha	WATER	boba	boba	b o + b a	2	246	b o + b a - -	WATER	
+934	BororoCabaçal	WATER	ho / ha	ho	h o	2	246	h o - - - - -	WATER	
+1006	BororoCampanha	WATER	pabatsche	pabatsche	p a + b a tʃ e	2	246	p a + b a tʃ e	WATER	
+1182	BororoCabaçal	WATER	ho / ha	ha	h a	2	246	h a - - - - -	WATER	
+1202	BororoWestern(Castelnau)	WATER	ikotowai	ikotowai	i k o t o w ai	592	664	i k o t o w ai	WATER	
+1296	BororoSteinen	WATER	paba	paba	p a b a	2	246	p a b a	WATER	
 430	Bororo	WHITE	kigadu	kigadu	k i g a d u	111	157	k i g a d u	WHITE	None
 431	Umutina	WHITE	kikoto / akɨkoto	kikoto	k i k o t o	111	157	k i k o t o	WHITE	
-964	Bororo Cabaçal	WHITE	kalare / to	kalare	k a l a ɾ e	111	157	k a l a ɾ e	WHITE	
-998	Bororo Campanha	WHITE	kikato	kikato	k i k a t o	111	157	k i k a t o	WHITE	
-1183	Bororo Cabaçal	WHITE	kalare / to	to	t o	588	657	t o	WHITE	
+964	BororoCabaçal	WHITE	kalare / to	kalare	k a l a ɾ e	111	157	k a l a ɾ e	WHITE	
+998	BororoCampanha	WHITE	kikato	kikato	k i k a t o	111	157	k i k a t o	WHITE	
+1183	BororoCabaçal	WHITE	kalare / to	to	t o	588	657	t o	WHITE	
 433	Bororo	WIND	akuru / bakuru	akuru	a k u r u	18	156	- a - k u r u	WIND	None
 434	Bororo	WIND	akuru / bakuru	bakuru	b a k u r u	18	156	b a - k u r u	WIND	None
 435	Otuke	WIND	hʷauru	hʷauru	hʷ au r u	18	156	- - - hʷ au r u	WIND	None
-848	Bororo Campanha	WIND	vakuru	vakuru	v a k u r u	18	156	v a - k u r u	WIND	
-931	Bororo Cabaçal	WIND	fogaru / hogaru / ga kuru	fogaru	f o g a ɾ u	18	156	f o - g a ɾ u	WIND	
-932	Bororo Cabaçal	WIND	fogaru / hogaru / ga kuru	hogaru	h o g a ɾ u	18	156	h o - g a ɾ u	WIND	
-1184	Bororo Cabaçal	WIND	fogaru / hogaru / ga kuru	ga kuru	g a + k u r u	18	658 156	g a + k u r u	WIND	
-1294	Bororo (Steinen)	WIND	bakuro	bakuro	b a k u ɾ o	18	156	b a k u ɾ o	WIND	
+848	BororoCampanha	WIND	vakuru	vakuru	v a k u r u	18	156	v a - k u r u	WIND	
+931	BororoCabaçal	WIND	fogaru / hogaru / ga kuru	fogaru	f o g a ɾ u	18	156	f o - g a ɾ u	WIND	
+932	BororoCabaçal	WIND	fogaru / hogaru / ga kuru	hogaru	h o g a ɾ u	18	156	h o - g a ɾ u	WIND	
+1184	BororoCabaçal	WIND	fogaru / hogaru / ga kuru	ga kuru	g a + k u r u	18	658 156	g a + k u r u	WIND	
+1294	BororoSteinen	WIND	bakuro	bakuro	b a k u ɾ o	18	156	b a k u ɾ o	WIND	
 437	Bororo	WOOD	ipo	ipo	i p o	89	4	i p o	WOOD	None
 438	Otuke	WOOD	ipu	ipu	i p u	89	4	i p u	WOOD	None
 455	Otuke	WOOD	itura	itura	i t u ɾ a	182	2	i t u ɾ a	WOOD	
-842	Bororo Campanha	WOOD	djoligi	djoligi	dʒ o l i g i	457	179	dʒ o l i g i	WOOD	
+842	BororoCampanha	WOOD	djoligi	djoligi	dʒ o l i g i	457	179	dʒ o l i g i	WOOD	
 890	Umutina	WOOD	ipu	ipu	i p u	89	4	i p u	WOOD	
-936	Bororo Cabaçal	WOOD	toriki / toldi ki	toriki	t o ɾ i + k i	457	179 486	t o ɾ i + k i	STONE WOOD	
-1185	Bororo Cabaçal	WOOD	toriki / toldi ki	toldi ki	t o l d i + k i	457	179 486	t o l d i + k i	STONE WOOD	
-1203	Bororo Western (Castelnau)	WOOD	tagou-ti	tagou-ti	t a g ou + t i	457	179 486	t a g ou + t i	STONE WOOD	
+936	BororoCabaçal	WOOD	toriki / toldi ki	toriki	t o ɾ i + k i	457	179 486	t o ɾ i + k i	STONE WOOD	
+1185	BororoCabaçal	WOOD	toriki / toldi ki	toldi ki	t o l d i + k i	457	179 486	t o l d i + k i	STONE WOOD	
+1203	BororoWestern(Castelnau)	WOOD	tagou-ti	tagou-ti	t a g ou + t i	457	179 486	t a g ou + t i	STONE WOOD	
 439	Bororo	YELLOW	ekɨ	ekɨ	e k ɨ	80	61	e k ɨ	YELLOW	None
 440	Umutina	YELLOW	iku	iku	i k u	80	61	i k u	YELLOW	
-1002	Bororo Campanha	YELLOW	eko	eko	e k o	80	61	e k o	YELLOW	
+1002	BororoCampanha	YELLOW	eko	eko	e k o	80	61	e k o	YELLOW	
 441	Bororo	THOU	aki	aki	a k i	11	60	a k i	YOU	None
 442	Otuke	THOU	a	a	a	11	60	a - -	YOU	None
 443	Umutina	THOU	ame / a	ame	a m e	11	60	a m e	YOU	None
@@ -699,9 +699,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 454	Otuke	FIREWOOD	seruki	seruki	s e r u k i	142	117	s e r u k i	FIREWOOD	
 463	Otuke	SING	ohuarututa	ohuarututa	o h ua r u t u t a	194	155	o h ua r u t u t a	SING	
 464	Bororo	SING	ragody / irawä	ragody	ɾ a + ɡ ʌ d ɯ	256	560 563	ɾ a + ɡ ʌ d ɯ	SING INCIPIENT	
-1007	Bororo Campanha	SING	ilaua	ilaua	l a + ua	256	560 562	l a + ua	SING ?	
+1007	BororoCampanha	SING	ilaua	ilaua	l a + ua	256	560 562	l a + ua	SING ?	
 1034	Bororo	SING	ragody / irawä	irawä	ɾ a + w ʌ	256	560 562	ɾ a + w ʌ	SING ?	
-1169	Bororo Cabaçal	SING	tui	tui	t ui	580	649	t ui	SING	
+1169	BororoCabaçal	SING	tui	tui	t ui	580	649	t ui	SING	
 465	Otuke	CAT	ahi	ahi	a h i	202	142	a h i	JAGUAR	
 466	Bororo	CAT	gato	gato	g a t o	208	70	g a t o	CAT	
 467	Otuke	CATERPILLAR	kihe	kihe	k i h e	210	72	k i h e	CATERPILLAR	
@@ -714,16 +714,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 475	Otuke	TOOTH	o	o	o	242	152	o	TOOTH	
 476	Bororo	TOOTH	o	o	ɔ	242	152	ɔ	TOOTH	
 772	Umutina	TOOTH	akopo	akopo	a k o p ɔ	242	152	a k o p ɔ	TOOTH	
-975	Bororo Cabaçal	TOOTH	ito	ito	o	242	152	o	TOOTH	my tooth
-1021	Bororo Campanha	TOOTH	ita	ita	a	242	152	a	TOOTH	Plural given
-1250	Bororo (Steinen)	TOOTH	o	o	o	242	152	o	TOOTH	
+975	BororoCabaçal	TOOTH	ito	ito	o	242	152	o	TOOTH	my tooth
+1021	BororoCampanha	TOOTH	ita	ita	a	242	152	a	TOOTH	Plural given
+1250	BororoSteinen	TOOTH	o	o	o	242	152	o	TOOTH	
 477	Otuke	FINGER	iuna	iuna	j u n a	243	114	j u n a	FINGER	
 478	Bororo	FINGER	erako	erako	e r a k o	243	114	e r a k o	FINGER	
-819	Bororo Campanha	FINGER	elako	elako	e l a k o	243	114	e l a k o	FINGER	
-919	Bororo Cabaçal	FINGER	tʃiri / tetu	tʃiri	tʃ i ɾ i	243	114	tʃ i ɾ i	FINGER	
-993	Bororo São Lourenço	FINGER	kelako	kelako	k e l a k o	243	114	k e l a k o	FINGER	
-1143	Bororo Cabaçal	FINGER	tʃiri / tetu	tetu	t e t u	562	628	t e t u	FINGER	
-1190	Bororo Western (Castelnau)	FINGER	tira	tira	t i ɾ a	243	114	t i ɾ a	FINGER	
+819	BororoCampanha	FINGER	elako	elako	e l a k o	243	114	e l a k o	FINGER	
+919	BororoCabaçal	FINGER	tʃiri / tetu	tʃiri	tʃ i ɾ i	243	114	tʃ i ɾ i	FINGER	
+993	BororoSãoLourenço	FINGER	kelako	kelako	k e l a k o	243	114	k e l a k o	FINGER	
+1143	BororoCabaçal	FINGER	tʃiri / tetu	tetu	t e t u	562	628	t e t u	FINGER	
+1190	BororoWestern(Castelnau)	FINGER	tira	tira	t i ɾ a	243	114	t i ɾ a	FINGER	
 479	Otuke	GIVE	iyura	iyura	i j u r a	244	127	i j u r a	GIVE	
 480	Bororo	GIVE	maky	maky	m a k ɯ	245	126	m a k ɯ	GIVE	
 482	Bororo	SHOULDER	kiaroro	kiaroro	k ia r o r o	247	150	k ia r o r o	SHOULDER	
@@ -732,11 +732,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 485	Umutina	THORN	boto	boto	b o t o	249	149	b o t o	THORN	
 486	Bororo	STAR	kuieje	kuieje	i k u j e dʒ e	248	147	i k u j e dʒ e	STAR	
 487	Otuke	STAR	ukema	ukema	u k e m a	250	148	u k e m a	STAR	
-858	Bororo Campanha	STAR	ikuixe	ikuixe	i k ui ʃ e	248	147	i k ui ʃ e	STAR	
-926	Bororo Cabaçal	STAR	ih ke / iktsche	ih ke	i h + k e	250	148 561	i h + k e	STAR	plural given
-1173	Bororo Cabaçal	STAR	ih ke / iktsche	iktsche	i + k tʃ e	250	561 148	i + k tʃ e	? STAR	Plural given
-1197	Bororo Western (Castelnau)	STAR	ikai	ikai	i k ai	250	147	i k ai	STAR	Plural given
-1284	Bororo (Steinen)	STAR	kuiedje	kuiedje	k ui e dʒ e	248	147	k ui e dʒ e	START	
+858	BororoCampanha	STAR	ikuixe	ikuixe	i k ui ʃ e	248	147	i k ui ʃ e	STAR	
+926	BororoCabaçal	STAR	ih ke / iktsche	ih ke	i h + k e	250	148 561	i h + k e	STAR	plural given
+1173	BororoCabaçal	STAR	ih ke / iktsche	iktsche	i + k tʃ e	250	561 148	i + k tʃ e	? STAR	Plural given
+1197	BororoWestern(Castelnau)	STAR	ikai	ikai	i k ai	250	147	i k ai	STAR	Plural given
+1284	BororoSteinen	STAR	kuiedje	kuiedje	k ui e dʒ e	248	147	k ui e dʒ e	START	
 488	Otuke	WOMAN	vuaneti	vuaneti	v ua n e t i	174	62	v ua n e t i	WOMAN	
 489	Bororo	WOMAN	aredy	aredy	a ɾ e d ɨ	174	62	a ɾ e d ɨ	WOMAN	
 896	Umutina	WOMAN	urixa	urixa	u r i ʃ a	174	62	u r i ʃ a	WOMAN	
@@ -744,19 +744,19 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 491	Bororo	BUTTOCK	pera	pera	p e r a	252	66	p e r a	BUTTOCK	
 492	Otuke	DAUGHTER	eno	eno	e n o	253	3	e n o	DAUGHTER	
 493	Bororo	DAUGHTER	onaregody aredy	onaregody aredy	ʌ n a ɾ ɛ ɡ ɛ d ɨ + a r e d ɨ	253	3 6	ʌ n a ɾ ɛ ɡ ɛ d ɨ + a r e d ɨ	SON FEMALE	
-841	Bororo Campanha	DAUGHTER	onaregete	onaregete	o n a r e g e t e	253	3	o n a r e g e t e	SON	
-984	Bororo São Lourenço	DAUGHTER	tonaregete	tonaregete	t o n a r e g e t e	253	3	t o n a r e g e t e	SON	
+841	BororoCampanha	DAUGHTER	onaregete	onaregete	o n a r e g e t e	253	3	o n a r e g e t e	SON	
+984	BororoSãoLourenço	DAUGHTER	tonaregete	tonaregete	t o n a r e g e t e	253	3	t o n a r e g e t e	SON	
 494	Bororo	SON	onaregody	onaregody	ʌ n a ɾ ɛ ɡ ɛ d ɨ	254	3	ʌ n a ɾ ɛ ɡ ɛ d ɨ	SON	
-810	Bororo Campanha	SON	onaregedu	agane	a g a n e	456	485	a g a n e	SON	Still exist as agare in the ritual language
-983	Bororo São Lourenço	SON	itagate	itagate	a g a t e	456	485	a g a t e	SON	my son'
+810	BororoCampanha	SON	onaregedu	agane	a g a n e	456	485	a g a n e	SON	Still exist as agare in the ritual language
+983	BororoSãoLourenço	SON	itagate	itagate	a g a t e	456	485	a g a t e	SON	my son'
 497	Otuke	ANTEATER	apuhe	apuhe	a p u h e	168	5	a p u h e	ANTEATER	Myrmecophaga tridactyla
 498	Bororo	ANTEATER	apogo	apogo	a p o g o	168	5	a p o g o	ANTEATER	Myrmecophaga tridactyla
 576	Umutina	ANTEATER	bʷɛ / apo	bʷɛ	bʷ ɛ	168	5	- bʷ ɛ - -	ANTEATER	Myrmecophaga tridactyla
 1247	Umutina	ANTEATER	bʷɛ / apo	apo	a p o	168	5	a p o	ANTEATER	
 501	Otuke	FOREHEAD	tʃoara	tʃoara	tʃ oa r a	257	9	tʃ oa r a	FOREHEAD	
 502	Bororo	FOREHEAD	jeri	jeri	dʒ e r i	257	9	dʒ e r i	FOREHEAD	
-1019	Bororo Campanha	FOREHEAD	iogola	iogola	io g o l a	497	545	io g o l a	FOREHEAD	
-1273	Bororo (Steinen)	FOREHEAD	ieri	ieri	ie r i	257	9	ie r i	FOREHEAD	
+1019	BororoCampanha	FOREHEAD	iogola	iogola	io g o l a	497	545	io g o l a	FOREHEAD	
+1273	BororoSteinen	FOREHEAD	ieri	ieri	ie r i	257	9	ie r i	FOREHEAD	
 1274	Umutina	FOREHEAD	zoada	zoada	z oa d a	257	9	z oa d a	FOREHEAD	
 503	Otuke	FRUIT	boka	boka	b o k a	258	12	b o k a	FRUIT	
 504	Bororo	FRUIT	tydy	tydy	t ɯ d ɨ	259	11	t ɯ d ɨ	FRUIT	
@@ -772,9 +772,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 514	Kuruminaka	BEAN	karina / kañahime	kañahime	k a ɲ a h i m e	265	48	k a ɲ a h i m e	BEAN	
 515	Otuke	GRASS	motsena vi	motsena vi	m o ts e n a + v i	266	132 133	m o ts e n a + v i	GRASS	
 864	Bororo	GRASS	boebutu	boebutu	b oe b u t u	464	495	b oe b u t u	GRASS	
-865	Bororo Campanha	GRASS	boebute	boebute	b oe b u t e	464	495	b oe b u t e	GRASS	
-937	Bororo Cabaçal	GRASS	getara / getala	getara	g e t a ɾ a	504	146	g e t a ɾ a	GRASS	
-1150	Bororo Cabaçal	GRASS	getara / getala	getala	g e t a l a	504	146	g e t a l a	GRASS	
+865	BororoCampanha	GRASS	boebute	boebute	b oe b u t e	464	495	b oe b u t e	GRASS	
+937	BororoCabaçal	GRASS	getara / getala	getara	g e t a ɾ a	504	146	g e t a ɾ a	GRASS	
+1150	BororoCabaçal	GRASS	getara / getala	getala	g e t a l a	504	146	g e t a l a	GRASS	
 516	Otuke	MAN	vuani	vuani	v ua n i	268	145	v ua n i	MAN	
 517	Umutina	MAN	barepo	barepo	b a ɾ e p o	503	558	b a ɾ e p o	MAN	
 1032	Bororo	MAN	imedy	imedy	i m e d ɨ	267	145	i m e d ɨ	MAN	
@@ -786,11 +786,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 534	Bororo	JAGUAR	adygo	adygo	a d ɯ + ɡʷ ɔ	273	141 557	a d ɯ + ɡʷ ɔ	FELINE PAINT	
 571	Umutina	JAGUAR	aʒukujta	aʒukujta	a ʒ u + k u j t a	273	141 557	a ʒ u + k u j t a	FELINE PAINT	
 801	Otuke	JAGUAR	anteko	ahi / anteko	a n t e + k o	273	141 557	a n t e + k o	FELINE PAINT	
-943	Bororo Cabaçal	JAGUAR	ate / gue	ate	a t e	273	141	a t e	FELINE	check transcription
-1156	Bororo Cabaçal	JAGUAR	ate / gue	gue	gʷ e	273	557	gʷ e	PAINT	
-1212	Bororo Western (Castelnau)	JAGUAR	ati / jaguarete	ati	a t i	273	141	a t i	FELINE	
-1213	Bororo Western (Castelnau)	JAGUAR	ati / jaguarete	jaguarete	j a g u a ɾ e t e	273	142	j a g u a ɾ e t e	JAGUAR	Loan from a Tupí-Guaraní language
-1264	Bororo (Steinen)	JAGUAR	adugo	adugo	a d u + g o	273	141 557	a d u + g o	FELINE PAINT	
+943	BororoCabaçal	JAGUAR	ate / gue	ate	a t e	273	141	a t e	FELINE	check transcription
+1156	BororoCabaçal	JAGUAR	ate / gue	gue	gʷ e	273	557	gʷ e	PAINT	
+1212	BororoWestern(Castelnau)	JAGUAR	ati / jaguarete	ati	a t i	273	141	a t i	FELINE	
+1213	BororoWestern(Castelnau)	JAGUAR	ati / jaguarete	jaguarete	j a g u a ɾ e t e	273	142	j a g u a ɾ e t e	JAGUAR	Loan from a Tupí-Guaraní language
+1264	BororoSteinen	JAGUAR	adugo	adugo	a d u + g o	273	141 557	a d u + g o	FELINE PAINT	
 524	Otuke	LEG	la	la	l a	274	143	l a	LEG	
 525	Bororo	LEG	pogwora	pogwora	p o gʷ o r a	274	143	p o gʷ o r a	LEG	
 527	Otuke	BEAUTIFUL	aniesokikia	aniesokikia	a n ie s o k i k ia	93	52	a n ie s o k i k ia	BEAUTIFUL	
@@ -799,11 +799,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 530	Bororo	CHEEK	jeködy	jeködy	dʒ e k ʌ d ɨ	278	73	dʒ e k ʌ d ɨ	CHEEK	
 531	Otuke	DAY	nericoki	nericoki	n e r i + tʃ o k i	279	95 499	n e r i + tʃ o k i	SUN ?	
 532	Bororo	DAY	meri	meri	m e r i	279	95	m e r i	SUN	
-856	Bororo Campanha	DAY	meli	meli	m e l i	279	95	m e l i	SUN	
-928	Bororo Cabaçal	DAY	arugutete / bere	arugutete	a ɾ u g u t e t e	286	556	a ɾ u g u t e t e	DAY	
-1133	Bororo Cabaçal	DAY	arugutete / bere	bere	b e r e	279	95	b e r e	SUN	
-1199	Bororo Western (Castelnau)	DAY	meri	meri	m e ɾ i	279	95	m e ɾ i	SUN	
-1291	Bororo (Steinen)	DAY	merige	merige	m e r i g e	279	95	m e r i g e	SUN	
+856	BororoCampanha	DAY	meli	meli	m e l i	279	95	m e l i	SUN	
+928	BororoCabaçal	DAY	arugutete / bere	arugutete	a ɾ u g u t e t e	286	556	a ɾ u g u t e t e	DAY	
+1133	BororoCabaçal	DAY	arugutete / bere	bere	b e r e	279	95	b e r e	SUN	
+1199	BororoWestern(Castelnau)	DAY	meri	meri	m e ɾ i	279	95	m e ɾ i	SUN	
+1291	BororoSteinen	DAY	merige	merige	m e r i g e	279	95	m e r i g e	SUN	
 535	Bororo	YOU	tagi	tagi	t a g i	45	272	t a g i	YOU.PL	
 538	Otuke	FIREFLY	tuhareturutu	tuhareturutu	t u h a r e t u r u t u	155	275	t u h a r e t u r u t u	FIREFLY	
 600	Umutina	FIREFLY	zokono	zokono	z o k o n o	297	316	z o k o n o	FIREFLY	
@@ -812,28 +812,28 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 539	Otuke	TONGUE	ceru	ceru	tʃ ɛ ɾ u	159	276	tʃ ɛ ɾ u	TONGUE	
 540	Bororo	TONGUE	eru	eru	ɛ ɾ u	159	276	ɛ ɾ u	TONGUE	
 891	Umutina	TONGUE	erukwa	erukwa	e r u + kʷ a	159	276 39	e r u + kʷ a	TONGUE BODY.PART?	
-976	Bororo Cabaçal	TONGUE	dʒeru / edu	dʒeru	dʒ e ɾ u	159	276	dʒ e ɾ u	TONGUE	
-1022	Bororo Campanha	TONGUE	ikeru	ikeru	e r u	159	276	e r u	TONGUE	
-1071	Bororo Cabaçal	TONGUE	dʒeru / edu	edu	e d u	159	276	e d u	TONGUE	
-1142	Bororo (Steinen)	TONGUE	eru	eru	e ɾ u	159	276	e ɾ u	TONGUE	
-1242	Bororo Western (Castelnau)	TONGUE	terou	terou	t e r ou	159	276	t e r ou	TONGUE	
+976	BororoCabaçal	TONGUE	dʒeru / edu	dʒeru	dʒ e ɾ u	159	276	dʒ e ɾ u	TONGUE	
+1022	BororoCampanha	TONGUE	ikeru	ikeru	e r u	159	276	e r u	TONGUE	
+1071	BororoCabaçal	TONGUE	dʒeru / edu	edu	e d u	159	276	e d u	TONGUE	
+1142	BororoSteinen	TONGUE	eru	eru	e ɾ u	159	276	e ɾ u	TONGUE	
+1242	BororoWestern(Castelnau)	TONGUE	terou	terou	t e r ou	159	276	t e r ou	TONGUE	
 541	Otuke	DRAGONFLY	cecuvi ohe	cecuvi ohe	tʃ e tʃ u v i + o h e	171	277 278	tʃ e tʃ u v i + o h e	DRAGONFLY ?	
 542	Otuke	HAND	seni	seni	s e n i	176	279	s e n i	HAND	
 543	Bororo	HAND	era	era	e r a	179	280	e r a	HAND	
 785	Umutina	HAND	zila	zila	z i l a	179	280	z i l a	HAND	
-818	Bororo Campanha	HAND	ela	ela	e l a	179	280	e l a	HAND	
-918	Bororo Cabaçal	HAND	tʃela / tschetetu	tʃela	tʃ e l a	179	280	tʃ e l a	HAND	
-992	Bororo São Lourenço	HAND	kela	kela	k e l a	179	280	k e l a	HAND	
-1151	Bororo Cabaçal	HAND	tʃela / tschetetu	tschetetu	tʃ e t e t u	566	632	tʃ e t e t u	HAND	
-1189	Bororo Western (Castelnau)	HAND	chetara	chetara	tʃ e t a ɾ a	179	280	tʃ e t a ɾ a	HAND	
+818	BororoCampanha	HAND	ela	ela	e l a	179	280	e l a	HAND	
+918	BororoCabaçal	HAND	tʃela / tschetetu	tʃela	tʃ e l a	179	280	tʃ e l a	HAND	
+992	BororoSãoLourenço	HAND	kela	kela	k e l a	179	280	k e l a	HAND	
+1151	BororoCabaçal	HAND	tʃela / tschetetu	tschetetu	tʃ e t e t u	566	632	tʃ e t e t u	HAND	
+1189	BororoWestern(Castelnau)	HAND	chetara	chetara	tʃ e t a ɾ a	179	280	tʃ e t a ɾ a	HAND	
 544	Otuke	MAIZE	mucata	mucata	m u tʃ a t a	180	281	m u tʃ a t a	MAIZE	
 545	Bororo	MAIZE	kuiada	kuiada	kʷ u j a d a	181	282	kʷ u j a d a	MAIZE	
 546	Kovareka	MAIZE	takuri	takuri	t a k u r i	183	283	t a k u r i	MAIZE	
 607	Umutina	MAIZE	humataka	humataka	h u m a t a k a	302	320	h u m a t a k a	MAIZE	
-945	Bororo Cabaçal	MAIZE	geeta	geeta	g eː t a	536	597	g eː t a	MAIZE	
+945	BororoCabaçal	MAIZE	geeta	geeta	g eː t a	536	597	g eː t a	MAIZE	
 549	Otuke	CHIN	tiura	tiura	t iu r a	186	286	t iu r a	CHIN	
 550	Bororo	CHIN	okura	okura	o kʷ u r a	186	286	o kʷ u r a	CHIN	
-1277	Bororo (Steinen)	CHIN	okura	okura	o k u r a	186	286	o k u r a	CHIN	
+1277	BororoSteinen	CHIN	okura	okura	o k u r a	186	286	o k u r a	CHIN	
 1278	Umutina	CHIN	wariba	wariba	w a r i b a	607	686	w a r i b a	CHIN	
 552	Otuke	HONEY	subeoru	subeoru	s u b eo ɾ u	191	288	s u b eo ɾ u	HONEY	
 553	Kuruminaka	HONEY	zeru	zeru	z e ɾ u	192	289	z e ɾ u	HONEY	
@@ -845,42 +845,42 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1107	Umutina	BEE	zulo	zulo	ʒ u l o	192	289	ʒ u l o	BEE	
 556	Otuke	MOUNTAIN	batari	batari	b a + t a r i	196	511 292	b a + t a r i	? STONE	
 557	Bororo	MOUNTAIN	tori	tori	t o r i	196	292	t o r i	STONE	
-849	Bororo Campanha	MOUNTAIN	tori	tori	t o r i	196	292	t o r i	STONE	
+849	BororoCampanha	MOUNTAIN	tori	tori	t o r i	196	292	t o r i	STONE	
 887	Umutina	MOUNTAIN	tori	tori	t o r i	196	292	t o r i	STONE	
-930	Bororo Cabaçal	MOUNTAIN	toriga	toriga	t o ɾ i + g a	196	292 510	t o ɾ i + g a	STONE ?	
-1228	Bororo Western (Castelnau)	MOUNTAIN	toli	toli	t o l i	196	292	t o l i	STONE	
-1297	Bororo (Steinen)	MOUNTAIN	tori	tori	t o ɾ i	196	292	t o ɾ i	STONE	
+930	BororoCabaçal	MOUNTAIN	toriga	toriga	t o ɾ i + g a	196	292 510	t o ɾ i + g a	STONE ?	
+1228	BororoWestern(Castelnau)	MOUNTAIN	toli	toli	t o l i	196	292	t o l i	STONE	
+1297	BororoSteinen	MOUNTAIN	tori	tori	t o ɾ i	196	292	t o ɾ i	STONE	
 559	Otuke	WE (EXCLUSIVE)	sekiaco	sekiaco	s e k i + a tʃ o	205	294 555	s e k i + a tʃ o	WE.(EXCLUSIVE) ?	
 560	Bororo	WE (EXCLUSIVE)	cegi	cegi	tʃ e g i	205	294	tʃ e g i	WE.(EXCLUSIVE)	
 561	Otuke	NIGHT	huasahuitaha	huasahuitaha	h ua s a + h ui t a h a	206	295 554	h ua s a + h ui t a h a	NIGHT ?	
 562	Bororo	NIGHT	boeco	boeco	b oe tʃ o	206	295	b oe tʃ o	NIGHT	
-857	Bororo Campanha	NIGHT	boeca	boeca	b oe tʃ a	206	295	b oe tʃ a	NIGHT	
-927	Bororo Cabaçal	NIGHT	boiʃevete / i-ide	boiʃevete	b o i ʃ e + v e t e	206	295 554	b o i ʃ e + v e t e	NIGHT ?	
-1161	Bororo Cabaçal	NIGHT	boiʃevete / i-ide	i-ide	i + i d e	572	640 641	i + i d e	? NIGHT	
-1198	Bororo Western (Castelnau)	NIGHT	ochai	ochai	o tʃ a i	589	661	o tʃ a i	NIGHT	
-1292	Bororo (Steinen)	NIGHT	boesodo	boesodo	b oe s o d o	206	295	b oe s o d o	NIGHT	
+857	BororoCampanha	NIGHT	boeca	boeca	b oe tʃ a	206	295	b oe tʃ a	NIGHT	
+927	BororoCabaçal	NIGHT	boiʃevete / i-ide	boiʃevete	b o i ʃ e + v e t e	206	295 554	b o i ʃ e + v e t e	NIGHT ?	
+1161	BororoCabaçal	NIGHT	boiʃevete / i-ide	i-ide	i + i d e	572	640 641	i + i d e	? NIGHT	
+1198	BororoWestern(Castelnau)	NIGHT	ochai	ochai	o tʃ a i	589	661	o tʃ a i	NIGHT	
+1292	BororoSteinen	NIGHT	boesodo	boesodo	b oe s o d o	206	295	b oe s o d o	NIGHT	
 563	Otuke	EYE	caa	caa	tʃ aː	216	296	tʃ aː	EYE	
 564	Bororo	EYE	joku	joku	dʒ o kʷ u	216	296	dʒ o kʷ u	EYE	
 733	Umutina	EYE	arikixi	arikixi	a ɾ i k i ʃ i	403	425	a ɾ i k i ʃ i	EYE	
-970	Bororo Cabaçal	EYE	ite	ite	t e	216	425	t e	EYE	
-1013	Bororo Campanha	EYE	eko / eka	eko	e k o	493	541	e k o	EYE	
-1014	Bororo Campanha	EYE	eko / eka	eka	e k a	493	541	e k a	EYE	
-1233	Bororo Western (Castelnau)	EYE	itai	itai	t ai	216	244	t ai	EYE	
-1260	Bororo (Steinen)	EYE	ioko	ioko	j o k o	216	296	j o k o	EYE	
+970	BororoCabaçal	EYE	ite	ite	t e	216	425	t e	EYE	
+1013	BororoCampanha	EYE	eko / eka	eko	e k o	493	541	e k o	EYE	
+1014	BororoCampanha	EYE	eko / eka	eka	e k a	493	541	e k a	EYE	
+1233	BororoWestern(Castelnau)	EYE	itai	itai	t ai	216	244	t ai	EYE	
+1260	BororoSteinen	EYE	ioko	ioko	j o k o	216	296	j o k o	EYE	
 566	Otuke	BIRD	nahuahuoxio	nahuahuoxio	n a h ua h uo ʃ io	219	298	n a h ua h uo ʃ io	BIRD	
 567	Bororo	BIRD	kiogo	kiogo	k io ɡ ɤ	221	299	k io ɡ ɤ	BIRD	
 840	Umutina	BIRD	hjokore	hjokore	h j ɔ k ɔ + ɾ ɛ	221	299 484	h j ɔ k ɔ + ɾ ɛ	BIRD ?	
 568	Otuke	VULTURE	akarakapa	akarakapa	a k a r a k a p a	223	300	a k a r a k a p a	VULTURE	Urubu rei
 569	Bororo	VULTURE	poburewu	poburewu	p ɔ b u r e w u	224	301	p ɔ b u r e w u	VULTURE	
 574	Umutina	VULTURE	balatu	balatu	b a l a t u	230	304	b a l a t u	VULTURE	
-1181	Bororo Cabaçal	VULTURE	tuike	tuike	t ui k e	586	656	t ui k e	VULTURE	
+1181	BororoCabaçal	VULTURE	tuike	tuike	t ui k e	586	656	t ui k e	VULTURE	
 570	Umutina	HAWK	ajposepa	ajposepa	a j p o + s e p a	225	553 302	a j p o + s e p a	? HAWK	sp.
 760	Bororo	HAWK	aroeceba	aroeceba	a r oe + tʃ e b a	225	552 302	a r oe + tʃ e b a	SOUL HAWK	sp.
 575	Umutina	WHITE-LIPPED PECCARY	botoɾekaɾ / jowa	botoɾekaɾɛ	b o + t o ɾ e k a + ɾ ɛ	231	500 305 501	b o + t o ɾ e k a + ɾ ɛ	? WHITE_LIPPED_PECCARY ?	
 759	Bororo	WHITE-LIPPED PECCARY	tarigo / jugo	tarigo	t a r i g o	231	305	t a r i g o	WHITE_LIPPED_PECCARY	
 838	Umutina	WHITE-LIPPED PECCARY	botoɾekaɾ / jowa	jowa	dʒ o w a	455	483	dʒ o w a	WHITE_LIPPED_PECCARY	
 839	Bororo	WHITE-LIPPED PECCARY	tarigo / jugo	jugo	dʒ u + g ɔ	455	87 377	dʒ u + g ɔ	COLLARED_PECCARY FAT	Go from ka
-878	Bororo Campanha	WHITE-LIPPED PECCARY	juiga	juiga	dʒ u i + g a	455	87 377	dʒ u i + g a	COLLARED_PECCARY FAT	Go from ka
+878	BororoCampanha	WHITE-LIPPED PECCARY	juiga	juiga	dʒ u i + g a	455	87 377	dʒ u i + g a	COLLARED_PECCARY FAT	Go from ka
 578	Umutina	PARROT	ʒuɾi	ʒuɾi	ʒ u ɾ i	21	258	ʒ u ɾ i	PARROT	
 579	Bororo	PARROT	kʷuɾitaga	kʷuɾitaga	kʷ u ɾ i t a g a	234	258	kʷ u ɾ i t a g a	PARROT	
 580	Umutina	JABIRU (Jabiru mycteria)	mataja	mataja	m a t a j a	235	258	m a t a j a	JABIRU	
@@ -896,9 +896,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 590	Bororo	OWL	tagogo	tagogo	t a g ʌ g ʌ	289	309	t a g ʌ g ʌ	OWL	
 591	Umutina	CAIMAN	waʒu	waʒu	w a ʒ u	290	310	w a ʒ u	CAIMAN	
 592	Bororo	CAIMAN	uwai	uwai	u w ai	290	310	u w ai	CAIMAN	
-952	Bororo Cabaçal	CAIMAN	uie	uie	u i e	290	310	u i e	CAIMAN	
-988	Bororo São Lourenço	CAIMAN	uvai	uvai	u v ai	290	310	u v ai	CAIMAN	
-1285	Bororo (Steinen)	CAIMAN	uwai	uwai	u w ai	290	310	u w ai	CAIMAN	
+952	BororoCabaçal	CAIMAN	uie	uie	u i e	290	310	u i e	CAIMAN	
+988	BororoSãoLourenço	CAIMAN	uvai	uvai	u v ai	290	310	u v ai	CAIMAN	
+1285	BororoSteinen	CAIMAN	uwai	uwai	u w ai	290	310	u w ai	CAIMAN	
 593	Umutina	CURASSOW	ube	ube	u b e	291	311	u b e	CURASSOW	
 758	Bororo	CURASSOW	kuje	kuje	k u dʒ e	418	440	k u dʒ e	CURASSOW	
 595	Umutina	MONKEY	wutukuana	wutukuana	w u t u k ua n a	293	313	w u t u k ua n a	MONKEY	
@@ -925,29 +925,29 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 617	Otuke	BREAST	miaura	miaura	m i au r a	414	436	m i au r a	BREAST	
 752	Umutina	BREAST	monukwa	monukwa	m o n u kʷ a	413	435	m o n u kʷ a	BREAST	
 753	Bororo	BREAST	mokuro	mokuro	m o k u r o	414	436	m o k u r o	BREAST	
-1062	Bororo Cabaçal	BREAST	ba / ban	ba	b a	414	436	b a	BREAST	
-1084	Bororo Cabaçal	BREAST	ba / ban	ban	b a n	414	436	b a n	BREAST	
-1280	Bororo (Steinen)	BREAST	morora	morora	m o r o r a	414	436	m o r o r a	BREAST	
+1062	BororoCabaçal	BREAST	ba / ban	ba	b a	414	436	b a	BREAST	
+1084	BororoCabaçal	BREAST	ba / ban	ban	b a n	414	436	b a n	BREAST	
+1280	BororoSteinen	BREAST	morora	morora	m o r o r a	414	436	m o r o r a	BREAST	
 618	Otuke	TOBACCO	caha	caha	tʃ a h a	311	329	tʃ a h a	TOBACCO	
 751	Bororo	TOBACCO	mea	mea	m ea	412	434	m ea	TOBACCO	
-947	Bororo Cabaçal	TOBACCO	dʒia	dʒia	dʒ ia	502	551	dʒ ia	TOBACCO	
+947	BororoCabaçal	TOBACCO	dʒia	dʒia	dʒ ia	502	551	dʒ ia	TOBACCO	
 622	Umutina	THUNDER	vetororova / boina matare	vetororova	v e t o r o r o v a	314	332	v e t o r o r o v a	THUNDER	
 749	Umutina	THUNDER	vetororova / boina matare	boina matare	b oi n a + m a t a r e	411	433 660	b oi n a + m a t a r e	THUNDER ?	
 750	Bororo	THUNDER	boiaruru / boegabe	boiaruru	b oi a r u r u	411	433	b oi a r u r u	THUNDER	
 854	Bororo	THUNDER	boiaruru / boegabe	boegabe	b oe + g a b e	462	491 492	b oe + g a b e	THING SCREAM	
-855	Bororo Campanha	THUNDER	buikabe	buikabe	b ui + k a b e	462	491 492	b ui + k a b e	THING SCREAM	
-929	Bororo Cabaçal	THUNDER	galatu / gutaluru	galatu	g a l a t u	501	550	g a l a t u	THUNDER	
-1178	Bororo Cabaçal	THUNDER	galatu / gutaluru	gutaluru	g u t a l u ɾ u	584	654	g u t a l u ɾ u	THUNDER	
-1200	Bororo Western (Castelnau)	THUNDER	italoulou	italoulou	i t a l ou l ou	590	662	i t a l ou l ou	THUNDER	
+855	BororoCampanha	THUNDER	buikabe	buikabe	b ui + k a b e	462	491 492	b ui + k a b e	THING SCREAM	
+929	BororoCabaçal	THUNDER	galatu / gutaluru	galatu	g a l a t u	501	550	g a l a t u	THUNDER	
+1178	BororoCabaçal	THUNDER	galatu / gutaluru	gutaluru	g u t a l u ɾ u	584	654	g u t a l u ɾ u	THUNDER	
+1200	BororoWestern(Castelnau)	THUNDER	italoulou	italoulou	i t a l ou l ou	590	662	i t a l ou l ou	THUNDER	
 623	Otuke	WANT	viasike	viasike	v ia s i k e	315	333	v ia s i k e	WANT	
 748	Bororo	WANT	aidu	aidu	ai d u	405	428	ai d u	WANT	
 627	Otuke	BLUE-AND-YELLOW MACAW	karusane	karusane	k a r u s a n e	319	337	k a r u s a n e	MACAW	
 744	Umutina	BLUE-AND-YELLOW MACAW	alapore	alapore	a l a p o ɾ ɛ	407	430	a l a p o ɾ ɛ	MACAW	
-1211	Bororo Western (Castelnau)	BLUE-AND-YELLOW MACAW	araourai	araourai	a ɾ a ou ɾ ai	551	430	a ɾ a - - ou ɾ ai	MACAW	
+1211	BororoWestern(Castelnau)	BLUE-AND-YELLOW MACAW	araourai	araourai	a ɾ a ou ɾ ai	551	430	a ɾ a - - ou ɾ ai	MACAW	
 632	Otuke	BELLYBUTTON	cenapo	cenapo	tʃ e n a p o	323	342	tʃ e n a p o	BELLYBUTTON	
 742	Bororo	BELLYBUTTON	kunabo	kunabo	k u n a b o	323	342	k u n a b o	BELLYBUTTON	
 743	Umutina	BELLYBUTTON	upopono	upopono	u p o p o n o	406	429	u p o p o n o	BELLYBUTTON	
-1073	Bororo Cabaçal	BELLYBUTTON	babo	babo	b a b o	323	342	b a b o	BELLYBUTTON	
+1073	BororoCabaçal	BELLYBUTTON	babo	babo	b a b o	323	342	b a b o	BELLYBUTTON	
 637	Otuke	STRAW	oro	oro	o r o	328	347	o r o	STRAW	
 747	Bororo	STRAW	ba	ba	b a	410	432	b a	STRAW	
 639	Otuke	SLOTH	opohema	opohema	o p o h e m a	330	349	o p o h e m a	SLOTH	
@@ -956,27 +956,27 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 641	Otuke	SKIN	rivi	rivi	r i v i	332	351	r i v i	SKIN	
 738	Bororo	SKIN	bure	bure	b u r e	403	359	b u r e	SKIN	
 739	Umutina	SKIN	birika	birika	b i r i + k a	403	359 426	b i r i + k a	SKIN ?	
-995	Bororo São Lourenço	SKIN	miri	miri	m i r i	403	359	m i r i	SKIN	
+995	BororoSãoLourenço	SKIN	miri	miri	m i r i	403	359	m i r i	SKIN	
 643	Otuke	FATHER	ioxa	ioxa	j o x a	335	354	j o x a	FATHER	my father'
 644	Kuruminaka	FATHER	coko	coko	tʃ o k o	335	354	tʃ o k o	FATHER	my father'
 736	Umutina	FATHER	yuko	yuko	ʒ u k ɔ	335	354	ʒ u k ɔ	FATHER	my father'
 737	Bororo	FATHER	o	o	o	335	354	o	FATHER	ioga 'my father'
-910	Bororo Cabaçal	FATHER	itaua	itaua	i t a u a	335	354	i t a u a	FATHER	
-981	Bororo São Lourenço	FATHER	o	o	o	335	354	o	FATHER	my father' (cf. Bororo i-oga 'my father')
-1030	Bororo Campanha	FATHER	vacururu	vacururu	v a tʃ u r u r u	513	571	v a tʃ u r u r u	FATHER	our father'
+910	BororoCabaçal	FATHER	itaua	itaua	i t a u a	335	354	i t a u a	FATHER	
+981	BororoSãoLourenço	FATHER	o	o	o	335	354	o	FATHER	my father' (cf. Bororo i-oga 'my father')
+1030	BororoCampanha	FATHER	vacururu	vacururu	v a tʃ u r u r u	513	571	v a tʃ u r u r u	FATHER	our father'
 1110	Kovareka	FATHER	oxa	oxa	o x a	335	354	o x a	FATHER	my father'
-1299	Bororo (Steinen)	FATHER	iuga	iuga	o	335	354	o	FATHER	iuga 'my father'
+1299	BororoSteinen	FATHER	iuga	iuga	o	335	354	o	FATHER	iuga 'my father'
 646	Otuke	CRY	ohoateta	ohoateta	o h oa t e t a	336	355	o h oa t e t a	CRY	
 700	Bororo	CRY	aragydy	aragydy	a r a g ɯ d ɨ	380	403	a r a g ɯ d ɨ	CRY	
 701	Umutina	CRY	tua	tua	t ua	381	404	t ua	CRY	
 648	Otuke	FEATHER	navo	navo	n a v o	338	357	n a v o	FEATHER	
 699	Bororo	FEATHER	ikodo / by	ikodo	i k o d o	379	402	i k o d o	FEATHER	Of wing
 735	Umutina	FEATHER	ibotoka	ibotoka	i b o t o k a	339	358	i b o t o k a	FEATHER	
-950	Bororo Cabaçal	FEATHER	nahuirigete / ioto	nahuirigete	n a h u i ɾ i g e t e	338	357	n a h u i ɾ i g e t e	FEATHER	
-1141	Bororo Cabaçal	FEATHER	nahuirigete / ioto	ioto	i o t o	379	402	i o t o	FEATHER	
-1269	Bororo (Steinen)	FEATHER	ikäda / bo	ikäda	i k ʌ d ʌ	379	402	i k ʌ d ʌ	FEATHER	
+950	BororoCabaçal	FEATHER	nahuirigete / ioto	nahuirigete	n a h u i ɾ i g e t e	338	357	n a h u i ɾ i g e t e	FEATHER	
+1141	BororoCabaçal	FEATHER	nahuirigete / ioto	ioto	i o t o	379	402	i o t o	FEATHER	
+1269	BororoSteinen	FEATHER	ikäda / bo	ikäda	i k ʌ d ʌ	379	402	i k ʌ d ʌ	FEATHER	
 1270	Bororo	FEATHER	ikodo / by	by	b ɯ	338	357	b ɯ	HAIR	
-1271	Bororo (Steinen)	FEATHER	ikäda / bo	bo	b o	338	357	b o	HAIR	
+1271	BororoSteinen	FEATHER	ikäda / bo	bo	b o	338	357	b o	HAIR	
 649	Otuke	WRIST	yuna ra	yuna ra	j u n a + ɾ a	378	400 401	j u n a + ɾ a	HAND ?	
 698	Bororo	WRIST	iera paru	iera paru	ie ɾ a + p a ɾ u	378	400 401	ie ɾ a + p a ɾ u	HAND ?	
 734	Umutina	WRIST	iata pare	iata pare	j a t a + p a ɾ e	378	400 401	j a t a + p a ɾ e	HAND ?	
@@ -1014,7 +1014,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 666	Otuke	EYEBROW	reka vi	reka vi	r e k a + v i	352	373 374	r e k a + v i	EYEBROW HAIR	
 682	Umutina	EYEBROW	zimoʃika	zimoʃika	z i m o ʃ i k a	364	386	z i m o ʃ i k a	EYEBROW	
 683	Bororo	EYEBROW	dʒerira bu	dʒerira bu	dʒ e ɾ i ɾ a + b u	365	387 388	dʒ e ɾ i ɾ a + b u	FRONTAL HAIR	
-1275	Bororo (Steinen)	EYEBROW	iokoparirabo	iokoparirabo	io k o + p a r i r a + b o	365	296 685 357	io k o + p a r i r a + b o	EYE ? HAIR	
+1275	BororoSteinen	EYEBROW	iokoparirabo	iokoparirabo	io k o + p a r i r a + b o	365	296 685 357	io k o + p a r i r a + b o	EYE ? HAIR	
 667	Umutina	HUNT	kimolo	kimolo	k i m o l o	353	375	k i m o l o	HUNT	
 705	Bororo	HUNT	meri	meri	m e ɾ i	384	254	- m e ɾ i	HUNT	
 668	Umutina	FAT	ramu	ramu	ɾ a m u	354	376	ɾ a m u	FAT	
@@ -1022,21 +1022,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 670	Umutina	HEAD	tori	tori	t ɔ ɾ i	356	378	t ɔ ɾ i	HEAD	
 671	Bororo	HEAD	ao / aora	aora	ao ɾ a	357	379	ao ɾ a	HEAD	
 672	Bororo	HEAD	ao / aora	ao	ao	357	379	ao	HEAD	
-817	Bororo Campanha	HEAD	aora	aora	ao ɾ a	357	379	ao ɾ a	HEAD	
-917	Bororo Cabaçal	HEAD	ite / atschirima	ite	i t e	540	602	i t e	HEAD	
-1152	Bororo Cabaçal	HEAD	ite / atschirima	atschirima	a tʃ i ɾ i m a	567	633	a tʃ i ɾ i m a	?	
-1188	Bororo Western (Castelnau)	HEAD	ita-wara	ita-wara	o a ɾ a	357	379	o a ɾ a	? ?	
-1272	Bororo (Steinen)	HEAD	aora	aora	ao ɾ a	357	379	ao ɾ a	HEAD	The first person is given with -t- and with -k-: it-aora / ik-aora
+817	BororoCampanha	HEAD	aora	aora	ao ɾ a	357	379	ao ɾ a	HEAD	
+917	BororoCabaçal	HEAD	ite / atschirima	ite	i t e	540	602	i t e	HEAD	
+1152	BororoCabaçal	HEAD	ite / atschirima	atschirima	a tʃ i ɾ i m a	567	633	a tʃ i ɾ i m a	?	
+1188	BororoWestern(Castelnau)	HEAD	ita-wara	ita-wara	o a ɾ a	357	379	o a ɾ a	? ?	
+1272	BororoSteinen	HEAD	aora	aora	ao ɾ a	357	379	ao ɾ a	HEAD	The first person is given with -t- and with -k-: it-aora / ik-aora
 673	Bororo	HOT	urureu / boeru	urureu	u ɾ u ɾ eu	358	380	u ɾ u ɾ eu	HEAT	
 674	Umutina	HOT	amaru	amaru	a m a ɾ u	358	380	a m a ɾ u	HEAT	
 675	Bororo	HOT	urureu / boeru	boeru	b oe ɾ u	358	380	b oe ɾ u	HEAT	
-859	Bororo Campanha	HOT	baieru	baieru	b ai e ɾ u	358	380	b ai e ɾ u	HEAT	
-1029	Bororo Cabaçal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	warm given
+859	BororoCampanha	HOT	baieru	baieru	b ai e ɾ u	358	380	b ai e ɾ u	HEAT	
+1029	BororoCabaçal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	warm given
 676	Umutina	COMB	putɨka	putɨka	p u t ɨ k a	359	381	p u t ɨ k a	COMB	
 677	Bororo	COMB	puduga	puduga	p u d u g a	359	381	p u d u g a	COMB	
 678	Umutina	GREEN	akɨ	akɨ	a k ɨ	360	382	a k ɨ	GREEN	
 679	Bororo	GREEN	kaworu	kaworu	k a w o ɾ u	361	383	k a w o ɾ u	GREEN	
-1001	Bororo Campanha	GREEN	eku	eku	e k u	360	382	e k u	GREEN	
+1001	BororoCampanha	GREEN	eku	eku	e k u	360	382	e k u	GREEN	
 680	Umutina	CROOKED	roto	roto	ɾ o t o	362	384	ɾ o t o	CROOKED	
 681	Bororo	CROOKED	meki(reu)	meki	m e k i	363	385	m e k i	CROOKED	
 773	Umutina	BASKET	matapi	matapi	m a t a p i	423	259	m a t a p i	BASKET	
@@ -1051,31 +1051,31 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 782	Bororo	CATFISH	jarudo	jarudo	dʒ a r u d o	430	453	dʒ a r u d o	CATFISH	
 783	Umutina	DORADO (Salminus brasiliensis)	oze	oze	o z e	431	454	o z e	DORADO	
 784	Bororo	DORADO (Salminus brasiliensis)	koge	koge	k o g e	431	454	k o g e	DORADO	
-868	Bororo Campanha	DORADO (Salminus brasiliensis)	okoge	okoge	o k o g e	431	454	o k o g e	DORADO	
-1040	Bororo São Lourenço	DORADO (Salminus brasiliensis)	koge	koge	k o g e	431	454	k o g e	DORADO	
+868	BororoCampanha	DORADO (Salminus brasiliensis)	okoge	okoge	o k o g e	431	454	o k o g e	DORADO	
+1040	BororoSãoLourenço	DORADO (Salminus brasiliensis)	koge	koge	k o g e	431	454	k o g e	DORADO	
 786	Umutina	FLOUR	zukuparika	zukuparika	ʒ u k u p a ɾ i k a	432	455	ʒ u k u p a ɾ i k a	FLOUR	
 787	Bororo	FLOUR	kudu	kudu	k u d u	433	456	k u d u	FLOUR	
 788	Umutina	HERON	bakalana	bakalana	b a k a l a n a	434	457	b a k a l a n a	HERON	
 789	Bororo	HERON	bace	bace	b a tʃ e	434	357	b a tʃ e	HERON	
 790	Umutina	HEN	wasamity	wasamity	w a s a m i t ɨ	435	458	w a s a m i t ɨ	HEN	
 791	Bororo	HEN	kogoriga	kogoriga	k o g o r i g a	436	459	k o g o r i g a	HEN	
-944	Bororo Cabaçal	HEN	kotala	kotala	k o t a l a	539	601	k o t a l a	HEN	
+944	BororoCabaçal	HEN	kotala	kotala	k o t a l a	539	601	k o t a l a	HEN	
 795	Umutina	RED	berety	berety	b ɛ ɾ ɛ t ɨ	441	464	b ɛ ɾ ɛ t ɨ	RED	
 796	Bororo	RED	kujago / rugu	kujago	k u dʒ a g o	440	463	k u dʒ a g o	RED	
 797	Bororo	RED	kujago / rugu	rugu	ɾ u g u	442	465	ɾ u g u	RED	
-966	Bororo Cabaçal	RED	garaturete / eri	garaturete	g a ɾ a t u r e t e	334	353	g a ɾ a t u r e t e	RED	
-1000	Bororo Campanha	RED	kutschago	kutschago	k u tʃ a g o	440	463	k u tʃ a g o	RED	
-1167	Bororo Cabaçal	RED	garaturete / eri	eri	e ɾ i	578	647	e ɾ i	RED	
+966	BororoCabaçal	RED	garaturete / eri	garaturete	g a ɾ a t u r e t e	334	353	g a ɾ a t u r e t e	RED	
+1000	BororoCampanha	RED	kutschago	kutschago	k u tʃ a g o	440	463	k u tʃ a g o	RED	
+1167	BororoCabaçal	RED	garaturete / eri	eri	e ɾ i	578	647	e ɾ i	RED	
 802	Bororo	RHEA (RHEA AMERICANA)	pari / kui	pari	p a r i	444	467	p a r i	RHEA	
 803	Otuke	RHEA (RHEA AMERICANA)	hahari	hahari	h a h a r i	444	467	h a h a r i	RHEA	
-1168	Bororo Cabaçal	RHEA (RHEA AMERICANA)	pari / kui	kui	k ui	579	648	k ui	RHEA	
+1168	BororoCabaçal	RHEA (RHEA AMERICANA)	pari / kui	kui	k ui	579	648	k ui	RHEA	
 811	Bororo	HUSBAND	oɾedy	oɾedy	o ɾ e d ɨ	446	473	o ɾ e d ɨ	HUSBAND	
-812	Bororo Campanha	HUSBAND	olete	olete	o l e t e	446	473	o l e t e	HUSBAND	
-915	Bororo Cabaçal	HUSBAND	iguri	iguri	g u ɾ i	480	516	g u ɾ i	OLDER.BROTHER	i-wuri 'my older brother' in Bororo
+812	BororoCampanha	HUSBAND	olete	olete	o l e t e	446	473	o l e t e	HUSBAND	
+915	BororoCabaçal	HUSBAND	iguri	iguri	g u ɾ i	480	516	g u ɾ i	OLDER.BROTHER	i-wuri 'my older brother' in Bororo
 813	Bororo	WIFE	oredyje	oredyje	o ɾ e d ɨ + dʒ e	447	473 474	o ɾ e d ɨ + dʒ e	HUSBAND ?	
-814	Bororo Campanha	WIFE	oretxe	oretxe	o ɾ e + tʃ e	447	473 474	o ɾ e + tʃ e	HUSBAND ?	
-916	Bororo Cabaçal	WIFE	itege	itege	t e g e	479	515	t e g e	HUSBAND	
-815	Bororo Campanha	OLDER SISTER	stie	stie	s t ie	449	476	s t ie	OLDER_SISTER	
+814	BororoCampanha	WIFE	oretxe	oretxe	o ɾ e + tʃ e	447	473 474	o ɾ e + tʃ e	HUSBAND ?	
+916	BororoCabaçal	WIFE	itege	itege	t e g e	479	515	t e g e	HUSBAND	
+815	BororoCampanha	OLDER SISTER	stie	stie	s t ie	449	476	s t ie	OLDER_SISTER	
 816	Bororo	OLDER SISTER	tuie	tuie	t uie	449	476	t uie	OLDER_SISTER	
 823	Bororo	SOUL	aroe	aroe	a ɾ oe	450	477	a ɾ oe	SOUL	
 829	Bororo	KILL	bito	bito	b i + t o	448	99 479	b i + t o	DIE CAUSATIVE	
@@ -1084,110 +1084,110 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 834	Bororo	FLEE	rekodydä	rekodydä	r e k o d ɯ d ʌ	452	480	r e k o d ɯ d ʌ	FLEE	
 1286	Umutina	FLEE	hiʒerere / aritipakixi	aritipakixi	a ɾ i t i + p a k i ʃ i	310	688 112	a ɾ i t i + p a k i ʃ i	RUN FEAR	
 836	Umutina	PAPAYA	hapanu	hapanu	h a p a n u	453	481	h a p a n u	PAPAYA	
-948	Bororo Cabaçal	PAPAYA	dʒamaio	dʒamaio	dʒ a m a io	478	514	dʒ a m a io	PAPAYA	
+948	BororoCabaçal	PAPAYA	dʒamaio	dʒamaio	dʒ a m a io	478	514	dʒ a m a io	PAPAYA	
 843	Bororo	DRY FIREWOOD	jerigi	jerigi	dʒ e r i g i	458	486	dʒ e r i g i	WOOD	
-847	Bororo Campanha	COLD SOUTH WIND	boia koda	boia koda	b oi a + k o d a	460	86 488	b oi a + k o d a	COLD PATH	Bororo baiaky (boe + aky) koda
+847	BororoCampanha	COLD SOUTH WIND	boia koda	boia koda	b oi a + k o d a	460	86 488	b oi a + k o d a	COLD PATH	Bororo baiaky (boe + aky) koda
 852	Bororo	LIGHTNING	boeragudy	boeragudy	b oe + r a g u d ɨ	461	490 116	b oe + r a g u d ɨ	THING FIRE	
-853	Bororo Campanha	LIGHTNING	builagete	builagete	b ui + l a g e t e	461	490 116	b ui + l a g e t e	THING FIRE	
-1157	Bororo Cabaçal	LIGHTNING	hoogu toldu	hoogu toldu	h oː g u + t o l d u	570	638 116	h oː g u + t o l d u	? FIRE	
+853	BororoCampanha	LIGHTNING	builagete	builagete	b ui + l a g e t e	461	490 116	b ui + l a g e t e	THING FIRE	
+1157	BororoCabaçal	LIGHTNING	hoogu toldu	hoogu toldu	h oː g u + t o l d u	570	638 116	h oː g u + t o l d u	? FIRE	
 1191	Umutina	LIGHTNING	barato	barato	b a + r a t o	461	490 116	b a + r a t o	THING FIRE	
-1201	Bororo Western (Castelnau)	LIGHTNING	irato	irato	i ɾ a t o	591	663	i ɾ a t o	THUNDER	
+1201	BororoWestern(Castelnau)	LIGHTNING	irato	irato	i ɾ a t o	591	663	i ɾ a t o	THUNDER	
 860	Bororo	MILK	mokuro kuru	mokuru kuru	m o k u r u + k u r u	463	436 493	m o k u r u + k u r u	BREAST LIQUID	
-861	Bororo Campanha	MILK	mokrokuru	mokrokuru	m o k r o + k u r u	463	436 493	m o k r o + k u r u	BREAST LIQUID	
-922	Bororo Cabaçal	MILK	boe / bo	boe	b oe	488	530	b oe	MILK	
-1158	Bororo Cabaçal	MILK	boe / bo	bo	b o	488	530	b o	MILK	
-866	Bororo Campanha	GIANT GRASS	metoro	metoro	m e t o ɾ o	465	494	m e t o ɾ o	GIANT.GRASS	
-870	Bororo Campanha	HORSE	kavaru	kavaru	k a v a ɾ u	466	496	k a v a ɾ u	HORSE	Portuguese loan
+861	BororoCampanha	MILK	mokrokuru	mokrokuru	m o k r o + k u r u	463	436 493	m o k r o + k u r u	BREAST LIQUID	
+922	BororoCabaçal	MILK	boe / bo	boe	b oe	488	530	b oe	MILK	
+1158	BororoCabaçal	MILK	boe / bo	bo	b o	488	530	b o	MILK	
+866	BororoCampanha	GIANT GRASS	metoro	metoro	m e t o ɾ o	465	494	m e t o ɾ o	GIANT.GRASS	
+870	BororoCampanha	HORSE	kavaru	kavaru	k a v a ɾ u	466	496	k a v a ɾ u	HORSE	Portuguese loan
 871	Bororo	HORSE	kawaru	kawaru	k a w a ɾ u	466	496	k a w a ɾ u	HORSE	Portuguese loan
-1153	Bororo Cabaçal	HORSE	kagallu	kagallu	k a g a lː u	466	496	k a g a lː u	HORSE	
+1153	BororoCabaçal	HORSE	kagallu	kagallu	k a g a lː u	466	496	k a g a lː u	HORSE	
 1192	Umutina	HORSE	hamonomiti	hamonomiti	h a m o n o m i t i	569	489	h a m o n o m i t i	HORSE	
-1205	Bororo Western (Castelnau)	HORSE	mauta	mauta	m au t a	593	665	m au t a	HORSE	
+1205	BororoWestern(Castelnau)	HORSE	mauta	mauta	m au t a	593	665	m au t a	HORSE	
 872	Bororo	COW	tapira	tapira	t a p i ɾ a	467	497	t a p i ɾ a	COW	Loan from an unknown TG language
-873	Bororo Campanha	COW	dabira	dabira	d a b i ɾ a	467	497	d a b i ɾ a	COW	Loan from an unknown TG language
-940	Bororo Cabaçal	COW	davira / gacca	davira	d a v i ɾ a	467	497	d a v i ɾ a	COW	Loan from an unknown TG language
-1131	Bororo Cabaçal	COW	davira / gacca	gaka	g a kː a	557	622	g a kː a	COW	
-876	Bororo Campanha	RED BROCKET (Mazama americana)	epoboga	epoboga	e p o b o g a	469	498	e p o b o g a	RED.BROCKET	
+873	BororoCampanha	COW	dabira	dabira	d a b i ɾ a	467	497	d a b i ɾ a	COW	Loan from an unknown TG language
+940	BororoCabaçal	COW	davira / gacca	davira	d a v i ɾ a	467	497	d a v i ɾ a	COW	Loan from an unknown TG language
+1131	BororoCabaçal	COW	davira / gacca	gaka	g a kː a	557	622	g a kː a	COW	
+876	BororoCampanha	RED BROCKET (Mazama americana)	epoboga	epoboga	e p o b o g a	469	498	e p o b o g a	RED.BROCKET	
 877	Bororo	RED BROCKET (Mazama americana)	pobogo	pobogo	p o b o g o	469	498	p o b o g o	RED.BROCKET	
 892	Bororo	WING	kana / ikodu	ikodu	i k o d u	472	504	i k o d u	WING	
 893	Umutina	WING	iʃuda	iʃuda	i ʃ u d a	472	504	i ʃ u d a	WING	
 894	Bororo	WING	kana / ikodu	kana	k a n a	471	503	k a n a	ARM	
-1268	Bororo (Steinen)	WING	kana	kana	k a n a	471	503	k a n a	WING	
+1268	BororoSteinen	WING	kana	kana	k a n a	471	503	k a n a	WING	
 901	Bororo	NEST	baradu	baradu	b a r a d u	473	507	b a r a d u	NEST	
 902	Umutina	NEST	walatu	walatu	w a l a t u	473	507	w a l a t u	NEST	
 903	Bororo	MANGABA (Hancornia speciosa)	bato	bato	b a t o	474	508	b a t o	MANGABA	
 904	Umutina	MANGABA (Hancornia speciosa)	batorukwa	batorukwa	b a t o + r u kʷ a	474	508 509	b a t o + r u kʷ a	MANGABA	
-908	Bororo Cabaçal	GOD	tupa / tuba / tatu capitan	tupa	t u p a	477	513	t u p a	GOD	From a TG language
-909	Bororo Cabaçal	GOD	tupa / tuba / tatu capitan	tuba	t u b a	477	513	t u b a	GOD	Loan from a TG language
-1149	Bororo Cabaçal	GOD	tupa / tuba / tatu capitan	tatu capitan	t a t u + c a p i t a n	565	631	t a t u + c a p i t a n	GOD	
-1186	Bororo Western (Castelnau)	GOD	itopa / toua	itopa	i t o p a	477	659 513	i t o p a	? GOD	From a Tupi-Guarani language
-1187	Bororo Western (Castelnau)	GOD	itopa / toua	toua	t ou a	477	513	t ou a	GOD	From a Tupi-Guarani language
-912	Bororo Cabaçal	CHIEF	bako	bako	b a k o	518	576	b a k o	CHIEF	
-1045	Bororo Campanha	CHIEF	cedare	cedare	tʃ e + d a r e	512	294 572	tʃ e + d a r e	WE.(EXCLUSIVE) FATHER	
+908	BororoCabaçal	GOD	tupa / tuba / tatu capitan	tupa	t u p a	477	513	t u p a	GOD	From a TG language
+909	BororoCabaçal	GOD	tupa / tuba / tatu capitan	tuba	t u b a	477	513	t u b a	GOD	Loan from a TG language
+1149	BororoCabaçal	GOD	tupa / tuba / tatu capitan	tatu capitan	t a t u + c a p i t a n	565	631	t a t u + c a p i t a n	GOD	
+1186	BororoWestern(Castelnau)	GOD	itopa / toua	itopa	i t o p a	477	659 513	i t o p a	? GOD	From a Tupi-Guarani language
+1187	BororoWestern(Castelnau)	GOD	itopa / toua	toua	t ou a	477	513	t ou a	GOD	From a Tupi-Guarani language
+912	BororoCabaçal	CHIEF	bako	bako	b a k o	518	576	b a k o	CHIEF	
+1045	BororoCampanha	CHIEF	cedare	cedare	tʃ e + d a r e	512	294 572	tʃ e + d a r e	WE.(EXCLUSIVE) FATHER	
 1046	Bororo	CHIEF	cedare / imejera	cedare	tʃ e + d a r e	512	294 572	tʃ e + d a r e	WE.(EXCLUSIVE) FATHER	Only ritual language
 1049	Umutina	CHIEF	bako	bako	b a k o	518	576	b a k o	CHIEF	
 1050	Bororo	CHIEF	cedare / imejera	imejera	i m e j e r a	519	577	i m e j e r a	CHIEF	
-914	Bororo Cabaçal	SISTER	igatare	igatare	i g a t a ɾ e	548	611	i g a t a ɾ e	SISTER	
+914	BororoCabaçal	SISTER	igatare	igatare	i g a t a ɾ e	548	611	i g a t a ɾ e	SISTER	
 1119	Umutina	SISTER	amalato	amalato	a m a l a t o	549	612	a m a l a t o	SISTER	
-951	Bororo Cabaçal	CROW	uvaitete	uvaitete	u v a i t e t e	526	587	u v a i t e t e	CROW	
-956	Bororo Cabaçal	KNIFE	katogaia	katogaia	k a t o g a ia	516	574	k a t o g a ia	KNIFE	
+951	BororoCabaçal	CROW	uvaitete	uvaitete	u v a i t e t e	526	587	u v a i t e t e	CROW	
+956	BororoCabaçal	KNIFE	katogaia	katogaia	k a t o g a ia	516	574	k a t o g a ia	KNIFE	
 1048	Bororo	KNIFE	toriga	toriga	t o r i g a	517	575	t o r i g a	KNIFE	
-1217	Bororo Western (Castelnau)	KNIFE	catoquai-ai	catoquai-ai	c a t o k u a i + a i	516	574 670	c a t o k u a i + a i	KNIFE ?	
-958	Bororo Cabaçal	NET	galatu / ascho	galatu	g a l a t u	534	595	g a l a t u	NET	
+1217	BororoWestern(Castelnau)	KNIFE	catoquai-ai	catoquai-ai	c a t o k u a i + a i	516	574 670	c a t o k u a i + a i	KNIFE ?	
+958	BororoCabaçal	NET	galatu / ascho	galatu	g a l a t u	534	595	g a l a t u	NET	
 1086	Umutina	NET	buke	buke	b u k e	533	594	b u k e	NET	
-1160	Bororo Cabaçal	NET	galatu / ascho	ascho	a ʃ o	571	639	a ʃ o	NET	
-959	Bororo Cabaçal	HORN	udega / utega	udega	u d e g a	538	599	u d e g a	HORN	
+1160	BororoCabaçal	NET	galatu / ascho	ascho	a ʃ o	571	639	a ʃ o	NET	
+959	BororoCabaçal	HORN	udega / utega	udega	u d e g a	538	599	u d e g a	HORN	
 1088	Bororo	HORN	kiga	kiga	k i g a	537	600	k i g a	HORN	
-1154	Bororo Cabaçal	HORN	udega / utega	utega	u t e g a	538	599	u t e g a	HORN	
-960	Bororo Cabaçal	BLOW	dʒori / toaltu	dʒori	dʒ o ɾ i	525	586	dʒ o ɾ i	BLOW	
+1154	BororoCabaçal	HORN	udega / utega	utega	u t e g a	538	599	u t e g a	HORN	
+960	BororoCabaçal	BLOW	dʒori / toaltu	dʒori	dʒ o ɾ i	525	586	dʒ o ɾ i	BLOW	
 1079	Bororo	BLOW	okwamu	okwamu	o kʷ a m u	524	651	o kʷ a m u	BLOW	
 1080	Umutina	BLOW	uami	uami	ua m i	524	651	ua m i	BLOW	
-1126	Bororo Cabaçal	BLOW	dʒori / toaltu	toaltu	t oa l t u	553	617	t oa l t u	BLOW	
-1231	Bororo Western (Castelnau)	BLOW	tolu	tolu	t o l u	553	617	t o l u	BLOW	
-961	Bororo Cabaçal	BITE	itote / tote	itote	i t o t e	508	566	i t o t e	BITE	
+1126	BororoCabaçal	BLOW	dʒori / toaltu	toaltu	t oa l t u	553	617	t oa l t u	BLOW	
+1231	BororoWestern(Castelnau)	BLOW	tolu	tolu	t o l u	553	617	t o l u	BLOW	
+961	BororoCabaçal	BITE	itote / tote	itote	i t o t e	508	566	i t o t e	BITE	
 1037	Bororo	BITE	oedo	oedo	oe d o	509	567	oe d o	BITE	
 1038	Umutina	BITE	bohai	bohai	b o h ai	510	568	b o h ai	BITE	
-1124	Bororo Cabaçal	BITE	itote / tote	tote	t o t e	508	566	t o t e	BITE	
-962	Bororo Cabaçal	POT	ufa / alia	ufa	u f a	506	564	u f a	POT	
+1124	BororoCabaçal	BITE	itote / tote	tote	t o t e	508	566	t o t e	BITE	
+962	BororoCabaçal	POT	ufa / alia	ufa	u f a	506	564	u f a	POT	
 1036	Umutina	POT	poirikopo	poirikopo	p u ɾ i k u p u	507	565	p u ɾ i k u p u	POT	
-1165	Bororo Cabaçal	POT	ufa / alia	alia	a l ia	576	645	a l ia	POT	
-965	Bororo Cabaçal	BLACK	tʃoeto / ge	tʃoeto	tʃ oe t o	476	512	tʃ oe t o	BLACK	
+1165	BororoCabaçal	POT	ufa / alia	alia	a l ia	576	645	a l ia	POT	
+965	BororoCabaçal	BLACK	tʃoeto / ge	tʃoeto	tʃ oe t o	476	512	tʃ oe t o	BLACK	
 978	Bororo	BLACK	core	core	tʃ o r e	476	512	tʃ o r e	BLACK	
 979	Umutina	BLACK	bolotoxixi	bolotoxixi	b o l o t o ʃ i ʃ i	475	512	b o l o t o ʃ i ʃ i	BLACK	Also means 'dark' and 'night'
-999	Bororo Campanha	BLACK	tscho	tscho	tʃ o	476	512	tʃ o	BLACK	
-1125	Bororo Cabaçal	BLACK	tʃoeto / ge	ge	g e	552	616	g e	BLACK	
-985	Bororo São Lourenço	BELT	kada bina	kada bina	k a d a + b i n a	489	531 532	k a d a + b i n a	BELT	
-1010	Bororo Campanha	FOUR	eh magane	eh magane	e h + m a g a n e	491	536 537	e h + m a g a n e	? ?	
-1011	Bororo Campanha	FEW	e noi gaka	e noi gaka	e + n o i + g a k a	492	538 539 540	e + n o i + g a k a	? ? ?	
-1018	Bororo Cabaçal	LIP	inoga poon	inoga poon	o g a + p oː n	496	208 544	o g a + p oː n	MOUTH ?	Plural given
-1055	Bororo Campanha	LIP	okwa	okwa	o kʷ a	496	208	o kʷ a	MOUTH	
-1065	Bororo Cabaçal	LIP	naagiri	naagiri	n aː g i ɾ i	535	596	n aː g i ɾ i	LIP	
-1023	Bororo Campanha	BELLY	ikuri	ikuri	k u r i	500	549	k u r i	BELLY	
+999	BororoCampanha	BLACK	tscho	tscho	tʃ o	476	512	tʃ o	BLACK	
+1125	BororoCabaçal	BLACK	tʃoeto / ge	ge	g e	552	616	g e	BLACK	
+985	BororoSãoLourenço	BELT	kada bina	kada bina	k a d a + b i n a	489	531 532	k a d a + b i n a	BELT	
+1010	BororoCampanha	FOUR	eh magane	eh magane	e h + m a g a n e	491	536 537	e h + m a g a n e	? ?	
+1011	BororoCampanha	FEW	e noi gaka	e noi gaka	e + n o i + g a k a	492	538 539 540	e + n o i + g a k a	? ? ?	
+1018	BororoCabaçal	LIP	inoga poon	inoga poon	o g a + p oː n	496	208 544	o g a + p oː n	MOUTH ?	Plural given
+1055	BororoCampanha	LIP	okwa	okwa	o kʷ a	496	208	o kʷ a	MOUTH	
+1065	BororoCabaçal	LIP	naagiri	naagiri	n aː g i ɾ i	535	596	n aː g i ɾ i	LIP	
+1023	BororoCampanha	BELLY	ikuri	ikuri	k u r i	500	549	k u r i	BELLY	
 1031	Bororo	BELLY	kubaru	kubaru	k u b a r u	499	548	k u b a r u	BELLY	
 1054	Umutina	BELLY	uki	uki	u k i	522	582	u k i	BELLY	
-1064	Bororo Cabaçal	BELLY	juri / uli	juri	j u ɾ i	500	549	j u ɾ i	BELLY	
-1070	Bororo Cabaçal	BELLY	juri / uli	uli	u l i	500	549	u l i	BELLY	
-1240	Bororo Western (Castelnau)	BELLY	ouri	ouri	ou r i	500	549	ou r i	BELLY	
-1025	Bororo Cabaçal	TOE	igureri	igureri	g u + r e + r i	521	10 114 579	g u + r e + r i	FINGER 114 ?	Plural given
+1064	BororoCabaçal	BELLY	juri / uli	juri	j u ɾ i	500	549	j u ɾ i	BELLY	
+1070	BororoCabaçal	BELLY	juri / uli	uli	u l i	500	549	u l i	BELLY	
+1240	BororoWestern(Castelnau)	BELLY	ouri	ouri	ou r i	500	549	ou r i	BELLY	
+1025	BororoCabaçal	TOE	igureri	igureri	g u + r e + r i	521	10 114 579	g u + r e + r i	FINGER 114 ?	Plural given
 1052	Umutina	TOE	ibuɾɛnokwa	ibuɾɛnokwa	b u + ɾ ɛ + n o + kʷ a	521	10 114 580 581	b u + ɾ ɛ + n o + kʷ a	FOOR FINGER ? BODY.PART	
 1053	Bororo	TOE	bureko	bureko	b u + ɾ e k o	521	10 114	b u + ɾ e k o	FOOT FINGER	
-1041	Bororo Campanha	WHITE PERSON	balaeta / brate / baraete	balaeta	b a l ae t a	459	569	b a l ae t a	WHITE.PERSON	
+1041	BororoCampanha	WHITE PERSON	balaeta / brate / baraete	balaeta	b a l ae t a	459	569	b a l ae t a	WHITE.PERSON	
 1042	Bororo	WHITE PERSON	baraedy	baraedy	b ɾ ae d ɨ	459	569	b ɾ ae d ɨ	WHITE.PERSON	
-1047	Bororo São Lourenço	WHITE PERSON	boba	boba	b o b a	515	569	b o b a	WHITE.PERSON	
+1047	BororoSãoLourenço	WHITE PERSON	boba	boba	b o b a	515	569	b o b a	WHITE.PERSON	
 1051	Umutina	WHITE PERSON	wase	wase	w a s e	520	578	w a s e	WHITE.PERSON	
-1043	Bororo Campanha	BLACK PERSON	tabaete	tabaete	t a b ae t e	511	570	t a b ae t e	BLACK.PERSON	
+1043	BororoCampanha	BLACK PERSON	tabaete	tabaete	t a b ae t e	511	570	t a b ae t e	BLACK.PERSON	
 1044	Bororo	BLACK PERSON	tabae	tabae	t a b ae	511	570	t a b ae	BLACK.PERSON	Obsolete
-1057	Bororo Campanha	ANATTO	nonoko	nonoko	n o n o k o	190	529	n o n o k o	ANATTO	
-1061	Bororo São Lourenço	ANATTO	nonoko	nonoko	n o n o k o	190	529	n o n o k o	ANATTO	
-1058	Bororo Campanha	SHAMAN	okoge	okoge	o k o g e	226	543	o k o g e	SHAMAN	
-1059	Bororo Campanha	MEDICINE	dschorubac	dschorubac	dʒ o r u b a c	275	583	dʒ o r u b a c	MEDICINE	
+1057	BororoCampanha	ANATTO	nonoko	nonoko	n o n o k o	190	529	n o n o k o	ANATTO	
+1061	BororoSãoLourenço	ANATTO	nonoko	nonoko	n o n o k o	190	529	n o n o k o	ANATTO	
+1058	BororoCampanha	SHAMAN	okoge	okoge	o k o g e	226	543	o k o g e	SHAMAN	
+1059	BororoCampanha	MEDICINE	dschorubac	dschorubac	dʒ o r u b a c	275	583	dʒ o r u b a c	MEDICINE	
 1069	Bororo	MEDICINE	jorubo	jorubo	dʒ o r u b o	275	583	dʒ o r u b o	MEDICINE	
-1060	Bororo Campanha	POISON	dschorubac	dschorubac	dʒ o r u b a c	495	583	dʒ o r u b a c	MEDICINE	
+1060	BororoCampanha	POISON	dschorubac	dschorubac	dʒ o r u b a c	495	583	dʒ o r u b a c	MEDICINE	
 1068	Bororo	POISON	jorubo	jorubo	dʒ o r u b o	495	583	dʒ o r u b o	MEDICINE	
-1074	Bororo Cabaçal	VAGINA	ga	ga	g a	541	160	g a	VAGINA	
+1074	BororoCabaçal	VAGINA	ga	ga	g a	541	160	g a	VAGINA	
 1090	Bororo	VAGINA	ja / omogo	ja	dʒ a	543	604	dʒ a	VAGINA	
 1091	Bororo	VAGINA	a / omogo	omogo	o m o g o	542	603	o m o g o	VAGINA	
 1092	Umutina	VAGINA	omu	ou	o m u	542	603	o m u	VAGINA	
-1078	Bororo Cabaçal	POTATO	galaru	galaru	g a l a ɾ u	531	592	g a l a ɾ u	POTATO	
+1078	BororoCabaçal	POTATO	galaru	galaru	g a l a ɾ u	531	592	g a l a ɾ u	POTATO	
 1083	Bororo	POTATO	tadari	taradi	t a d a r i	530	591	t a d a r i	POTATO	
 1085	Umutina	POTATO	balaɾukupo	balaɾukupo	b a l a ɾ u + k u p o	531	592 684	b a l a ɾ u + k u p o	POTATO ?	
 1081	Bororo	FOOD	ke	ke	k e	528	588	k e	FOOD	
@@ -1205,34 +1205,34 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1115	Kuruminaka	COME HERE	mate	mate	m a t e	316	334	m a t e	HITHER	
 1116	Kovareka	COME HERE	mate	mate	m a t e	316	334	m a t e	HITHER	
 1117	Otuke	COME HERE	ate	ate	a t e	316	334	a t e	HITHER	
-1121	Bororo Cabaçal	ARARA	ana hule	ana hule	a n a + h u l e	551	614 615	a n a + h u l e	? ?	
-1127	Bororo Cabaçal	BLUE	aadi / aali	aadi	aː d i	554	618	aː d i	BLUE	
-1128	Bororo Cabaçal	BLUE	aadi / aali	aali	aː l i	554	618	aː l i	BLUE	
-1130	Bororo Cabaçal	BRANDY	kala muru	kala muru	k a l a + m u ɾ u	556	620 621	k a l a + m u ɾ u	? ?	
-1162	Bororo Cabaçal	ONE	hoe	hoe	h oe	598	678	h oe	ONE	
-1223	Bororo Western (Castelnau)	ONE	couai	couai	tʃ ou ai	598	678	tʃ ou ai	ONE	
-1225	Bororo Western (Castelnau)	ONE	ouai	ouai	ou ai	598	678	ou ai	ONE	
+1121	BororoCabaçal	ARARA	ana hule	ana hule	a n a + h u l e	551	614 615	a n a + h u l e	? ?	
+1127	BororoCabaçal	BLUE	aadi / aali	aadi	aː d i	554	618	aː d i	BLUE	
+1128	BororoCabaçal	BLUE	aadi / aali	aali	aː l i	554	618	aː l i	BLUE	
+1130	BororoCabaçal	BRANDY	kala muru	kala muru	k a l a + m u ɾ u	556	620 621	k a l a + m u ɾ u	? ?	
+1162	BororoCabaçal	ONE	hoe	hoe	h oe	598	678	h oe	ONE	
+1223	BororoWestern(Castelnau)	ONE	couai	couai	tʃ ou ai	598	678	tʃ ou ai	ONE	
+1225	BororoWestern(Castelnau)	ONE	ouai	ouai	ou ai	598	678	ou ai	ONE	
 1243	Umutina	ONE	inukuruka	inukuruka	i n u k u r u k a	602	637	i n u k u r u k a	ONE	
 1245	Bororo	ONE	ia	ia	ia	598	678	ia	ONE	
-1163	Bororo Cabaçal	OX	gal	gal	g a l	574	643	g a l	OX	
-1164	Bororo Cabaçal	PIG	tuikhe	tuikhe	t ui + k h e	575	644 668	t ui + k h e	PIG ?	
-1210	Bororo Western (Castelnau)	PIG	toui	toui	t ou i	575	644	t ou i	PIG	
-1166	Bororo Cabaçal	QUICK	ana	ana	a n a	577	646	a n a	QUICK	
-1171	Bororo Cabaçal	SLOW	merirutscha	merirutscha	m e ɾ i ɾ u tʃ a	581	650	m e ɾ i ɾ u tʃ a	SLOW	
-1172	Bororo Cabaçal	SMOKE (TOBACCO)	oagu ho	oagu ho	oa g u + h o	582	651 652	oa g u + h o	BLOW MAKE	breathe' or 'puff a pipe'
+1163	BororoCabaçal	OX	gal	gal	g a l	574	643	g a l	OX	
+1164	BororoCabaçal	PIG	tuikhe	tuikhe	t ui + k h e	575	644 668	t ui + k h e	PIG ?	
+1210	BororoWestern(Castelnau)	PIG	toui	toui	t ou i	575	644	t ou i	PIG	
+1166	BororoCabaçal	QUICK	ana	ana	a n a	577	646	a n a	QUICK	
+1171	BororoCabaçal	SLOW	merirutscha	merirutscha	m e ɾ i ɾ u tʃ a	581	650	m e ɾ i ɾ u tʃ a	SLOW	
+1172	BororoCabaçal	SMOKE (TOBACCO)	oagu ho	oagu ho	oa g u + h o	582	651 652	oa g u + h o	BLOW MAKE	breathe' or 'puff a pipe'
 1301	Bororo	SMOKE (TOBACCO)	togwa to	togwa to	t o gʷ a + t o	582	651 652	t o gʷ a + t o	BLOW MAKE	
-1177	Bororo Cabaçal	THREE	gune	gune	g u n e	583	653	g u n e	THREE	
+1177	BororoCabaçal	THREE	gune	gune	g u n e	583	653	g u n e	THREE	
 1244	Umutina	THREE	puperika	puperika	p u p e + r i k a	573	164	p u p e + r i k a	TWO	
-1226	Bororo Cabaçal	CORN	geeta	geeta	g eː t a	601	680	g eː t a	CORN	
+1226	BororoCabaçal	CORN	geeta	geeta	g eː t a	601	680	g eː t a	CORN	
 1248	Umutina	EMU	pãri	pãri	p ã r i	604	642	p ã r i	EMU	
 1249	Bororo	EMU	pari	pari	p ã ɾ i	604	642	p ã ɾ i	EMU	
 1258	Bororo	SWEAT	karu	karu	k a r u	177	198	k a r u	SWEAT	
-1259	Bororo (Steinen)	SWEAT	boeru	boeru	b oe r u	605	669	b oe r u	SWEAT	
-1261	Bororo (Steinen)	LIP HOLE	nogwaboro	nogwaboro	n o gʷ a + b o r o	606	208 184	n o gʷ a + b o r o	LIP HOLE	
+1259	BororoSteinen	SWEAT	boeru	boeru	b oe r u	605	669	b oe r u	SWEAT	
+1261	BororoSteinen	LIP HOLE	nogwaboro	nogwaboro	n o gʷ a + b o r o	606	208 184	n o gʷ a + b o r o	LIP HOLE	
 1262	Bororo	LIP HOLE	okwaboro	okwaboro	o gʷ a + b o r o	606	208 184	o gʷ a + b o r o	LIP HOLE	
 1287	Umutina	RUN	ariti	ariti	a ɾ i t i	609	688	a ɾ i t i		
 1288	Bororo	RUN	rekody	rekody	r e k o d ɯ	610	328	r e k o d ɯ	RUN	
-1302	Bororo Cabaçal	DO OR MAKE	ho	ho	h o	612	585	h o	DO	
-1303	Bororo Cabaçal	DO OR MAKE	to	to	t o	612	585	t o	DO	
+1302	BororoCabaçal	DO OR MAKE	ho	ho	h o	612	585	h o	DO	
+1303	BororoCabaçal	DO OR MAKE	to	to	t o	612	585	t o	DO	
 1304	Umutina	DO OR MAKE	amati / atitito	amati	a m a t i	603	243	a m a t i	DO	
 1305	Umutina	DO OR MAKE	amati / atitito	atitito	a t i t i t o	612	585	a t i t i t o	DO	
