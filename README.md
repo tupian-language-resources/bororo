@@ -1,25 +1,4 @@
-# Lexical Database of the Bororoan family
-
-Language | Coverage|
----------|---------|
-Bororo | 340
- Bororo Cabaçal | 99
- Bororo Campanha | 83
- Bororo Western Castelnau | 48
- Bororo Steinen | 238
- Bororo São Lourenço | 19
- Kovareka | 15
- Kuruminaka | 13
- Otuke | 168
- Umutina | 277
-
-B-Cubed-Scores calculcated with [LingPy (List and Forkel 2021)](https://lingpy.org).
-
- B-Cubed-Scores | Cogid/Lextstat|
- ---------------|----------|
- Precision | 0.9814
- Recall | 0.7871 *
- F-Scores | 0.8736
+# Dataset Bororo
 
 --------------------------------------------------------------------------------
 
