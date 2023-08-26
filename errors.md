@@ -97,6 +97,11 @@
 * LANGUAGE Bororo Campanha
 * LANGUAGE Bororo São Lourenço
 * LANGUAGE Bororo Western (Castelnau)
+* LANGUAGE ID Bororo (Steinen)
+* LANGUAGE ID Bororo Cabaçal
+* LANGUAGE ID Bororo Campanha
+* LANGUAGE ID Bororo São Lourenco
+* LANGUAGE ID Bororo Western (Castelnau)
 * LENGTH: 1006 Bororo Campanha WATER
 * LENGTH: 1149 Bororo Cabaçal GOD
 * LENGTH: 1155 Bororo Cabaçal HOUSE
