@@ -1,4 +1,4 @@
-# Dataset bororo
+# Lexical Database of Bororoan
 
 ## How to cite
 
@@ -28,6 +28,12 @@ this dataset using the DOI of the [particular released version](../../releases/)
 - **Tokens:** 6,138
 - **Segments:** 86 (0 BIPA errors, 0 CLTS sound class errors, 86 CLTS modified)
 - **Inventory size (avg):** 35.00
+
+# Contributors
+
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 
 ## CLDF Datasets
 
