@@ -1,8 +1,12 @@
 # Lexical Database of Bororoan
 
+Lexical Database of [Bororoan](https://glottolog.org/resource/languoid/id/boro1281).
+
 The data for modern Bororo stems from the author's own fieldwork.
+
 The transcriptions for modern Bororo will improve in the next version. 
-There is dialectal variation in Bororo, so that the transcription of the data for modern Bororo in the database referes to the variety spoken in the Indigenous Land Meruri.
+
+There is dialectal variation in Bororo, so that the transcription of the data for modern Bororo in the database referes to the variety spoken in the Indigenous Land [Meruri](https://terrasindigenas.org.br).
 
 ## How to cite
 
