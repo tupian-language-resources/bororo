@@ -34,3 +34,9 @@ this dataset using the DOI of the [particular released version](../../releases/)
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+
+# Contributors
+
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector,cognacy assignment, co-lexifications, notes | Author |
