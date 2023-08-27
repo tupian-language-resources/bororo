@@ -11,32 +11,26 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ## Statistics
 
 
-![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
-![Concepticon: 86%](https://img.shields.io/badge/Concepticon-86%25-yellowgreen.svg "Concepticon: 86%")
+![Glottolog: 62%](https://img.shields.io/badge/Glottolog-62%25-orange.svg "Glottolog: 62%")
+![Concepticon: 87%](https://img.shields.io/badge/Concepticon-87%25-yellowgreen.svg "Concepticon: 87%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 5
-- **Concepts:** 281
-- **Lexemes:** 788
-- **Sources:** 9
-- **Synonymy:** 1.13
-- **Cognacy:** 892 cognates in 499 cognate sets (278 singletons)
-- **Cognate Diversity:** 0.43
+- **Varieties:** 10
+- **Concepts:** 341
+- **Lexemes:** 1,228
+- **Sources:** 12
+- **Synonymy:** 1.16
+- **Cognacy:** 1,418 cognates in 661 cognate sets (375 singletons)
+- **Cognate Diversity:** 0.36
 - **Invalid lexemes:** 0
-- **Tokens:** 3,998
-- **Segments:** 78 (0 BIPA errors, 0 CLTS sound class errors, 78 CLTS modified)
-- **Inventory size (avg):** 37.60
+- **Tokens:** 6,138
+- **Segments:** 86 (0 BIPA errors, 0 CLTS sound class errors, 86 CLTS modified)
+- **Inventory size (avg):** 35.00
 
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
-
-# Contributors
-
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
-Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector,cognacy assignment, co-lexifications, notes | Author |
