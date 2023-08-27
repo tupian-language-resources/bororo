@@ -1,5 +1,9 @@
 # Lexical Database of Bororoan
 
+The data for modern Bororo stems from the author's own fieldwork.
+The transcriptions for modern Bororo will improve in the next version. 
+There is dialectal variation in Bororo, so that the transcription of the data for modern Bororo in the database referes to the variety spoken in the Indigenous Land Meruri.
+
 ## How to cite
 
 If you use these data please cite
