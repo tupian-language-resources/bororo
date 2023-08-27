@@ -1,9 +1,11 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Ferraz Gerardi
-    given-names: Fabrício
-    orcid: https://orcid.org/0000-0002-1438-7336
-title: tupian-language-resources/bororo: v0.9
+- family-names: "Ferraz Gerardi"
+  given-names: "Fabrício"
+  orcid: "https://orcid.org/0000-0002-1438-7336"
+title: "Lexical Database of Bororoan"
 version: v0.9
-date-released: 2023-08-27
+doi: 
+date-released: 2017-12-18
+url: "https://github.com/tupian-language-resources/bororo"
