@@ -1,11 +1,11 @@
 {
-    "title": Lexical Database of Bororoan,
+    "title": "Lexical Database of Bororoan",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [Fabrício Ferraz Gerardi],
+    "creators": "Fabrício Ferraz Gerardi",
     "contributors": [],
     "communities": [
         {
