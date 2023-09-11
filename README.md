@@ -1,5 +1,7 @@
 # Lexical Database of Bororoan
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8334753.svg)](https://doi.org/10.5281/zenodo.8334753)
+
 Lexical Database of [Bororoan](https://glottolog.org/resource/languoid/id/boro1281).
 
 The data for modern Bororo stems from the author's own fieldwork.
