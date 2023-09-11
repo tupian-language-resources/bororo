@@ -6,7 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-1438-7336"
 title: "Lexical Database of Bororoan"
 version: v0.9
-doi: 
 date-released: 2023-09-11
 url: "https://github.com/tupian-language-resources/bororo"
 preferred-citation:
@@ -15,7 +14,6 @@ preferred-citation:
   - family-names: "Ferraz Gerardi"
     given-names: "Fabrício"
     orcid: "https://orcid.org/0000-0002-1438-7336"
-  doi: 
   title: "Lexical Database of Bororoan"
   year: 2023
   month: 09
