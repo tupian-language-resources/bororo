@@ -1,15 +1,26 @@
 {
-    "title": "Lexical Database of Bororoan",
-    "access_right": "open",
-    "keywords": [
-        "cldf:Wordlist",
-        "linguistics"
-    ],
-    "creators": "Fabrício Ferraz Gerardi",
-    "communities": [
-        {
-            "identifier": "lexibank"
-        }
-    ],
-    "upload_type": "dataset"
+  "title": "Lexical Database of Bororoan",
+  "access_right": "open",
+  "keywords": [
+    "cldf:Wordlist",
+    "linguistics"
+  ],
+  "creators": [
+    {
+      "affiliation": "Eberhard Karls Universität Tübingen",
+      "name": "Ferraz Gerardi, Fabrício",
+      "orcid": "0000-0002-1438-7336"
+    },
+    {
+      "affiliation": "Uppsala universitet",
+      "name": "Tresoldi, Tiago",
+      "orcid": "0000-0002-2863-1467"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "lexibank"
+    }
+  ],
+  "upload_type": "dataset"
 }
