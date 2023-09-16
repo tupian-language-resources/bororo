@@ -306,11 +306,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 174	Umutina	FLY SP.	otokuare / otokali	otokali	o t o k a l i	238	122	o t o k a l i	FLY_sp	None
 175	Bororo	FOOT	bɨre	bɨre	b ɨ r e	33	10	b ɨ r e	FOOT	None
 176	Umutina	FOOT	bure / ambure	bure	b u r e	33	10	b u r e	FOOT	None
-177	Umutina	FOOT	bure / ambure	ambure	a m/b u r e	33	10	a m/b u r e	FOOT	None
+177	Umutina	FOOT	bure / ambure	ambure	a mb u r e	33	10	a mb u r e	FOOT	None
 1024	Bororo Campanha	FOOT	itori	itori	t o r i	33	10	t o r i	FOOT	
-1063	Bororo Cabaçal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	"my" foot
+1063	Bororo Cabaçal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	'my' foot
 1076	Bororo Cabaçal	FOOT	igure / gule	gule	g u l e	33	10	g u l e	FOOT	
-1239	Bororo Western (Castelnau)	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	"my" foot
+1239	Bororo Western (Castelnau)	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	'my' foot
 1369	Bororo (Steinen)	FOOT	iure	iure	iu ɾ e	33	10	iu ɾ e	FOOT	
 178	Bororo	FOREST	itura	itura	i t u r a	94	2	i t u r a	WOOD	None
 180	Umutina	FOREST	iʃula	iʃula	i ʃ u l a	94	2	i ʃ u l a	WOOD	None
@@ -345,7 +345,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 198	Bororo	HAIR	ao	ao	ao	20	134	- - ao	HAIR	
 199	Umutina	HAIR	azo / azu	azo	a z o	20	134	a z o	HAIR	
 468	Otuke	HAIR	aho	aho	a h o	20	134	a h o	HAIR	
-974	Bororo Cabaçal	HAIR	ita	ita	a	20	134	- - a	HAIR	"my" hair
+974	Bororo Cabaçal	HAIR	ita	ita	a	20	134	- - a	HAIR	'my' hair
 1020	Bororo Campanha	HAIR	itau	itau	au	498	546	au	HAIR	
 1077	Bororo Cabaçal	HAIR	ae	ae	ae	20	134	- - ae	HAIR	
 1237	Bororo Western (Castelnau)	HAIR	itai	itai	t ai	20	134	- t ai	HAIR	”my” hair
@@ -437,7 +437,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1196	Bororo Western (Castelnau)	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
 1283	Bororo (Steinen)	MOON	ari	ari	a ɾ i	24	204	a ɾ i	MOON	
 257	Bororo	MOSQUITO	batʃe	batʃe	b a tʃ e	36	205	b a tʃ e	MOSQUITO	None
-258	Umutina	MOSQUITO	mbe / bai	mbe	m/b e	36	205	m/b e	MOSQUITO	None
+258	Umutina	MOSQUITO	mbe / bai	mbe	mb e	36	205	mb e	MOSQUITO	None
 259	Umutina	MOSQUITO	mbe / bai	bai	b ai	36	205	b ai	MOSQUITO	None
 260	Otuke	MOSQUITO	mase	mase	m a s e	36	205	m a s e	MOSQUITO	None
 1318	Bororo (Steinen)	MOSQUITO	mase	mase	m a s e	36	205	m a s e	MOSQUITO	
@@ -549,7 +549,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 327	Bororo	RATTLE	bapo	bapo	b a p o	3	239	b a p o	RATTLE	
 328	Umutina	RATTLE	bapo	bapo	b a p o	3	239	b a p o	RATTLE	
 329	Bororo	RATTLE MADE OF PECCARI NAILS	bɨto re	bɨto re	b ɨ t o + r e	49	240 241	b ɨ t o + r e	RATTLE ?	
-330	Umutina	RATTLE MADE OF PECCARI NAILS	mutombure	mutombure	m u t o + m/b u r e	49	240 241	m u t o + m/b u r e	RATTLE ?	
+330	Umutina	RATTLE MADE OF PECCARI NAILS	mutombure	mutombure	m u t o + mb u r e	49	240 241	m u t o + mb u r e	RATTLE ?	
 331	Bororo	RED HOWLER MONKEY	(pai) kujagu	kujagu	k u j a g u	118	242	k u j a g u	RED_HOWLER_MONKEY	
 332	Umutina	RED HOWLER MONKEY	kutʃaku	kutʃaku	k u tʃ a k u	118	242	k u tʃ a k u	RED_HOWLER_MONKEY	
 334	Umutina	HYACINTH MACAW	hujʃo / alapore	hujʃo	h u j ʃ o	120	431	h u j ʃ o	MACAW	
@@ -685,7 +685,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 977	Bororo Cabaçal	THIGH	igoda / gola	igoda	g o d a	546	573	g o d a	THIGH	
 1027	Bororo Campanha	THIGH	jobona	jobona	dʒ o b o n a	547	610	dʒ o b o n a	THIGH	
 1075	Bororo Cabaçal	THIGH	igoda / gola	gola	g o l a	546	573	g o l a	THIGH	
-1238	Bororo Western (Castelnau)	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	"my" flesh
+1238	Bororo Western (Castelnau)	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	'my' flesh
 1363	Bororo (Steinen)	THIGH	ipobona	ipobona	i p o b o + n a	60	170 172	i p o b o + n a	THIGH ?	
 1364	Bororo	THIGH	bopona / iviora	iviora	i v io r a	631	708	i v io r a	THIGH	
 406	Umutina	THROAT	ku(po)	ku	k u	113	169	k u	THROAT	None
@@ -803,7 +803,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 475	Otuke	TOOTH	o	o	o	242	152	o	TOOTH	
 476	Bororo	TOOTH	o	o	ɔ	242	152	ɔ	TOOTH	
 772	Umutina	TOOTH	akopo	akopo	a k o p ɔ	242	152	a k o p ɔ	TOOTH	
-975	Bororo Cabaçal	TOOTH	ito	ito	o	242	152	o	TOOTH	"my" tooth
+975	Bororo Cabaçal	TOOTH	ito	ito	o	242	152	o	TOOTH	'my' tooth
 1021	Bororo Campanha	TOOTH	ita	ita	a	242	152	a	TOOTH	Plural given
 1250	Bororo (Steinen)	TOOTH	o	o	o	242	152	o	TOOTH	
 477	Otuke	FINGER	iuna	iuna	j u n a	243	114	j u n a	FINGER	
@@ -1149,7 +1149,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 674	Umutina	HOT	amaru	amaru	a m a ɾ u	358	380	a m a ɾ u	HEAT	
 675	Bororo	HOT	urureu / boeru	boeru	b oe ɾ u	358	380	b oe ɾ u	HEAT	
 859	Bororo Campanha	HOT	baieru	baieru	b ai e ɾ u	358	380	b ai e ɾ u	HEAT	
-1029	Bororo Cabaçal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	"warm" given
+1029	Bororo Cabaçal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	'warm' given
 676	Umutina	COMB	putɨka	putɨka	p u t ɨ k a	359	381	p u t ɨ k a	COMB	
 677	Bororo	COMB	puduga	puduga	p u d u g a	359	381	p u d u g a	COMB	
 1534	Bororo (Steinen)	COMB	pudugu	pudugu	p u d u g u	359	381	p u d u g u	COMB	
