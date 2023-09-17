@@ -346,7 +346,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 198	Bororo	HAIR	ao	ao	ao	20	134	- - ao	HAIR	
 199	Umutina	HAIR	azo / azu	azo	a z o	20	134	a z o	HAIR	
 468	Otuke	HAIR	aho	aho	a h o	20	134	a h o	HAIR	
-974	BororoCabacal	HAIR	ita	ita	a	20	134	- - a	HAIR	"my" hair
+974	BororoCabacal	HAIR	ita	ita	a	20	134	- - a	HAIR	'my' hair
 1020	Bororo Campanha	HAIR	itau	itau	au	20	134	au	HAIR	
 1077	BororoCabacal	HAIR	ae	ae	ae	20	134	- - ae	HAIR	
 1237	Bororo WesternCastelnau	HAIR	itai	itai	t ai	20	134	- t ai	HAIR	”my” hair
@@ -686,7 +686,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 977	BororoCabacal	THIGH	igoda / gola	igoda	g o d a	546	573	g o d a	THIGH	
 1027	Bororo Campanha	THIGH	jobona	jobona	dʒ o b o n a	547	610	dʒ o b o n a	THIGH	
 1075	BororoCabacal	THIGH	igoda / gola	gola	g o l a	546	573	g o l a	THIGH	
-1238	Bororo WesternCastelnau	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	"my" flesh
+1238	Bororo WesternCastelnau	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	'my' flesh
 1363	BororoSteinen	THIGH	ipobona	ipobona	i p o b o + n a	60	170 172	i p o b o + n a	THIGH ?	
 1364	Bororo	THIGH	bopona / iviora	iviora	i v io r a	631	708	i v io r a	THIGH	
 406	Umutina	THROAT	ku(po)	ku	k u	113	169	k u	THROAT	None
@@ -804,7 +804,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 475	Otuke	TOOTH	o	o	o	242	152	o	TOOTH	
 476	Bororo	TOOTH	o	o	ɔ	242	152	ɔ	TOOTH	
 772	Umutina	TOOTH	akopo	akopo	a k o p ɔ	242	152	a k o p ɔ	TOOTH	
-975	BororoCabacal	TOOTH	ito	ito	o	242	152	o	TOOTH	"my" tooth
+975	BororoCabacal	TOOTH	ito	ito	o	242	152	o	TOOTH	'my' tooth
 1021	Bororo Campanha	TOOTH	ita	ita	a	242	152	a	TOOTH	Plural given
 1250	BororoSteinen	TOOTH	o	o	o	242	152	o	TOOTH	
 477	Otuke	FINGER	iuna	iuna	j u n a	243	114	j u n a	FINGER	
@@ -1150,7 +1150,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 674	Umutina	HOT	amaru	amaru	a m a ɾ u	358	380	a m a ɾ u	HEAT	
 675	Bororo	HOT	urureu / boeru	boeru	b oe ɾ u	358	380	b oe ɾ u	HEAT	
 859	Bororo Campanha	HOT	baieru	baieru	b ai e ɾ u	358	380	b ai e ɾ u	HEAT	
-1029	BororoCabacal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	"warm" given
+1029	BororoCabacal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	'warm' given
 676	Umutina	COMB	putɨka	putɨka	p u t ɨ k a	359	381	p u t ɨ k a	COMB	
 677	Bororo	COMB	puduga	puduga	p u d u g a	359	381	p u d u g a	COMB	
 1534	BororoSteinen	COMB	pudugu	pudugu	p u d u g u	359	381	p u d u g u	COMB	
