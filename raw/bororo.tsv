@@ -239,13 +239,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1232	Bororo WesternCastelnau	EAT	omaigo	omaigo	o m ai + g o	112	671 107	o m ai + g o	? EAT	
 137	Bororo	EGG	ba	ba	b a	35	108	b a	EGG	None
 138	Umutina	EGG	ba	ba	b a	35	108	b a	EGG	None
-565	Otuke	EGG	huaha	huaha	h ua h a	217	297	h ua h a	EGG	
-949	BororoCabacal	EGG	kotanaga / aga	kotanaga	k o t a n a g a	485	524	k o t a n a g a	EGG	
+565	Otuke	EGG	huaha	huaha	h ua h a	217	524	h ua h a	EGG	
+949	BororoCabacal	EGG	kotanaga / aga	kotanaga	k o t a n a g a	217	524	k o t a n a g a	EGG	
 1140	BororoCabacal	EGG	kotanaga / aga	aga	a g a	217	524	- a g a	EGG	
-140	Bororo	ELBOW	piora	piora	p io r a	66	109	p io r a - -	ELBOW	
+140	Bororo	ELBOW	piora / pio	piora	p io + r a	66	109 56	p io + r a	ELBOW BONE	
 473	Otuke	ELBOW	kiarato	kiarato	k ia r a t o	66	109	k ia r a t o	ELBOW	
 711	Umutina	ELBOW	ataka	ataka	a t a k a	386	408	a t a k a - -	ELBOW	
 1359	BororoSteinen	ELBOW	itagara	itagara	i t a g a ɾ a	386	408	i t a g a ɾ a	ELBOW	
+1610	Bororo	ELBOW	piora / pio	pio	p io	66	109	p io	ELBOW	
 141	Bororo	FACE	dʒe	dʒe	dʒ e	9	110	- dʒ e -	FACE	None
 142	Otuke	FACE	tʃe	tʃe	tʃ e	9	110	- tʃ e -	FACE	None
 143	Umutina	FACE	azeʔ	azeʔ	a z e	9	110	a z e	FACE	None
@@ -258,21 +259,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 149	Umutina	FIELD	boku	boku	b o k u	58	113	b o k u	FIELD	
 150	Bororo	FINGERNAIL	inogi	inogi	i n o g i	87	115	i - - n o - g i	FINGERNAIL	
 151	Umutina	FINGERNAIL	hino	hino	h i n o	87	115	- h i n o - - -	FINGERNAIL	
-633	Otuke	FINGERNAIL	reki	reki	r e k i	324	343	r e k i	FINGERNAIL	
+633	Otuke	FINGERNAIL	reki	reki	ɾ e k i	324	343	ɾ e k i	FINGERNAIL	
 820	Bororo Campanha	FINGERNAIL	enege	enege	e n e g e	87	115	e - - n e - g e	FINGERNAIL	
 920	BororoCabacal	FINGERNAIL	tʃeraoete / turdu tima	tʃeraoete	tʃ e ɾ ao e t e	486	525	tʃ e ɾ ao e t e	FINGERNAIL	Plural given
 1144	BororoCabacal	FINGERNAIL	tʃeraoete / turdu tima	turdu tima	t u ɾ d u + t i m a	563	629 681	t u ɾ d u + t i m a	? ?	Plural given
 1362	BororoSteinen	FINGERNAIL	ikinage	ikinage	i k i n a + g e	87	115 713	i k i n a + g e	FINGER NAIL	
-152	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	dʒoru	dʒ o r u	74	116	dʒ o r u - - - -	FIRE	
-153	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	eru	e r u	74	116	- e r u - - - -	FIRE	
-154	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	oru	o r u	74	116	- o r u - - - -	FIRE	
-155	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	ru	r u	74	116	- - r u - - - -	FIRE	
-156	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	rugadu	r u g a d u	74	116	- - r u g a d u	FIRE	
+152	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	dʒoru	dʒ o ɾ u	74	116	dʒ o ɾ u - - - -	FIRE	
+153	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	eru	e ɾ u	74	116	- e ɾ u - - - -	FIRE	
+154	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	oru	o ɾ u	74	116	- o ɾ u - - - -	FIRE	
+155	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	ru	ɾ u	74	116	- - ɾ u - - - -	FIRE	
+156	Bororo	FIRE	dʒoru / eru / oru / ru / rugadu / eru / oru	rugadu	ɾ u g a d u	74	116	- - ɾ u g a d u	FIRE	
 157	Otuke	FIRE	reru	reru	r e r u	74	116	r e r u - - - -	FIRE	None
 158	Umutina	FIRE	zoru	zoru	z o r u	74	116	z o r u - - - -	FIRE	
-846	Bororo Campanha	FIRE	dʒoru	dʒoru	dʒ o r u	74	116	dʒ o r u - - - -	FIRE	
+846	Bororo Campanha	FIRE	dʒoru	dʒoru	dʒ o ɾ u	74	116	dʒ o ɾ u - - - -	FIRE	
 933	BororoCabacal	FIRE	toru / toldu	toru	t o ɾ u	74	116	t o ɾ u - - - -	FIRE	
-1003	Bororo Campanha	FIRE	dschorugu	dschorugu	dʒ o r u + g u	74	116 534	dʒ o r u + - g u	FIRE COLOR	
+1003	Bororo Campanha	FIRE	dschorugu	dschorugu	dʒ o ɾ u + g u	74	116 534	dʒ o ɾ u + - g u	FIRE COLOR	
 1145	BororoCabacal	FIRE	toru / toldu	toldu	t o l d u	74	116	t o l d - - - u	FIRE	
 1229	Bororo WesternCastelnau	FIRE	tolu	tolu	t o l u	74	116	t o l u - - - -	FIRE	
 1295	BororoSteinen	FIRE	joro	joro	j o ɾ o	74	116	j o ɾ o - - - -	FIRE	
@@ -297,20 +298,20 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 168	Bororo	FLOWER	ku / kʷo / oku / okureboe	okureboe	o k u r e b oe	117	121	o k u r e b oe	FLOWER	
 169	Umutina	FLOWER	iku	iku	i k u	117	121	i k u	FLOWER	
 496	Otuke	FLOWER	rikihu	rikihu	r i k i h u	117	121	r i k i h u	FLOWER	
-170	Otuke	FLY (INSECT)	ruka	ruka	r u k a	238	122	r u k a	FLY_sp	None
-171	Bororo	FLY (INSECT)	ruke	ruke	r u k e	238	122	r u k e	FLY_sp	
-712	Umutina	FLY (INSECT)	urube	urube	u r u b e	387	409	u r u b e	FLY_sp	
+170	Otuke	FLY (INSECT)	ruka	ruka	ɾ u k a	238	122	ɾ u k a	FLY_sp	None
+171	Bororo	FLY (INSECT)	ruke	ruke	ɾ u k e	238	122	ɾ u k e	FLY_sp	
+712	Umutina	FLY (INSECT)	urube	urube	u ɾ u b e	387	409	u ɾ u b e	FLY_sp	
 1320	BororoSteinen	FLY (INSECT)	ruke	ruke	ɾ u k e	238	122	ɾ u k e	FLY_sp	
-172	Bororo	FLY SP.	toguare	toguare	t o g ua r e	238	122	t o g ua r e	FLY_sp	None
-173	Umutina	FLY SP.	otokuare / otokali	otokuare	o t o k ua r e	238	122	o t o k ua r e	FLY_sp	None
+172	Bororo	FLY SP.	toguare	toguare	t o g ua ɾ e	238	122	t o g ua ɾ e	FLY_sp	None
+173	Umutina	FLY SP.	otokuare / otokali	otokuare	o t o k ua ɾ e	238	122	o t o k ua ɾ e	FLY_sp	None
 174	Umutina	FLY SP.	otokuare / otokali	otokali	o t o k a l i	238	122	o t o k a l i	FLY_sp	None
-175	Bororo	FOOT	bɨre	bɨre	b ɨ r e	33	10	b ɨ r e	FOOT	None
-176	Umutina	FOOT	bure / ambure	bure	b u r e	33	10	b u r e	FOOT	None
-177	Umutina	FOOT	bure / ambure	ambure	a mb u r e	33	10	a mb u r e	FOOT	None
-1024	Bororo Campanha	FOOT	itori	itori	t o r i	33	10	t o r i	FOOT	
-1063	BororoCabacal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	'my' foot
+175	Bororo	FOOT	bɨre	bɨre	b ɨ ɾ e	33	10	b ɨ ɾ e	FOOT	None
+176	Umutina	FOOT	bure / ambure	bure	b u ɾ e	33	10	b u ɾ e	FOOT	None
+177	Umutina	FOOT	bure / ambure	ambure	a mb u ɾ e	33	10	a mb u ɾ e	FOOT	None
+1024	Bororo Campanha	FOOT	itori	itori	t o ɾ i	33	10	t o ɾ i	FOOT	
+1063	BororoCabacal	FOOT	igure / gule	igure	g u ɾ e	33	10	g u ɾ e	FOOT	"my" foot
 1076	BororoCabacal	FOOT	igure / gule	gule	g u l e	33	10	g u l e	FOOT	
-1239	Bororo WesternCastelnau	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	'my' foot
+1239	Bororo WesternCastelnau	FOOT	igoulai	igoulai	i g ou l ai	33	10	i g ou l ai	FOOT	"my" foot
 1369	BororoSteinen	FOOT	iure	iure	iu ɾ e	33	10	iu ɾ e	FOOT	
 178	Bororo	FOREST	itura	itura	i t u r a	94	2	i t u r a	WOOD	None
 180	Umutina	FOREST	iʃula	iʃula	i ʃ u l a	94	2	i ʃ u l a	WOOD	None
@@ -321,16 +322,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 182	Otuke	FOX	oka	oka	o k a	54	124	o k a	FOX	None
 183	Umutina	FOX	akakonoʔ	akakonoʔ	a k a + k o n o	54	124	a k a + k o n o	FOX	None
 1544	BororoSteinen	FOX	rapore	rapore	ɾ a p o ɾ e	759	839	ɾ a p o ɾ e	FOX	
-184	Bororo	FROG	ru	ru	r u	165	13	r u	FROG	None
-185	Otuke	FROG	hʷaraka	hʷaraka	hʷ a r a k a	237	125	hʷ a r a k a	FROG	None
-186	Umutina	FROG	balaru / du / ru	balaru	b a l a r u	165	13	b a l a r u	FROG	None
+184	Bororo	FROG	ru	ru	ɾ u	165	13	ɾ u	FROG	None
+185	Otuke	FROG	hʷaraka	hʷaraka	hʷ a ɾ a k a	237	125	hʷ a ɾ a k a	FROG	None
+186	Umutina	FROG	balaru / du / ru	balaru	b a l a ɾ u	165	13	b a l a ɾ u	FROG	None
 187	Umutina	FROG	balaru / du / ru	du	d u	165	13	d u	FROG	None
-188	Umutina	FROG	balaru / du / ru	ru	r u	165	13	r u	FROG	None
+188	Umutina	FROG	balaru / du / ru	ru	ɾ u	165	13	ɾ u	FROG	None
 1490	BororoSteinen	FROG	ru	ru	ɾ u	706	788	ɾ u	TOAD	
 189	Umutina	GENIPA	bei	bei	b ei	51	14	b ei	GENIPA	
 713	Bororo	GENIPA	bie	bie	b ie	51	14	b ie	GENIPA	
-190	Bororo	GILDED CATFISH	poru	poru	p o r u	158	15	p o r u	GILDED_CATFISH	
-191	Umutina	GILDED CATFISH	poru	poru	p o r u	158	15	p o r u	GILDED_CATFISH	
+190	Bororo	GILDED CATFISH	poru	poru	p o ɾ u	158	15	p o ɾ u	GILDED_CATFISH	
+191	Umutina	GILDED CATFISH	poru	poru	p o ɾ u	158	15	p o ɾ u	GILDED_CATFISH	
 192	Bororo	GOOD	pemega	pemega	p e m e g a	16	128	p e m e g a	GOOD	
 193	Umutina	GOOD	emaka	emaka	e m a k a	16	128	- e m a k a	GOOD	
 458	Kovareka	GOOD	emaka	emaka	e m a k a	16	128	- e m a k a	GOOD	
@@ -345,12 +346,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 198	Bororo	HAIR	ao	ao	ao	20	134	- - ao	HAIR	
 199	Umutina	HAIR	azo / azu	azo	a z o	20	134	a z o	HAIR	
 468	Otuke	HAIR	aho	aho	a h o	20	134	a h o	HAIR	
-974	BororoCabacal	HAIR	ita	ita	a	20	134	- - a	HAIR	'my' hair
-1020	Bororo Campanha	HAIR	itau	itau	au	498	546	au	HAIR	
+974	BororoCabacal	HAIR	ita	ita	a	20	134	- - a	HAIR	"my" hair
+1020	Bororo Campanha	HAIR	itau	itau	au	20	134	au	HAIR	
 1077	BororoCabacal	HAIR	ae	ae	ae	20	134	- - ae	HAIR	
 1237	Bororo WesternCastelnau	HAIR	itai	itai	t ai	20	134	- t ai	HAIR	”my” hair
 201	Bororo	HAMMOCK	buke	buke	b u k e	42	135	b u k e	HAMMOCK	
-202	Umutina	HAMMOCK	bukye	bukye	b u k ye	42	135	b u k ye	HAMMOCK	
+202	Umutina	HAMMOCK	bukye	bukye	b u k j e	42	135	b u k j e	HAMMOCK	
 1439	BororoSteinen	HAMMOCK	kuga	kuga	k u g a	42	135	k u g a	HAMMOCK	
 203	Bororo	HEART	bapo	bapo	b a p o	40	76	b a p o	HEART	
 204	Umutina	HEART	wapo	wapo	w a p o	40	76	w a p o	HEART	
@@ -685,7 +686,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 977	BororoCabacal	THIGH	igoda / gola	igoda	g o d a	546	573	g o d a	THIGH	
 1027	Bororo Campanha	THIGH	jobona	jobona	dʒ o b o n a	547	610	dʒ o b o n a	THIGH	
 1075	BororoCabacal	THIGH	igoda / gola	gola	g o l a	546	573	g o l a	THIGH	
-1238	Bororo WesternCastelnau	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	'my' flesh
+1238	Bororo WesternCastelnau	THIGH	igora	igora	i g o r a	546	573	i g o r a	THIGH	"my" flesh
 1363	BororoSteinen	THIGH	ipobona	ipobona	i p o b o + n a	60	170 172	i p o b o + n a	THIGH ?	
 1364	Bororo	THIGH	bopona / iviora	iviora	i v io r a	631	708	i v io r a	THIGH	
 406	Umutina	THROAT	ku(po)	ku	k u	113	169	k u	THROAT	None
@@ -803,7 +804,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 475	Otuke	TOOTH	o	o	o	242	152	o	TOOTH	
 476	Bororo	TOOTH	o	o	ɔ	242	152	ɔ	TOOTH	
 772	Umutina	TOOTH	akopo	akopo	a k o p ɔ	242	152	a k o p ɔ	TOOTH	
-975	BororoCabacal	TOOTH	ito	ito	o	242	152	o	TOOTH	'my' tooth
+975	BororoCabacal	TOOTH	ito	ito	o	242	152	o	TOOTH	"my" tooth
 1021	Bororo Campanha	TOOTH	ita	ita	a	242	152	a	TOOTH	Plural given
 1250	BororoSteinen	TOOTH	o	o	o	242	152	o	TOOTH	
 477	Otuke	FINGER	iuna	iuna	j u n a	243	114	j u n a	FINGER	
@@ -1149,7 +1150,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 674	Umutina	HOT	amaru	amaru	a m a ɾ u	358	380	a m a ɾ u	HEAT	
 675	Bororo	HOT	urureu / boeru	boeru	b oe ɾ u	358	380	b oe ɾ u	HEAT	
 859	Bororo Campanha	HOT	baieru	baieru	b ai e ɾ u	358	380	b ai e ɾ u	HEAT	
-1029	BororoCabacal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	'warm' given
+1029	BororoCabacal	HOT	boelo	boelo	b oe l o	358	380	b oe l o	HEAT	"warm" given
 676	Umutina	COMB	putɨka	putɨka	p u t ɨ k a	359	381	p u t ɨ k a	COMB	
 677	Bororo	COMB	puduga	puduga	p u d u g a	359	381	p u d u g a	COMB	
 1534	BororoSteinen	COMB	pudugu	pudugu	p u d u g u	359	381	p u d u g u	COMB	
@@ -1398,9 +1399,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1386	BororoSteinen	COUSIN	ivie	ivie	i v ie	644	719	i v ie	YOUNGER_BROTHER	
 1390	BororoSteinen	BACHELOR	toado	toado	t oa d o	647	722	t oa d o	BACHELOR	
 1391	BororoSteinen	VIRGO	toado	toado	t oa d o	648	722	t oa d o	BACHELOR	
-1392	BororoSteinen	WIDOWER	iugotse	iugotse	iu g o ts e	649	723	iu g o ts e	WIDOWER	
 1393	BororoSteinen	WIDOW	iugotse	iugotse	iu g o ts e	650	723	iu g o ts e	WIDOWER	
-1398	BororoSteinen	GIRL	aredo	aredo	a ɾ e + d o	652	726 725	a ɾ e + d o	GIRL ?	
+1609	Bororo	WIDOW	koadur	koadu	k oa d u	445	667	k oa d u	WIDOWER	The root means 'clean, withou body ornaments'
+1398	BororoSteinen	GIRL	aredo	aredo	a ɾ e d o	652	726	a ɾ e d o	GIRL	
 1399	BororoSteinen	HUNTER CREW	aroe	aroe	a ɾ oe	653	727	a ɾ oe	HUNTER_CREW	
 1402	BororoSteinen	DOCTOR (MASCULINE)	bari / aroe-tauarari	bari	b a ɾ i	654	728	b a ɾ i	DOCTOR_(MASCULINE)	
 1403	BororoSteinen	DOCTOR (MASCULINE)	bari / aroe-tauarari	aroe-tauarari	a ɾ oe + t au a ɾ a ɾ i	655	729 730	a ɾ oe + t au a ɾ a ɾ i	DOCTOR_(MASCULINE)	
@@ -1410,7 +1411,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1410	BororoSteinen	ARROW HARPOON	kuya	kuya	k ui a	659	734	k ui a	HARPOON	Used for fishing
 1498	Bororo	ARROW HARPOON	kuia	kuia	k ui a	659	734	k ui a	HARPOON	Used for fishing
 1411	BororoSteinen	ARROW BLUNT TIP	todobare	todobare	t o d o b a ɾ e	660	472	t o d o b a ɾ e	ARROW	
-1499	Bororo	ARROW BLUNT TIP	todobare	todobare	t o d o b a r e	660	472	t o d o b a r e	ARROW	
+1499	Bororo	ARROW BLUNT TIP	todobare	todobare	t o d o b a ɾ e	660	472	t o d o b a ɾ e	ARROW	
 1413	BororoSteinen	CANOE	ika	ika	i k a	661	737	i k a	CANOE	
 1507	Umutina	CANOE	zeki	zeki	z e j k i	232	306	z e j k i	CANOE	
 1508	Bororo	CANOE	ika	ika	i k a	661	737	i k a	CANOE	
@@ -1436,25 +1437,28 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1438	BororoSteinen	MEN'S HOUSE	baito	baito	b ai + t o	679	97 27	b ai + t o	HOUSE ?	
 1440	BororoSteinen	SLEEPING MAT	koto	koto	k o + t o	680	756 757	k o + t o	? MAT	
 1441	BororoSteinen	MAT	kekiko	kekiko	k e k i + k o	681	758 757	k e k i + k o	? MAT	
-1444	BororoSteinen	PORCUPINE	i-we	i-we	i + w e	682	759 760	i + w e	? ?	
+1444	BororoSteinen	PORCUPINE	i-we	i-we	i w e	682	759	i w e	HEDGEHOG	
+1608	Bororo	PORCUPINE	iwe	iwe	i w e	682	759	i w e	HEDGEHOG	
 1445	BororoSteinen	BIG ANTEATER	buke	buke	b u k e	683	761	b u k e	BIG_ANTEATER	
+1607	Bororo	BIG ANTEATER	buke	buke	b u k e	683	761	b u k e	BIG_ANTEATER	
 1447	BororoSteinen	KAMPREH	orogu	orogu	o ɾ o g u	684	762	o ɾ o g u	KAMPREH	
 1448	BororoSteinen	WHALE SPIN	poboga	poboga	p o b o g a	685	763	p o b o g a	WHALE_SPIN	
 1456	BororoSteinen	DONKEY	buro	buro	b u ɾ o	689	732	b u ɾ o	DONKEY	
 1460	BororoSteinen	YELLOW-CHEST MACAW	kuido	kuido	k ui d o	408	431	k ui d o	MACAW	
-1462	BororoSteinen	PERIQUITO	kida	kida	k i d a	234	770	k i d a	PERIQUITO	
+1462	BororoSteinen	PERIQUITO	kida	kida	k i d a	234	770	k i d a	PARAKEET	
+1606	Bororo	PERIQUITO	kido	kido	k i d o	234	770	k i d o	PARAKEET	
 1464	BororoSteinen	KING VULTURE	bai	bai	b ai	690	187	b ai	KING_VULTURE	
 1465	BororoSteinen	FALSE	kuruguga / baruge	kuruguga	k u ɾ u g u g a	691	771	k u ɾ u g u g a	FALSE	
 1466	BororoSteinen	FALSE	kuruguga / baruge	baruge	b a ɾ u g e	691	772	b a ɾ u g e	FALSE	
 1467	BororoSteinen	JAPÚ	tsuavo	tsuavo	ts ua v o	692	773	ts ua v o	JAPÚ	
-1468	BororoSteinen	IBIYAU	petuguya	petuguya	p e t u g u y a	693	774	p e t u g u y a	IBIYAU	
+1468	BororoSteinen	IBIYAU	petuguya	petuguya	p e t u g u j a	693	774	p e t u g u j a	IBIYAU	
 1470	BororoSteinen	YOHO	kuo	kuo	k uo	694	775	k uo	YOHO	
 1471	BororoSteinen	PARTRIDGE	parikiogodo / luodo	parikiogodo	p a ɾ i k io g o d o	695	776	p a ɾ i k io g o d o	PARTRIDGE	
 1472	BororoSteinen	PARTRIDGE	parikiogodo / luodo	luodo	l uo d o	696	777	l uo d o	PARTRIDGE	
 1474	BororoSteinen	JACUTINGA (Penelope jacutinga)	parigogo	parigogo	p a ɾ i g o g o	697	778	p a ɾ i g o g o	YAKUTINGA	
 1505	Bororo	JACUTINGA (Penelope jacutinga)	parigogo	parigogo	p a ɾ i g o g o	697	778	p a ɾ i g o g o	YAKUTINGA	
 1475	BororoSteinen	GUESS	kudye	kudye	k u d i e	699	780	k u d i e	GUESS	
-1504	Bororo	GUESS	pawyje	pawyje	p a w ɨ dʒ e	699	780	p a w ɨ dʒ e	GUESS	
+1504	Bororo	GUESS	pawyje	pawyje	p a w ɨ dʒ e	699	780	p a w ɨ dʒ e	GUESS	Also means 'understand, discover'
 1478	BororoSteinen	SERIEMA (Cariama cristata)	bau	bau	b a u	700	781	b a u	SERIEMA	
 1503	Bororo	SERIEMA (Cariama cristata)	beo	beo	b eo	700	781	b eo	SERIEMA	
 1479	BororoSteinen	GULL	tayama	tayama	t a j a m a	701	783	t a j  a m a	GULL	
@@ -1466,7 +1470,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1509	BororoSteinen	BIRD TAIL	aiyega / eaja	aiyega	ai j e g a	756	836	ai j e g a	BIRD_TAIL	
 1510	BororoSteinen	BIRD TAIL	aiyega / eaja	eaja	ea j a	756	836	ea j a	BIRD_TAIL	
 1600	Bororo	BIRD TAIL	aiaga	aiaga	ai a g a	756	836	ai a g a	BIRD_TAIL	
-1511	BororoSteinen	CLAW	buregi	buregi	b u ɾ e g i	755	835	b u ɾ e g i	CLAW	
+1511	BororoSteinen	CLAW	buregi	buregi	b u ɾ e + g i	755	10 452	b u ɾ e + g i	FOOT TIP	
 1599	Bororo	CLAW	buregi	buregi	b u ɾ e + g i	755	10 452	b u ɾ e + g i	FOOT TIP	
 1513	BororoSteinen	ESOPHAGUS	ruo	ruo	ɾ u o	747	825	ɾ u o	ESOPHAGUS	
 1514	BororoSteinen	LUNG	bari	bari	b a ɾ i	746	824	b a ɾ i	LUNG	
@@ -1497,14 +1501,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1583	Bororo	NEW MOON	ariruto	ariruto	a ɾ i + ɾ u t o	738	204 816	a ɾ i + ɾ u t o	MOON RISE	
 1584	Umutina	NEW MOON	hariru	hariru	h a ɾ i + ɾ u	738	204 816	h a ɾ i + ɾ u	MOON RISE	
 1523	BororoSteinen	GALAXY	kuiedʒe eragudo	kuiedʒe eragudo	k u j e dʒ e + e ɾ a g u d o	737	147 600	k u j e dʒ e + e ɾ a g u d o	STAR RADIANCE	
-1585	Bororo	GALAXY	kuiejedoge erugudu	kuiejedoge erugudu	k ui e j e d o g e + e r u g u d u	737	147 600	k ui e j e d o g e + e r u g u d u	STAR RADIANCE	
+1585	Bororo	GALAXY	kuiejedoge erugudu	kuiejedoge erugudu	k ui e j e + d o g e + e ɾ u g u d u	737	147 469 600	k ui e j e + d o g e + e ɾ u g u d u	STAR PLURAL RADIANCE	
 1524	BororoSteinen	CLOUD	boetugo	boetugo	b oe + t u g o	139	470 683	b oe + t u g o	THING SHADOW	
 1581	Bororo	CLOUD	boetugo	boetugo	b oe + t u g o	139	470 683	b oe + t u g o	THING SHADOW	
 1582	Umutina	CLOUD	baroto	baroto	b a ɾ o t o	736	120	b a ɾ o t o	SKY	
 1528	BororoSteinen	GRAVEL	tariguro	tariguro	t a ɾ i + g u ɾ o	735	179 815	t a ɾ i + g u ɾ o	STONE BIG	
 1580	Bororo	GRAVEL	toriguro	toriguro	t o ɾ i + g u ɾ o	735	179 814	t o ɾ i + g u ɾ o	STONE BIG	
-1529	BororoSteinen	STOOL	ira	ira	i + r a	731	167 810	i + r a	WOOD BOARD	
-1576	Bororo	STOOL	ira	ira	i + r a	731	167 810	i + r a	WOOD BOARD	
+1529	BororoSteinen	STOOL	ira	ira	i + ɾ a	731	167 810	i + ɾ a	WOOD BOARD	
+1576	Bororo	STOOL	ira	ira	i + ɾ a	731	167 810	i + ɾ a	WOOD BOARD	
 1533	BororoSteinen	SPINDLE	otora	otora	o t o ɾ a	729	808	o t o ɾ a	SPINDLE	
 1575	Bororo	SPINDLE	akigu epa	akigu epa	a k i g u + e p a	730	88 809	a k i g u + e p a	COTTON INSTRUMENT	
 1579	Umutina	SPINDLE	halaka	halaka	h a l a k a	734	813	h a l a k a	SPINDLE	
@@ -1513,7 +1517,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1571	Bororo	TATTOO	atygä / kuruca	atygä	b i ɾ i + a t ɯ g ʌ	725	359 557	b i ɾ i + a t ɯ g ʌ	SKIN PAINT	
 1574	Bororo	TATTOO	atygä / kuruca	kuruca	k u r u tʃ a	724	804	k u r u tʃ a	SIGN	
 1537	Bororo	BEAD	boura	boura	b ou ɾ a	722	802	b ou ɾ a	BEAD	plural given
-1569	BororoSteinen	BEAD	boura	boura	b ou r a	723	803	b ou r a	BEAD	also bora
+1569	BororoSteinen	BEAD	boura	boura	b ou ɾ a	723	803	b ou ɾ a	BEAD	also bora
 1538	BororoSteinen	FLUTE	ika	ika	i k a	718	797	i k a	FLUTE	
 1564	Umutina	FLUTE	manixu / zaɾinimbukwa / katapθe	manixu	m a n i ʃ u	717	798	m a n i ʃ u	FLUTE	Buriti flute
 1565	Umutina	FLUTE	manixu / zaɾinimbukwa / katapθe	zaɾinimbukwa	z a ɾ i n i m b u kʷ a	719	799	z a ɾ i n i m b u kʷ a	FLUTE	big flute
@@ -1525,4 +1529,4 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE
 1577	Umutina	BEEWAX	pse	pse	p s e	732	811	p s e	WAX	
 1554	BororoSteinen	PEPPER	kumara	kumara	k u m a ɾ a	708	736	k u m a ɾ a	PEPPER	
 1555	Umutina	PEPPER	bodɔkwa	bodɔkwa	b o d ɔ kʷ a	709	779	b o d ɔ kʷ a	PEPPER	
-1556	Bororo	PEPPER	kumara	kumara	k u m a r a	708	736	k u m a r a	PEPPER	
+1556	Bororo	PEPPER	kumara	kumara	k u m a ɾ a	708	736	k u m a ɾ a	PEPPER	
