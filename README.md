@@ -1,10 +1,6 @@
-# LeDaBo (Lexical Database of Bororoan)
+# LeDaBo ([Bororoan](https://glottolog.org/resource/languoid/id/boro1281))
 
 The Lexical Database of Bororoan comprises lexical data from 10 doculects, including various known forms of Bororoan and languages that are known to be genetically related. This comprehensive database includes manually assigned simple and partial cognates, colexifications, as well as valuable notes. It adheres to the standardized CLDF format, facilitating easy sharing and accessibility. The database encompasses a wide range of concepts, including the well-known Swadesh List, culturally relevant items, and species of fauna and flora.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8334753.svg)](https://doi.org/10.5281/zenodo.8334753)
-
-Lexical Database of [Bororoan](https://glottolog.org/resource/languoid/id/boro1281).
 
 The data for modern Bororo stems from the author's own fieldwork.
 
@@ -12,12 +8,18 @@ The transcriptions for modern Bororo will improve in the next version.
 
 There is dialectal variation in Bororo, so that the transcription of the data for modern Bororo in the database referes to the variety spoken in the Indigenous Land [Meruri](https://terrasindigenas.org.br).
 
+
+
+
+
+
+
 ## How to cite
 
 If you use these data please cite
 this dataset using the DOI of the [particular released version](../../releases/) you were using.
 
-## Description
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8334753.svg)](https://doi.org/10.5281/zenodo.8334753)
 
 
 ## Statistics
