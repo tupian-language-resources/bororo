@@ -1,4 +1,6 @@
-# Lexical Database of Bororoan
+# LeDaBo (Lexical Database of Bororoan)
+
+The Lexical Database of Bororoan comprises lexical data from 10 doculects, including various known forms of Bororoan and languages that are known to be genetically related. This comprehensive database includes manually assigned simple and partial cognates, colexifications, as well as valuable notes. It adheres to the standardized CLDF format, facilitating easy sharing and accessibility. The database encompasses a wide range of concepts, including the well-known Swadesh List, culturally relevant items, and species of fauna and flora.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8334753.svg)](https://doi.org/10.5281/zenodo.8334753)
 
