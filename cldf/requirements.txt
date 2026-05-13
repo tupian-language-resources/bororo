@@ -17,7 +17,7 @@ isodate==0.6.1
 joblib==1.2.0
 jsonschema==4.16.0
 lingpy==2.6.9
-lxml==4.9.1
+lxml==6.1.0
 Markdown==3.4.1
 nameparser==1.1.1
 networkx==2.8.7
